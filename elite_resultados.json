@@ -3,90 +3,108 @@
   "nombre": "Broadcom Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 381.935,
-  "market_cap": 1817086394368,
+  "precio": 381.34,
+  "market_cap": 1814255632384,
   "score": 98,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 47.9%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 85.4%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 49.0%, fiscal 29.1% \u2192 40.8%",
    "\u2705 PEG < 1.5 \u2014 0.30",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 36.7% (45 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 36.9% (45 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1781284997.4575512
+  "ultima_confirmacion": 1781288031.8177383
  },
  "PLTR": {
   "nombre": "Palantir Technologies Inc.",
   "sector": "Technology",
   "industria": "Software - Infrastructure",
-  "precio": 128.19,
-  "market_cap": 307311443968,
+  "precio": 128.165,
+  "market_cap": 307251478528,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 84.7%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 325.0%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 46.2%, fiscal 10.8% \u2192 31.6%",
    "\u2705 PEG < 1.5 \u2014 1.49",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 43.3% (27 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 43.4% (27 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1781284997.4575512
+  "ultima_confirmacion": 1781288031.8177383
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
   "sector": "Technology",
   "industria": "Communication Equipment",
-  "precio": 452.415,
-  "market_cap": 64040669184,
+  "precio": 453.875,
+  "market_cap": 64247336960,
   "score": 90,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 39.5%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 2383.3%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 15.2%, fiscal 4.8% \u2192 6.5%",
    "\u2705 PEG < 1.5 \u2014 1.00",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 24.9% (19 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 24.5% (19 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1781284997.4575512
+  "ultima_confirmacion": 1781288031.8177383
  },
  "DLO": {
   "nombre": "DLocal Limited",
   "sector": "Technology",
   "industria": "Software - Infrastructure",
-  "precio": 12.405,
-  "market_cap": 3650408448,
+  "precio": 12.395,
+  "market_cap": 3647465984,
   "score": 75,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 54.9%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 28.3%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 15.7%, fiscal 18.9% \u2192 20.3%",
    "\u2705 PEG < 1.5 \u2014 0.40",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 39.9% (10 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 40.0% (10 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy"
   ],
   "primera": 1781280086.7691383,
-  "ultima_confirmacion": 1781280334.301905
+  "ultima_confirmacion": 1781288031.8177383
  },
  "TIGR": {
   "nombre": "UP Fintech Holding Limited",
   "sector": "Financial Services",
   "industria": "Capital Markets",
-  "precio": 4.725,
-  "market_cap": 844360576,
+  "precio": 4.735,
+  "market_cap": 846147648,
   "score": 64,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 27.1%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 84.2%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 34.8%, fiscal 35.6% \u2192 46.0%",
    "\u2705 PEG < 1.5 \u2014 0.06",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 72.8% (10 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 72.4% (10 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy"
   ],
   "primera": 1781280086.7691383,
-  "ultima_confirmacion": 1781284997.4575512
+  "ultima_confirmacion": 1781288031.8177383
+ },
+ "CDE": {
+  "nombre": "Coeur Mining, Inc.",
+  "sector": "Basic Materials",
+  "industria": "Gold",
+  "precio": 17.255,
+  "market_cap": 17781872640,
+  "score": 100,
+  "criterios": [
+   "\u2705 Ingresos YoY > 25.0% \u2014 137.8%",
+   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 483.3%",
+   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 43.0%, fiscal 20.4% \u2192 37.5%",
+   "\u2705 PEG < 1.5 \u2014 0.42",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 57.9% (10 analistas)",
+   "\u2705 Consenso Buy/Strong Buy \u2014 buy"
+  ],
+  "primera": 1781288031.8177383,
+  "ultima_confirmacion": 1781288031.8177383
  }
 }
