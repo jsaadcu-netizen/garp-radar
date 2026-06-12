@@ -14,7 +14,7 @@ import sys
 from datetime import datetime
 
 # ----------------- CONFIGURACIÓN -----------------
-MAX_NUEVOS = 25                  # tickers nuevos evaluados por ejecución
+MAX_NUEVOS = 12                  # tickers nuevos evaluados por ejecución (bajo = más rápido y estable)
 RETENCION_HORAS = 72
 ELITE_CONFIRMACION_HORAS = 48
 
