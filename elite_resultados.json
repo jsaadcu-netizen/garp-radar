@@ -15,7 +15,7 @@
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1781296696.095258
+  "ultima_confirmacion": 1781304159.1658616
  },
  "PLTR": {
   "nombre": "Palantir Technologies Inc.",
@@ -33,7 +33,7 @@
    "\u2705 Consenso Buy/Strong Buy \u2014 buy"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1781296696.095258
+  "ultima_confirmacion": 1781304159.1658616
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
@@ -51,7 +51,7 @@
    "\u2705 Consenso Buy/Strong Buy \u2014 buy"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1781296696.095258
+  "ultima_confirmacion": 1781304159.1658616
  },
  "DLO": {
   "nombre": "DLocal Limited",
@@ -69,7 +69,7 @@
    "\u2705 Consenso Buy/Strong Buy \u2014 buy"
   ],
   "primera": 1781280086.7691383,
-  "ultima_confirmacion": 1781296696.095258
+  "ultima_confirmacion": 1781304159.1658616
  },
  "TIGR": {
   "nombre": "UP Fintech Holding Limited",
@@ -87,7 +87,7 @@
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy"
   ],
   "primera": 1781280086.7691383,
-  "ultima_confirmacion": 1781296696.095258
+  "ultima_confirmacion": 1781304159.1658616
  },
  "CDE": {
   "nombre": "Coeur Mining, Inc.",
@@ -105,7 +105,7 @@
    "\u2705 Consenso Buy/Strong Buy \u2014 buy"
   ],
   "primera": 1781288031.8177383,
-  "ultima_confirmacion": 1781296696.095258
+  "ultima_confirmacion": 1781304159.1658616
  },
  "VG": {
   "nombre": "Venture Global, Inc.",
@@ -123,7 +123,7 @@
    "\u2705 Consenso Buy/Strong Buy \u2014 buy"
   ],
   "primera": 1781296696.095258,
-  "ultima_confirmacion": 1781296696.095258
+  "ultima_confirmacion": 1781304159.1658616
  },
  "KGC": {
   "nombre": "Kinross Gold Corporation",
@@ -141,6 +141,60 @@
    "\u2705 Consenso Buy/Strong Buy \u2014 buy"
   ],
   "primera": 1781296696.095258,
-  "ultima_confirmacion": 1781296696.095258
+  "ultima_confirmacion": 1781304159.1658616
+ },
+ "NEM": {
+  "nombre": "Newmont Corporation",
+  "sector": "Basic Materials",
+  "industria": "Gold",
+  "precio": 100.23,
+  "market_cap": 107000815616,
+  "score": 100,
+  "criterios": [
+   "\u2705 Ingresos YoY > 25.0% \u2014 45.8%",
+   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 78.6%",
+   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 61.4%, fiscal 31.6% \u2192 48.6%",
+   "\u2705 PEG < 1.5 \u2014 0.83",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 41.6% (21 analistas)",
+   "\u2705 Consenso Buy/Strong Buy \u2014 buy"
+  ],
+  "primera": 1781304159.1658616,
+  "ultima_confirmacion": 1781304159.1658616
+ },
+ "HBM": {
+  "nombre": "Hudbay Minerals Inc.",
+  "sector": "Basic Materials",
+  "industria": "Copper",
+  "precio": 27.82,
+  "market_cap": 11049996288,
+  "score": 77,
+  "criterios": [
+   "\u2705 Ingresos YoY > 25.0% \u2014 27.3%",
+   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 91.9%",
+   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 40.0%, fiscal 20.7% \u2192 25.4%",
+   "\u2705 PEG < 1.5 \u2014 0.45",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 20.8% (6 analistas)",
+   "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy"
+  ],
+  "primera": 1781304159.1658616,
+  "ultima_confirmacion": 1781304159.1658616
+ },
+ "PAAS": {
+  "nombre": "Pan American Silver Corp.",
+  "sector": "Basic Materials",
+  "industria": "Gold",
+  "precio": 48.14,
+  "market_cap": 20283789312,
+  "score": 100,
+  "criterios": [
+   "\u2705 Ingresos YoY > 25.0% \u2014 49.3%",
+   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 131.6%",
+   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 48.1%, fiscal 12.4% \u2192 31.4%",
+   "\u2705 PEG < 1.5 \u2014 0.70",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 47.0% (8 analistas)",
+   "\u2705 Consenso Buy/Strong Buy \u2014 buy"
+  ],
+  "primera": 1781304159.1658616,
+  "ultima_confirmacion": 1781304159.1658616
  }
 }
