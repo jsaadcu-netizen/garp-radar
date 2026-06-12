@@ -8,14 +8,18 @@
   "score": 98,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 47.9%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 61.8%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 85.4%",
+   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 76.3%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 49.0%, fiscal 29.1% \u2192 40.8%",
+   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $26.91B",
    "\u2705 PEG < 1.5 \u2014 0.30",
    "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 36.6% (45 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy"
+   "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
+   "\u2705 Market cap > $2.00B \u2014 $1.82T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1781304159.1658616
+  "ultima_confirmacion": 1781308107.9330657
  },
  "PLTR": {
   "nombre": "Palantir Technologies Inc.",
@@ -26,14 +30,18 @@
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 84.7%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 44.7%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 325.0%",
+   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 84.1%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 46.2%, fiscal 10.8% \u2192 31.6%",
+   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $2.10B",
    "\u2705 PEG < 1.5 \u2014 1.49",
    "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 43.5% (27 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 buy"
+   "\u2705 Consenso Buy/Strong Buy \u2014 buy",
+   "\u2705 Market cap > $2.00B \u2014 $306.83B"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1781304159.1658616
+  "ultima_confirmacion": 1781308107.9330657
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
@@ -44,14 +52,18 @@
   "score": 91,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 39.5%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 26.6%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 2383.3%",
+   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 43.0%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 15.2%, fiscal 4.8% \u2192 6.5%",
+   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $665.3M",
    "\u2705 PEG < 1.5 \u2014 0.98",
    "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 26.7% (19 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 buy"
+   "\u2705 Consenso Buy/Strong Buy \u2014 buy",
+   "\u2705 Market cap > $2.00B \u2014 $63.13B"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1781304159.1658616
+  "ultima_confirmacion": 1781308107.9330657
  },
  "DLO": {
   "nombre": "DLocal Limited",
@@ -89,112 +101,26 @@
   "primera": 1781280086.7691383,
   "ultima_confirmacion": 1781304159.1658616
  },
- "CDE": {
-  "nombre": "Coeur Mining, Inc.",
-  "sector": "Basic Materials",
-  "industria": "Gold",
-  "precio": 17.2,
-  "market_cap": 17725194240,
-  "score": 100,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 137.8%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 483.3%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 43.0%, fiscal 20.4% \u2192 37.5%",
-   "\u2705 PEG < 1.5 \u2014 0.42",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 58.4% (10 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 buy"
-  ],
-  "primera": 1781288031.8177383,
-  "ultima_confirmacion": 1781304159.1658616
- },
- "VG": {
-  "nombre": "Venture Global, Inc.",
-  "sector": "Energy",
-  "industria": "Oil & Gas Midstream",
-  "precio": 13.08,
-  "market_cap": 32495405056,
-  "score": 81,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 58.9%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 26.7%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 25.0%, fiscal 35.5% \u2192 37.4%",
-   "\u2705 PEG < 1.5 \u2014 0.80",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 23.5% (19 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 buy"
-  ],
-  "primera": 1781296696.095258,
-  "ultima_confirmacion": 1781304159.1658616
- },
- "KGC": {
-  "nombre": "Kinross Gold Corporation",
-  "sector": "Basic Materials",
-  "industria": "Gold",
-  "precio": 25.58,
-  "market_cap": 30545319936,
-  "score": 100,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 60.8%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 133.9%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 55.1%, fiscal 29.1% \u2192 45.8%",
-   "\u2705 PEG < 1.5 \u2014 0.68",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 59.9% (11 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 buy"
-  ],
-  "primera": 1781296696.095258,
-  "ultima_confirmacion": 1781304159.1658616
- },
- "NEM": {
-  "nombre": "Newmont Corporation",
-  "sector": "Basic Materials",
-  "industria": "Gold",
-  "precio": 100.23,
-  "market_cap": 107000815616,
-  "score": 100,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 45.8%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 78.6%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 61.4%, fiscal 31.6% \u2192 48.6%",
-   "\u2705 PEG < 1.5 \u2014 0.83",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 41.6% (21 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 buy"
-  ],
-  "primera": 1781304159.1658616,
-  "ultima_confirmacion": 1781304159.1658616
- },
- "HBM": {
-  "nombre": "Hudbay Minerals Inc.",
-  "sector": "Basic Materials",
-  "industria": "Copper",
-  "precio": 27.82,
-  "market_cap": 11049996288,
+ "PAYP": {
+  "nombre": "PayPay Corporation - American D",
+  "sector": "Technology",
+  "industria": "Software - Infrastructure",
+  "precio": 14.15,
+  "market_cap": 9577760768,
   "score": 77,
   "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 27.3%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 91.9%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 40.0%, fiscal 20.7% \u2192 25.4%",
-   "\u2705 PEG < 1.5 \u2014 0.45",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 20.8% (6 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy"
+   "\u2705 Ingresos YoY > 25.0% \u2014 29.1%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 18.1%",
+   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 32.5%",
+   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 64.9%",
+   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 18.8%, fiscal 5.8% \u2192 20.1%",
+   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $133.76B",
+   "\u2705 PEG < 1.5 \u2014 0.58",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 78.2% (12 analistas)",
+   "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
+   "\u2705 Market cap > $2.00B \u2014 $9.58B"
   ],
-  "primera": 1781304159.1658616,
-  "ultima_confirmacion": 1781304159.1658616
- },
- "PAAS": {
-  "nombre": "Pan American Silver Corp.",
-  "sector": "Basic Materials",
-  "industria": "Gold",
-  "precio": 48.14,
-  "market_cap": 20283789312,
-  "score": 100,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 49.3%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 131.6%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 48.1%, fiscal 12.4% \u2192 31.4%",
-   "\u2705 PEG < 1.5 \u2014 0.70",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 47.0% (8 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 buy"
-  ],
-  "primera": 1781304159.1658616,
-  "ultima_confirmacion": 1781304159.1658616
+  "primera": 1781308107.9330657,
+  "ultima_confirmacion": 1781308107.9330657
  }
 }
