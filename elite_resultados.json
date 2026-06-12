@@ -3,108 +3,144 @@
   "nombre": "Broadcom Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 381.34,
-  "market_cap": 1814255632384,
+  "precio": 382.07,
+  "market_cap": 1817728778240,
   "score": 98,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 47.9%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 85.4%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 49.0%, fiscal 29.1% \u2192 40.8%",
    "\u2705 PEG < 1.5 \u2014 0.30",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 36.9% (45 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 36.6% (45 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1781288031.8177383
+  "ultima_confirmacion": 1781296696.095258
  },
  "PLTR": {
   "nombre": "Palantir Technologies Inc.",
   "sector": "Technology",
   "industria": "Software - Infrastructure",
-  "precio": 128.165,
-  "market_cap": 307251478528,
+  "precio": 127.99,
+  "market_cap": 306831949824,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 84.7%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 325.0%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 46.2%, fiscal 10.8% \u2192 31.6%",
    "\u2705 PEG < 1.5 \u2014 1.49",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 43.4% (27 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 43.5% (27 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1781288031.8177383
+  "ultima_confirmacion": 1781296696.095258
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
   "sector": "Technology",
   "industria": "Communication Equipment",
-  "precio": 453.875,
-  "market_cap": 64247336960,
-  "score": 90,
+  "precio": 445.98,
+  "market_cap": 63129776128,
+  "score": 91,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 39.5%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 2383.3%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 15.2%, fiscal 4.8% \u2192 6.5%",
-   "\u2705 PEG < 1.5 \u2014 1.00",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 24.5% (19 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.98",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 26.7% (19 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1781288031.8177383
+  "ultima_confirmacion": 1781296696.095258
  },
  "DLO": {
   "nombre": "DLocal Limited",
   "sector": "Technology",
   "industria": "Software - Infrastructure",
-  "precio": 12.395,
-  "market_cap": 3647465984,
+  "precio": 12.25,
+  "market_cap": 3604796672,
   "score": 75,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 54.9%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 28.3%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 15.7%, fiscal 18.9% \u2192 20.3%",
-   "\u2705 PEG < 1.5 \u2014 0.40",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 40.0% (10 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.39",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 41.6% (10 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy"
   ],
   "primera": 1781280086.7691383,
-  "ultima_confirmacion": 1781288031.8177383
+  "ultima_confirmacion": 1781296696.095258
  },
  "TIGR": {
   "nombre": "UP Fintech Holding Limited",
   "sector": "Financial Services",
   "industria": "Capital Markets",
-  "precio": 4.735,
-  "market_cap": 846147648,
+  "precio": 4.77,
+  "market_cap": 852402112,
   "score": 64,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 27.1%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 84.2%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 34.8%, fiscal 35.6% \u2192 46.0%",
    "\u2705 PEG < 1.5 \u2014 0.06",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 72.4% (10 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 71.1% (10 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy"
   ],
   "primera": 1781280086.7691383,
-  "ultima_confirmacion": 1781288031.8177383
+  "ultima_confirmacion": 1781296696.095258
  },
  "CDE": {
   "nombre": "Coeur Mining, Inc.",
   "sector": "Basic Materials",
   "industria": "Gold",
-  "precio": 17.255,
-  "market_cap": 17781872640,
+  "precio": 17.2,
+  "market_cap": 17725194240,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 137.8%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 483.3%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 43.0%, fiscal 20.4% \u2192 37.5%",
    "\u2705 PEG < 1.5 \u2014 0.42",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 57.9% (10 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 58.4% (10 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy"
   ],
   "primera": 1781288031.8177383,
-  "ultima_confirmacion": 1781288031.8177383
+  "ultima_confirmacion": 1781296696.095258
+ },
+ "VG": {
+  "nombre": "Venture Global, Inc.",
+  "sector": "Energy",
+  "industria": "Oil & Gas Midstream",
+  "precio": 13.08,
+  "market_cap": 32495405056,
+  "score": 81,
+  "criterios": [
+   "\u2705 Ingresos YoY > 25.0% \u2014 58.9%",
+   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 26.7%",
+   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 25.0%, fiscal 35.5% \u2192 37.4%",
+   "\u2705 PEG < 1.5 \u2014 0.80",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 23.5% (19 analistas)",
+   "\u2705 Consenso Buy/Strong Buy \u2014 buy"
+  ],
+  "primera": 1781296696.095258,
+  "ultima_confirmacion": 1781296696.095258
+ },
+ "KGC": {
+  "nombre": "Kinross Gold Corporation",
+  "sector": "Basic Materials",
+  "industria": "Gold",
+  "precio": 25.58,
+  "market_cap": 30545319936,
+  "score": 100,
+  "criterios": [
+   "\u2705 Ingresos YoY > 25.0% \u2014 60.8%",
+   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 133.9%",
+   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 55.1%, fiscal 29.1% \u2192 45.8%",
+   "\u2705 PEG < 1.5 \u2014 0.68",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 59.9% (11 analistas)",
+   "\u2705 Consenso Buy/Strong Buy \u2014 buy"
+  ],
+  "primera": 1781296696.095258,
+  "ultima_confirmacion": 1781296696.095258
  }
 }
