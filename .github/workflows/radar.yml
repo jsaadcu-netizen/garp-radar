@@ -22,3 +22,4 @@ jobs:
           git add radar_resultados.json elite_resultados.json || true
           git commit -m "radar update" || echo "sin cambios"
           git push
+          - run: timeout 300 python radar_cloud.py || true
