@@ -11,7 +11,11 @@ import json
 import os
 import time
 import sys
+import socket
 from datetime import datetime
+
+# Timeout global de red: ninguna llamada se cuelga más de 20s
+socket.setdefaulttimeout(20)
 
 # ----------------- CONFIGURACIÓN -----------------
 MAX_NUEVOS = 12                  # tickers nuevos evaluados por ejecución (bajo = más rápido y estable)
