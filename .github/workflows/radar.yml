@@ -1,7 +1,7 @@
 name: Radar GARP
 on:
   schedule:
-    - cron: "13,43 * * * *"
+    - cron: "13,30 * * * *"
   workflow_dispatch:
 jobs:
   escanear:
