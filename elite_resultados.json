@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.82T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1781473102.3320837
+  "ultima_confirmacion": 1781480238.120565
  },
  "PLTR": {
   "nombre": "Palantir Technologies Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $306.83B"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1781473102.3320837
+  "ultima_confirmacion": 1781480238.120565
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
@@ -63,43 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $63.13B"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1781473102.3320837
- },
- "DLO": {
-  "nombre": "DLocal Limited",
-  "sector": "Technology",
-  "industria": "Software - Infrastructure",
-  "precio": 12.25,
-  "market_cap": 3604796672,
-  "score": 75,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 54.9%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 28.3%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 15.7%, fiscal 18.9% \u2192 20.3%",
-   "\u2705 PEG < 1.5 \u2014 0.39",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 41.6% (10 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 buy"
-  ],
-  "primera": 1781280086.7691383,
-  "ultima_confirmacion": 1781304159.1658616
- },
- "TIGR": {
-  "nombre": "UP Fintech Holding Limited",
-  "sector": "Financial Services",
-  "industria": "Capital Markets",
-  "precio": 4.77,
-  "market_cap": 852402112,
-  "score": 64,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 27.1%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 84.2%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 34.8%, fiscal 35.6% \u2192 46.0%",
-   "\u2705 PEG < 1.5 \u2014 0.06",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 71.1% (10 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy"
-  ],
-  "primera": 1781280086.7691383,
-  "ultima_confirmacion": 1781304159.1658616
+  "ultima_confirmacion": 1781480238.120565
  },
  "PAYP": {
   "nombre": "PayPay Corporation - American D",
