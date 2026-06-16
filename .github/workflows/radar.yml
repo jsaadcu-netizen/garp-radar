@@ -19,6 +19,7 @@ jobs:
       - run: |
           git config user.name "radar-bot"
           git config user.email "radar@bot.local"
+          git pull --rebase --autostash || true
           git add radar_resultados.json elite_resultados.json || true
           git commit -m "radar update" || echo "sin cambios"
-          
+          git push
