@@ -3,9 +3,9 @@
   "nombre": "Broadcom Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 376.71,
-  "market_cap": 1792228065280,
-  "score": 99,
+  "precio": 397.97,
+  "market_cap": 1893374230528,
+  "score": 94,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 47.9%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 62.0%",
@@ -13,21 +13,21 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 76.3%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 49.0%, fiscal 29.1% \u2192 40.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $26.91B",
-   "\u2705 PEG < 1.5 \u2014 0.29",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 38.6% (45 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.31",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 31.2% (45 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.79T"
+   "\u2705 Market cap > $2.00B \u2014 $1.89T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1781697977.9057267
+  "ultima_confirmacion": 1781712205.9939182
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
   "sector": "Technology",
   "industria": "Communication Equipment",
-  "precio": 430.3,
-  "market_cap": 60910223360,
-  "score": 94,
+  "precio": 440.25,
+  "market_cap": 62318678016,
+  "score": 92,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 39.5%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 26.6%",
@@ -35,20 +35,20 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 43.0%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 15.2%, fiscal 4.8% \u2192 6.5%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $665.3M",
-   "\u2705 PEG < 1.5 \u2014 0.95",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 31.3% (19 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.97",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 28.3% (19 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $60.91B"
+   "\u2705 Market cap > $2.00B \u2014 $62.32B"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1781697977.9057267
+  "ultima_confirmacion": 1781712205.9939182
  },
  "PAYP": {
   "nombre": "PayPay Corporation - American D",
   "sector": "Technology",
   "industria": "Software - Infrastructure",
-  "precio": 13.38,
-  "market_cap": 9056568320,
+  "precio": 13.515,
+  "market_cap": 9147945984,
   "score": 77,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 29.1%",
@@ -58,12 +58,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 18.8%, fiscal 5.8% \u2192 20.1%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $133.76B",
    "\u2705 PEG < 1.5 \u2014 0.55",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 88.3% (12 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 86.6% (12 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $9.06B"
+   "\u2705 Market cap > $2.00B \u2014 $9.15B"
   ],
   "primera": 1781308107.9330657,
-  "ultima_confirmacion": 1781660466.0210392
+  "ultima_confirmacion": 1781712205.9939182
  },
  "RDDT": {
   "nombre": "Reddit, Inc.",
