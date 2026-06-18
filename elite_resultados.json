@@ -3,9 +3,9 @@
   "nombre": "Broadcom Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 392.9,
-  "market_cap": 1869253312512,
-  "score": 96,
+  "precio": 408.4,
+  "market_cap": 1942995730432,
+  "score": 92,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 47.9%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 62.0%",
@@ -13,21 +13,21 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 76.3%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 49.0%, fiscal 29.1% \u2192 40.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $26.91B",
-   "\u2705 PEG < 1.5 \u2014 0.31",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 32.9% (45 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.32",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 27.8% (45 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.87T"
+   "\u2705 Market cap > $2.00B \u2014 $1.94T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1781781447.8517408
+  "ultima_confirmacion": 1781792925.97318
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
   "sector": "Technology",
   "industria": "Communication Equipment",
-  "precio": 436.72,
-  "market_cap": 61818994688,
-  "score": 93,
+  "precio": 433.3325,
+  "market_cap": 61339484160,
+  "score": 94,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 39.5%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 26.6%",
@@ -35,20 +35,20 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 43.0%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 15.2%, fiscal 4.8% \u2192 6.5%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $665.3M",
-   "\u2705 PEG < 1.5 \u2014 0.96",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 29.4% (19 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.95",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 30.4% (19 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $61.82B"
+   "\u2705 Market cap > $2.00B \u2014 $61.34B"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1781781447.8517408
+  "ultima_confirmacion": 1781792925.97318
  },
  "PAYP": {
   "nombre": "PayPay Corporation - American D",
   "sector": "Technology",
   "industria": "Software - Infrastructure",
-  "precio": 12.8,
-  "market_cap": 8663981056,
+  "precio": 12.6806,
+  "market_cap": 8583162880,
   "score": 77,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 29.1%",
@@ -58,34 +58,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 18.8%, fiscal 5.8% \u2192 20.1%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $133.76B",
    "\u2705 PEG < 1.5 \u2014 0.52",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 96.1% (12 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 98.0% (12 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $8.66B"
+   "\u2705 Market cap > $2.00B \u2014 $8.58B"
   ],
   "primera": 1781308107.9330657,
-  "ultima_confirmacion": 1781781447.8517408
- },
- "RDDT": {
-  "nombre": "Reddit, Inc.",
-  "sector": "Communication Services",
-  "industria": "Internet Content & Information",
-  "precio": 181.88,
-  "market_cap": 35013545984,
-  "score": 90,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 69.1%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 31.9%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 675.0%",
-   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 91.4%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 27.6%, fiscal -43.1% \u2192 20.1%",
-   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $684.2M",
-   "\u2705 PEG < 1.5 \u2014 0.66",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 23.7% (31 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $35.01B"
-  ],
-  "primera": 1781563359.1425483,
-  "ultima_confirmacion": 1781615049.218957
+  "ultima_confirmacion": 1781792925.97318
  },
  "GRND": {
   "nombre": "Grindr Inc.",
@@ -108,5 +86,27 @@
   ],
   "primera": 1781660466.0210392,
   "ultima_confirmacion": 1781660466.0210392
+ },
+ "PLTR": {
+  "nombre": "Palantir Technologies Inc.",
+  "sector": "Technology",
+  "industria": "Software - Infrastructure",
+  "precio": 126.94,
+  "market_cap": 304408264704,
+  "score": 100,
+  "criterios": [
+   "\u2705 Ingresos YoY > 25.0% \u2014 84.7%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 45.1%",
+   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 325.0%",
+   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 84.1%",
+   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 46.2%, fiscal 10.8% \u2192 31.6%",
+   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $2.10B",
+   "\u2705 PEG < 1.5 \u2014 1.47",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 44.0% (27 analistas)",
+   "\u2705 Consenso Buy/Strong Buy \u2014 buy",
+   "\u2705 Market cap > $2.00B \u2014 $304.41B"
+  ],
+  "primera": 1781792925.97318,
+  "ultima_confirmacion": 1781792925.97318
  }
 }
