@@ -8,18 +8,18 @@
   "score": 92,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 47.9%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 62.0%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 62.4%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 85.4%",
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 76.3%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 49.0%, fiscal 29.1% \u2192 40.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $26.91B",
    "\u2705 PEG < 1.5 \u2014 0.32",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 26.9% (45 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 27.3% (45 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
    "\u2705 Market cap > $2.00B \u2014 $1.96T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1781854012.5587072
+  "ultima_confirmacion": 1781869776.264896
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $60.62B"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1781854012.5587072
+  "ultima_confirmacion": 1781869776.264896
  },
  "PAYP": {
   "nombre": "PayPay Corporation - American D",
@@ -58,12 +58,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 18.8%, fiscal 5.8% \u2192 20.1%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $133.76B",
    "\u2705 PEG < 1.5 \u2014 0.50",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 102.6% (12 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 103.0% (12 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
    "\u2705 Market cap > $2.00B \u2014 $8.37B"
   ],
   "primera": 1781308107.9330657,
-  "ultima_confirmacion": 1781834720.5548103
+  "ultima_confirmacion": 1781869776.264896
  },
  "PLTR": {
   "nombre": "Palantir Technologies Inc.",
@@ -85,6 +85,6 @@
    "\u2705 Market cap > $2.00B \u2014 $307.98B"
   ],
   "primera": 1781792925.97318,
-  "ultima_confirmacion": 1781854012.5587072
+  "ultima_confirmacion": 1781869776.264896
  }
 }
