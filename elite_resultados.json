@@ -3,9 +3,9 @@
   "nombre": "Broadcom Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 382.39,
-  "market_cap": 1818252017664,
-  "score": 98,
+  "precio": 377.37,
+  "market_cap": 1795368026112,
+  "score": 99,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 47.9%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 62.4%",
@@ -13,21 +13,21 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 76.3%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 49.0%, fiscal 29.1% \u2192 40.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $26.91B",
-   "\u2705 PEG < 1.5 \u2014 0.30",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 37.0% (45 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.29",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 38.8% (45 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.82T"
+   "\u2705 Market cap > $2.00B \u2014 $1.80T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1782321441.381946
+  "ultima_confirmacion": 1782328300.4859
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
   "sector": "Technology",
   "industria": "Communication Equipment",
-  "precio": 459.85,
-  "market_cap": 65093115904,
-  "score": 89,
+  "precio": 464.185,
+  "market_cap": 65706745856,
+  "score": 88,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 39.5%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 26.6%",
@@ -35,20 +35,20 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 43.0%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 15.2%, fiscal 4.8% \u2192 6.5%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $665.3M",
-   "\u2705 PEG < 1.5 \u2014 1.01",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 23.0% (19 analistas)",
+   "\u2705 PEG < 1.5 \u2014 1.02",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 21.9% (19 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $65.09B"
+   "\u2705 Market cap > $2.00B \u2014 $65.71B"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1782302479.5449944
+  "ultima_confirmacion": 1782328300.4859
  },
  "PLTR": {
   "nombre": "Palantir Technologies Inc.",
   "sector": "Technology",
   "industria": "Software - Infrastructure",
-  "precio": 113.075,
-  "market_cap": 271076048896,
+  "precio": 113.2,
+  "market_cap": 271302836224,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 84.7%",
@@ -58,12 +58,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 46.2%, fiscal 10.8% \u2192 31.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $2.10B",
    "\u2705 PEG < 1.5 \u2014 1.31",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 61.6% (27 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 61.4% (27 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $271.08B"
+   "\u2705 Market cap > $2.00B \u2014 $271.30B"
   ],
   "primera": 1781792925.97318,
-  "ultima_confirmacion": 1782321441.381946
+  "ultima_confirmacion": 1782328300.4859
  },
  "VIAV": {
   "nombre": "Viavi Solutions Inc.",
