@@ -3,9 +3,9 @@
   "nombre": "Broadcom Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 382.07,
-  "market_cap": 1817728778240,
-  "score": 98,
+  "precio": 380.32,
+  "market_cap": 1809402953728,
+  "score": 99,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 47.9%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 62.4%",
@@ -14,12 +14,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 49.0%, fiscal 29.1% \u2192 40.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $26.91B",
    "\u2705 PEG < 1.5 \u2014 0.29",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 37.1% (45 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 37.7% (45 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.82T"
+   "\u2705 Market cap > $2.00B \u2014 $1.81T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1782388196.3483703
+  "ultima_confirmacion": 1782400303.2541013
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
@@ -47,8 +47,8 @@
   "nombre": "Palantir Technologies Inc.",
   "sector": "Technology",
   "industria": "Software - Infrastructure",
-  "precio": 113.5,
-  "market_cap": 272094904320,
+  "precio": 106.515,
+  "market_cap": 255409618944,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 84.7%",
@@ -57,35 +57,13 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 84.1%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 46.2%, fiscal 10.8% \u2192 31.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $2.10B",
-   "\u2705 PEG < 1.5 \u2014 1.32",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 61.0% (27 analistas)",
+   "\u2705 PEG < 1.5 \u2014 1.24",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 71.6% (27 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $272.09B"
+   "\u2705 Market cap > $2.00B \u2014 $255.41B"
   ],
   "primera": 1781792925.97318,
-  "ultima_confirmacion": 1782388196.3483703
- },
- "VIAV": {
-  "nombre": "Viavi Solutions Inc.",
-  "sector": "Technology",
-  "industria": "Communication Equipment",
-  "precio": 52.94,
-  "market_cap": 13059537920,
-  "score": 64,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 42.8%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 18.6%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 36.6%",
-   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 60.7%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 12.2%, fiscal 3.4% \u2192 5.4%",
-   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $62.0M",
-   "\u2705 PEG < 1.5 \u2014 1.13",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 21.7% (7 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $13.06B"
-  ],
-  "primera": 1782169351.503721,
-  "ultima_confirmacion": 1782216928.1252472
+  "ultima_confirmacion": 1782400303.2541013
  },
  "PAYP": {
   "nombre": "PayPay Corporation - American D",
