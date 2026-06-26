@@ -3,8 +3,8 @@
   "nombre": "Broadcom Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 366.975,
-  "market_cap": 1745936842752,
+  "precio": 365.02,
+  "market_cap": 1736611856384,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 47.9%",
@@ -14,12 +14,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 49.0%, fiscal 29.1% \u2192 40.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $26.91B",
    "\u2705 PEG < 1.5 \u2014 0.28",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 42.7% (45 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 43.5% (45 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.75T"
+   "\u2705 Market cap > $2.00B \u2014 $1.74T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1782500687.491593
+  "ultima_confirmacion": 1782507299.3288517
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
@@ -47,8 +47,8 @@
   "nombre": "Palantir Technologies Inc.",
   "sector": "Technology",
   "industria": "Software - Infrastructure",
-  "precio": 112.73,
-  "market_cap": 270260977664,
+  "precio": 112.93,
+  "market_cap": 270728445952,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 84.7%",
@@ -58,19 +58,19 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 46.2%, fiscal 10.8% \u2192 31.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $2.10B",
    "\u2705 PEG < 1.5 \u2014 1.31",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 62.1% (27 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 61.8% (27 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $270.26B"
+   "\u2705 Market cap > $2.00B \u2014 $270.73B"
   ],
   "primera": 1781792925.97318,
-  "ultima_confirmacion": 1782500687.491593
+  "ultima_confirmacion": 1782507299.3288517
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 1137.29,
-  "market_cap": 1284447535104,
+  "precio": 1132.33,
+  "market_cap": 1278845648896,
   "score": 88,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 345.7%",
@@ -79,12 +79,12 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 72.6%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 80.4%, fiscal 5.2% \u2192 26.2%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $1.67B",
-   "\u2705 PEG < 1.5 \u2014 0.08",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 20.0% (40 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.07",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 20.6% (40 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
    "\u2705 Market cap > $2.00B \u2014 $1.28T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1782500687.491593
+  "ultima_confirmacion": 1782507299.3288517
  }
 }
