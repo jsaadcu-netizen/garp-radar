@@ -3,9 +3,9 @@
   "nombre": "Broadcom Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 374.87,
-  "market_cap": 1783474159616,
-  "score": 100,
+  "precio": 378.71,
+  "market_cap": 1801648078848,
+  "score": 99,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 47.9%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 62.4%",
@@ -14,19 +14,19 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 49.0%, fiscal 29.1% \u2192 40.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $26.91B",
    "\u2705 PEG < 1.5 \u2014 0.29",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 39.7% (45 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 38.3% (45 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.78T"
+   "\u2705 Market cap > $2.00B \u2014 $1.80T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1782839710.984024
+  "ultima_confirmacion": 1782847149.759812
  },
  "PLTR": {
   "nombre": "Palantir Technologies Inc.",
   "sector": "Technology",
   "industria": "Software - Infrastructure",
-  "precio": 118.34,
-  "market_cap": 283697905664,
+  "precio": 117.07,
+  "market_cap": 280653299712,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 84.7%",
@@ -35,21 +35,21 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 84.1%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 46.2%, fiscal 10.8% \u2192 31.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $2.10B",
-   "\u2705 PEG < 1.5 \u2014 1.37",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 54.4% (27 analistas)",
+   "\u2705 PEG < 1.5 \u2014 1.36",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 56.1% (27 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $283.70B"
+   "\u2705 Market cap > $2.00B \u2014 $280.65B"
   ],
   "primera": 1781792925.97318,
-  "ultima_confirmacion": 1782839710.984024
+  "ultima_confirmacion": 1782847149.759812
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 1157.5,
-  "market_cap": 1307272544256,
-  "score": 91,
+  "precio": 1166.47,
+  "market_cap": 1317403230208,
+  "score": 90,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 345.7%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 81.9%",
@@ -57,13 +57,13 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 72.6%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 80.4%, fiscal 5.2% \u2192 26.2%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $1.67B",
-   "\u2705 PEG < 1.5 \u2014 0.07",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 25.6% (40 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.08",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 24.7% (40 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.31T"
+   "\u2705 Market cap > $2.00B \u2014 $1.32T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1782839710.984024
+  "ultima_confirmacion": 1782847149.759812
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
@@ -86,5 +86,27 @@
   ],
   "primera": 1782742745.5882063,
   "ultima_confirmacion": 1782742745.5882063
+ },
+ "FIGR": {
+  "nombre": "Figure Technology Solutions, In",
+  "sector": "Financial Services",
+  "industria": "Capital Markets",
+  "precio": 30.11,
+  "market_cap": 6657346560,
+  "score": 75,
+  "criterios": [
+   "\u2705 Ingresos YoY > 25.0% \u2014 119.2%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 20.1%",
+   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 21.0%",
+   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 100.0%",
+   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 24.9%, fiscal 8.5% \u2192 23.7%",
+   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $41.9M",
+   "\u2705 PEG < 1.5 \u2014 1.01",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 83.1% (7 analistas)",
+   "\u2705 Consenso Buy/Strong Buy \u2014 buy",
+   "\u2705 Market cap > $2.00B \u2014 $6.66B"
+  ],
+  "primera": 1782847149.759812,
+  "ultima_confirmacion": 1782847149.759812
  }
 }
