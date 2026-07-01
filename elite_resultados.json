@@ -3,8 +3,8 @@
   "nombre": "Broadcom Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 371.585,
-  "market_cap": 1767845396480,
+  "precio": 369.34,
+  "market_cap": 1757164732416,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 47.9%",
@@ -13,20 +13,20 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 76.3%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 49.0%, fiscal 29.1% \u2192 40.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $26.91B",
-   "\u2705 PEG < 1.5 \u2014 0.29",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 40.9% (45 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.28",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 41.8% (45 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.77T"
+   "\u2705 Market cap > $2.00B \u2014 $1.76T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1782933615.9200928
+  "ultima_confirmacion": 1782940016.1410663
  },
  "PLTR": {
   "nombre": "Palantir Technologies Inc.",
   "sector": "Technology",
   "industria": "Software - Infrastructure",
-  "precio": 127.26,
-  "market_cap": 305081942016,
+  "precio": 125.73,
+  "market_cap": 301414055936,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 84.7%",
@@ -35,21 +35,21 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 84.1%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 46.2%, fiscal 10.8% \u2192 31.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $2.10B",
-   "\u2705 PEG < 1.5 \u2014 1.48",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 43.6% (27 analistas)",
+   "\u2705 PEG < 1.5 \u2014 1.46",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 45.4% (27 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $305.08B"
+   "\u2705 Market cap > $2.00B \u2014 $301.41B"
   ],
   "primera": 1781792925.97318,
-  "ultima_confirmacion": 1782933615.9200928
+  "ultima_confirmacion": 1782940016.1410663
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 1057.97,
-  "market_cap": 1194864017408,
-  "score": 98,
+  "precio": 1032.28,
+  "market_cap": 1165850050560,
+  "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 345.7%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 81.9%",
@@ -58,20 +58,20 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 80.4%, fiscal 5.2% \u2192 26.2%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $1.67B",
    "\u2705 PEG < 1.5 \u2014 0.07",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 37.4% (40 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 40.9% (40 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.19T"
+   "\u2705 Market cap > $2.00B \u2014 $1.17T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1782933615.9200928
+  "ultima_confirmacion": 1782940016.1410663
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
   "sector": "Technology",
   "industria": "Communication Equipment",
-  "precio": 463.355,
-  "market_cap": 65589260288,
-  "score": 88,
+  "precio": 462.44,
+  "market_cap": 65459736576,
+  "score": 89,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 39.5%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 26.6%",
@@ -80,12 +80,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 15.2%, fiscal 4.8% \u2192 6.5%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $665.3M",
    "\u2705 PEG < 1.5 \u2014 1.01",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 22.1% (19 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 22.3% (19 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $65.59B"
+   "\u2705 Market cap > $2.00B \u2014 $65.46B"
   ],
   "primera": 1782742745.5882063,
-  "ultima_confirmacion": 1782933615.9200928
+  "ultima_confirmacion": 1782940016.1410663
  },
  "FIGR": {
   "nombre": "Figure Technology Solutions, In",
