@@ -3,8 +3,8 @@
   "nombre": "Broadcom Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 372.43,
-  "market_cap": 1771829854208,
+  "precio": 369.03,
+  "market_cap": 1755689910272,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 47.9%",
@@ -13,20 +13,20 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 76.3%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 49.0%, fiscal 29.1% \u2192 40.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $26.91B",
-   "\u2705 PEG < 1.5 \u2014 0.29",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 40.6% (45 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.28",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 41.9% (45 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.77T"
+   "\u2705 Market cap > $2.00B \u2014 $1.76T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1782919145.9630392
+  "ultima_confirmacion": 1782926922.7189956
  },
  "PLTR": {
   "nombre": "Palantir Technologies Inc.",
   "sector": "Technology",
   "industria": "Software - Infrastructure",
-  "precio": 127.1594,
-  "market_cap": 304770252800,
+  "precio": 127.005,
+  "market_cap": 304470589440,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 84.7%",
@@ -36,20 +36,20 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 46.2%, fiscal 10.8% \u2192 31.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $2.10B",
    "\u2705 PEG < 1.5 \u2014 1.47",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 43.7% (27 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 43.9% (27 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $304.77B"
+   "\u2705 Market cap > $2.00B \u2014 $304.47B"
   ],
   "primera": 1781792925.97318,
-  "ultima_confirmacion": 1782919145.9630392
+  "ultima_confirmacion": 1782926922.7189956
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 1067.0,
-  "market_cap": 1205062467584,
-  "score": 98,
+  "precio": 1052.66,
+  "market_cap": 1188867080192,
+  "score": 99,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 345.7%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 81.9%",
@@ -58,19 +58,19 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 80.4%, fiscal 5.2% \u2192 26.2%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $1.67B",
    "\u2705 PEG < 1.5 \u2014 0.07",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 36.3% (40 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 38.1% (40 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.21T"
+   "\u2705 Market cap > $2.00B \u2014 $1.19T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1782919145.9630392
+  "ultima_confirmacion": 1782926922.7189956
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
   "sector": "Technology",
   "industria": "Communication Equipment",
-  "precio": 471.35,
-  "market_cap": 66720972800,
+  "precio": 469.36,
+  "market_cap": 66439278592,
   "score": 87,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 39.5%",
@@ -80,12 +80,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 15.2%, fiscal 4.8% \u2192 6.5%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $665.3M",
    "\u2705 PEG < 1.5 \u2014 1.03",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 20.0% (19 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 20.5% (19 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $66.72B"
+   "\u2705 Market cap > $2.00B \u2014 $66.44B"
   ],
   "primera": 1782742745.5882063,
-  "ultima_confirmacion": 1782919145.9630392
+  "ultima_confirmacion": 1782926922.7189956
  },
  "FIGR": {
   "nombre": "Figure Technology Solutions, In",
