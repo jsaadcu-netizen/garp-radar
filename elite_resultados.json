@@ -3,8 +3,8 @@
   "nombre": "Broadcom Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 376.035,
-  "market_cap": 1789016670208,
+  "precio": 373.9,
+  "market_cap": 1778859245568,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 47.9%",
@@ -14,12 +14,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 49.0%, fiscal 29.1% \u2192 40.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $26.91B",
    "\u2705 PEG < 1.5 \u2014 0.29",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 39.3% (45 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 40.1% (45 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.79T"
+   "\u2705 Market cap > $2.00B \u2014 $1.78T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1783362478.6737585
+  "ultima_confirmacion": 1783369733.7902882
  },
  "PLTR": {
   "nombre": "Palantir Technologies Inc.",
@@ -47,8 +47,8 @@
   "nombre": "Micron Technology, Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 991.665,
-  "market_cap": 1119979700224,
+  "precio": 984.75,
+  "market_cap": 1112169906176,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 345.7%",
@@ -58,12 +58,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 80.4%, fiscal 5.2% \u2192 26.2%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $1.67B",
    "\u2705 PEG < 1.5 \u2014 0.06",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 49.8% (42 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 50.9% (42 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.12T"
+   "\u2705 Market cap > $2.00B \u2014 $1.11T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1783362478.6737585
+  "ultima_confirmacion": 1783369733.7902882
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
