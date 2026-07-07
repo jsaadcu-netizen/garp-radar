@@ -3,8 +3,8 @@
   "nombre": "Broadcom Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 368.7425,
-  "market_cap": 1754322042880,
+  "precio": 370.78,
+  "market_cap": 1764015603712,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 47.9%",
@@ -13,13 +13,13 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 76.3%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 49.0%, fiscal 29.1% \u2192 40.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $26.91B",
-   "\u2705 PEG < 1.5 \u2014 0.28",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 42.0% (45 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.29",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 41.3% (45 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.75T"
+   "\u2705 Market cap > $2.00B \u2014 $1.76T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1783451649.6668804
+  "ultima_confirmacion": 1783458355.6075437
  },
  "PLTR": {
   "nombre": "Palantir Technologies Inc.",
@@ -47,8 +47,8 @@
   "nombre": "Micron Technology, Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 915.03,
-  "market_cap": 1033253552128,
+  "precio": 938.38,
+  "market_cap": 1059799957504,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 345.7%",
@@ -58,12 +58,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 80.4%, fiscal 5.2% \u2192 26.2%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $1.67B",
    "\u2705 PEG < 1.5 \u2014 0.06",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 62.4% (42 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 58.4% (42 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.03T"
+   "\u2705 Market cap > $2.00B \u2014 $1.06T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1783451649.6668804
+  "ultima_confirmacion": 1783458355.6075437
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
@@ -91,9 +91,9 @@
   "nombre": "Teradyne, Inc.",
   "sector": "Technology",
   "industria": "Semiconductor Equipment & Materials",
-  "precio": 335.71,
-  "market_cap": 52552765440,
-  "score": 90,
+  "precio": 343.11,
+  "market_cap": 53711179776,
+  "score": 88,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 87.0%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 23.5%",
@@ -101,12 +101,12 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 58.7%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 37.6%, fiscal 19.6% \u2192 21.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $450.4M",
-   "\u2705 PEG < 1.5 \u2014 0.98",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 24.1% (17 analistas)",
+   "\u2705 PEG < 1.5 \u2014 1.00",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 21.4% (17 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $52.55B"
+   "\u2705 Market cap > $2.00B \u2014 $53.71B"
   ],
   "primera": 1783442509.5075123,
-  "ultima_confirmacion": 1783451649.6668804
+  "ultima_confirmacion": 1783458355.6075437
  }
 }
