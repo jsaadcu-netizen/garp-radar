@@ -3,8 +3,8 @@
   "nombre": "Broadcom Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 373.9,
-  "market_cap": 1778859245568,
+  "precio": 367.55,
+  "market_cap": 1748648591360,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 47.9%",
@@ -13,13 +13,13 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 76.3%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 49.0%, fiscal 29.1% \u2192 40.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $26.91B",
-   "\u2705 PEG < 1.5 \u2014 0.29",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 40.1% (45 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.28",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 42.5% (45 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.78T"
+   "\u2705 Market cap > $2.00B \u2014 $1.75T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1783423140.5293355
+  "ultima_confirmacion": 1783431263.065033
  },
  "PLTR": {
   "nombre": "Palantir Technologies Inc.",
@@ -47,8 +47,8 @@
   "nombre": "Micron Technology, Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 984.75,
-  "market_cap": 1112169906176,
+  "precio": 916.97,
+  "market_cap": 1035619598336,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 345.7%",
@@ -58,20 +58,20 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 80.4%, fiscal 5.2% \u2192 26.2%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $1.67B",
    "\u2705 PEG < 1.5 \u2014 0.06",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 50.9% (42 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 62.1% (42 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.11T"
+   "\u2705 Market cap > $2.00B \u2014 $1.04T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1783423140.5293355
+  "ultima_confirmacion": 1783431263.065033
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
   "sector": "Technology",
   "industria": "Communication Equipment",
-  "precio": 433.83,
-  "market_cap": 61409906688,
-  "score": 94,
+  "precio": 416.97,
+  "market_cap": 59023323136,
+  "score": 97,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 39.5%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 26.6%",
@@ -79,12 +79,12 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 43.0%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 15.2%, fiscal 4.8% \u2192 6.5%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $665.3M",
-   "\u2705 PEG < 1.5 \u2014 0.95",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 30.4% (19 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.91",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 35.7% (19 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $61.41B"
+   "\u2705 Market cap > $2.00B \u2014 $59.02B"
   ],
   "primera": 1782742745.5882063,
-  "ultima_confirmacion": 1783380688.7442768
+  "ultima_confirmacion": 1783431263.065033
  }
 }
