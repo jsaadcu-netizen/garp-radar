@@ -3,9 +3,9 @@
   "nombre": "Broadcom Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 399.03,
-  "market_cap": 1898417225728,
-  "score": 95,
+  "precio": 401.365,
+  "market_cap": 1909526102016,
+  "score": 94,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 47.9%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 62.4%",
@@ -14,19 +14,19 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 49.0%, fiscal 29.1% \u2192 40.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $26.91B",
    "\u2705 PEG < 1.5 \u2014 0.31",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 31.3% (45 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 30.5% (45 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.90T"
+   "\u2705 Market cap > $2.00B \u2014 $1.91T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1783695038.1650424
+  "ultima_confirmacion": 1783703217.9562936
  },
  "PLTR": {
   "nombre": "Palantir Technologies Inc.",
   "sector": "Technology",
   "industria": "Software - Infrastructure",
-  "precio": 126.68,
-  "market_cap": 303691497472,
+  "precio": 127.7844,
+  "market_cap": 306339086336,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 84.7%",
@@ -35,20 +35,20 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 84.1%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 46.2%, fiscal 10.8% \u2192 31.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $2.10B",
-   "\u2705 PEG < 1.5 \u2014 1.44",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 44.6% (27 analistas)",
+   "\u2705 PEG < 1.5 \u2014 1.46",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 43.3% (27 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $303.69B"
+   "\u2705 Market cap > $2.00B \u2014 $306.34B"
   ],
   "primera": 1781792925.97318,
-  "ultima_confirmacion": 1783695038.1650424
+  "ultima_confirmacion": 1783703217.9562936
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 975.48,
-  "market_cap": 1101700399104,
+  "precio": 981.055,
+  "market_cap": 1107996835840,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 345.7%",
@@ -58,20 +58,20 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 80.4%, fiscal 5.2% \u2192 26.2%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $1.67B",
    "\u2705 PEG < 1.5 \u2014 0.06",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 52.3% (42 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 51.5% (42 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.10T"
+   "\u2705 Market cap > $2.00B \u2014 $1.11T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1783695038.1650424
+  "ultima_confirmacion": 1783703217.9562936
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
   "sector": "Technology",
   "industria": "Communication Equipment",
-  "precio": 459.75,
-  "market_cap": 65078960128,
-  "score": 89,
+  "precio": 463.035,
+  "market_cap": 65543958528,
+  "score": 88,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 39.5%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 26.6%",
@@ -80,12 +80,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 15.2%, fiscal 4.8% \u2192 6.5%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $665.3M",
    "\u2705 PEG < 1.5 \u2014 1.01",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 23.0% (19 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 22.2% (19 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $65.08B"
+   "\u2705 Market cap > $2.00B \u2014 $65.54B"
   ],
   "primera": 1782742745.5882063,
-  "ultima_confirmacion": 1783695038.1650424
+  "ultima_confirmacion": 1783703217.9562936
  },
  "TER": {
   "nombre": "Teradyne, Inc.",
