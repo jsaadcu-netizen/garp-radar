@@ -3,9 +3,9 @@
   "nombre": "Broadcom Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 394.17,
-  "market_cap": 1875295469568,
-  "score": 96,
+  "precio": 394.865,
+  "market_cap": 1878911090688,
+  "score": 95,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 47.9%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 62.4%",
@@ -14,12 +14,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 49.0%, fiscal 29.1% \u2192 40.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $26.91B",
    "\u2705 PEG < 1.5 \u2014 0.30",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 32.9% (45 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 32.6% (45 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
    "\u2705 Market cap > $2.00B \u2014 $1.88T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1784139545.105775
+  "ultima_confirmacion": 1784144743.1846995
  },
  "PLTR": {
   "nombre": "Palantir Technologies Inc.",
@@ -47,8 +47,8 @@
   "nombre": "Micron Technology, Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 907.0801,
-  "market_cap": 1024450035712,
+  "precio": 911.37,
+  "market_cap": 1029295046656,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 345.7%",
@@ -58,19 +58,19 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 80.4%, fiscal 5.2% \u2192 26.2%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $1.67B",
    "\u2705 PEG < 1.5 \u2014 0.06",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 63.8% (42 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 63.1% (42 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.02T"
+   "\u2705 Market cap > $2.00B \u2014 $1.03T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1784139545.105775
+  "ultima_confirmacion": 1784144743.1846995
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
   "sector": "Technology",
   "industria": "Communication Equipment",
-  "precio": 423.74,
-  "market_cap": 59981635584,
+  "precio": 422.15,
+  "market_cap": 59756568576,
   "score": 96,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 39.5%",
@@ -79,21 +79,21 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 43.0%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 15.2%, fiscal 4.8% \u2192 6.5%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $665.3M",
-   "\u2705 PEG < 1.5 \u2014 0.93",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 33.5% (19 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.92",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 34.0% (19 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $59.98B"
+   "\u2705 Market cap > $2.00B \u2014 $59.76B"
   ],
   "primera": 1782742745.5882063,
-  "ultima_confirmacion": 1784139545.105775
+  "ultima_confirmacion": 1784144743.1846995
  },
  "TER": {
   "nombre": "Teradyne, Inc.",
   "sector": "Technology",
   "industria": "Semiconductor Equipment & Materials",
-  "precio": 339.1325,
-  "market_cap": 53088534528,
-  "score": 91,
+  "precio": 341.85,
+  "market_cap": 53513936896,
+  "score": 90,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 87.0%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 23.5%",
@@ -102,19 +102,19 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 37.6%, fiscal 19.6% \u2192 21.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $450.4M",
    "\u2705 PEG < 1.5 \u2014 0.99",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 24.9% (17 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 23.9% (17 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $53.09B"
+   "\u2705 Market cap > $2.00B \u2014 $53.51B"
   ],
   "primera": 1783955406.1500144,
-  "ultima_confirmacion": 1784139545.105775
+  "ultima_confirmacion": 1784144743.1846995
  },
  "PAYP": {
   "nombre": "PayPay Corporation - American D",
   "sector": "Technology",
   "industria": "Software - Infrastructure",
-  "precio": 15.415,
-  "market_cap": 10438161408,
+  "precio": 15.6,
+  "market_cap": 10563432448,
   "score": 77,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 29.1%",
@@ -124,19 +124,19 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 18.8%, fiscal 20.5% \u2192 28.7%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $351.11B",
    "\u2705 PEG < 1.5 \u2014 0.64",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 60.8% (13 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 58.6% (13 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $10.44B"
+   "\u2705 Market cap > $2.00B \u2014 $10.56B"
   ],
   "primera": 1783999940.8136551,
-  "ultima_confirmacion": 1784139545.105775
+  "ultima_confirmacion": 1784144743.1846995
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
   "sector": "Technology",
   "industria": "Computer Hardware",
-  "precio": 819.94,
-  "market_cap": 183854317568,
+  "precio": 827.05,
+  "market_cap": 185448579072,
   "score": 88,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 44.1%",
@@ -146,12 +146,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 35.7%, fiscal 6.4% \u2192 21.1%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $818.0M",
    "\u2705 PEG < 1.5 \u2014 0.34",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 21.1% (23 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 20.0% (23 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $183.85B"
+   "\u2705 Market cap > $2.00B \u2014 $185.45B"
   ],
   "primera": 1784127676.9375374,
-  "ultima_confirmacion": 1784139545.105775
+  "ultima_confirmacion": 1784144743.1846995
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
