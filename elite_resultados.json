@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.78T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1784236501.5868704
+  "ultima_confirmacion": 1784240979.1254044
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -41,14 +41,14 @@
    "\u2705 Market cap > $2.00B \u2014 $963.60B"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1784236501.5868704
+  "ultima_confirmacion": 1784240979.1254044
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
   "sector": "Technology",
   "industria": "Communication Equipment",
-  "precio": 391.07,
-  "market_cap": 55357104128,
+  "precio": 388.81,
+  "market_cap": 55037194240,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 39.5%",
@@ -57,13 +57,13 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 43.0%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 15.2%, fiscal 4.8% \u2192 6.5%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $665.3M",
-   "\u2705 PEG < 1.5 \u2014 0.86",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 44.7% (19 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.85",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 45.5% (19 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $55.36B"
+   "\u2705 Market cap > $2.00B \u2014 $55.04B"
   ],
   "primera": 1782742745.5882063,
-  "ultima_confirmacion": 1784225939.5705826
+  "ultima_confirmacion": 1784240979.1254044
  },
  "TER": {
   "nombre": "Teradyne, Inc.",
@@ -85,14 +85,14 @@
    "\u2705 Market cap > $2.00B \u2014 $50.45B"
   ],
   "primera": 1783955406.1500144,
-  "ultima_confirmacion": 1784236501.5868704
+  "ultima_confirmacion": 1784240979.1254044
  },
  "PAYP": {
   "nombre": "PayPay Corporation - American D",
   "sector": "Technology",
   "industria": "Software - Infrastructure",
-  "precio": 15.48,
-  "market_cap": 10482174976,
+  "precio": 15.44,
+  "market_cap": 10455089152,
   "score": 77,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 29.1%",
@@ -102,12 +102,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 18.8%, fiscal 20.5% \u2192 28.7%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $351.11B",
    "\u2705 PEG < 1.5 \u2014 0.64",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 58.4% (13 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 59.0% (13 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $10.48B"
+   "\u2705 Market cap > $2.00B \u2014 $10.46B"
   ],
   "primera": 1783999940.8136551,
-  "ultima_confirmacion": 1784220219.183598
+  "ultima_confirmacion": 1784240979.1254044
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
@@ -129,7 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $168.67B"
   ],
   "primera": 1784127676.9375374,
-  "ultima_confirmacion": 1784236501.5868704
+  "ultima_confirmacion": 1784240979.1254044
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -145,13 +145,13 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 61.9%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 58.1%, fiscal 45.7% \u2192 50.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $992.38B",
-   "\u2705 PEG < 1.5 \u2014 0.73",
+   "\u2705 PEG < 1.5 \u2014 0.72",
    "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 21.6% (18 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
    "\u2705 Market cap > $2.00B \u2014 $2.13T"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1784236501.5868704
+  "ultima_confirmacion": 1784240979.1254044
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -173,7 +173,7 @@
    "\u2705 Market cap > $2.00B \u2014 $160.90B"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1784236501.5868704
+  "ultima_confirmacion": 1784240979.1254044
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -195,7 +195,7 @@
    "\u2705 Market cap > $2.00B \u2014 $38.78B"
   ],
   "primera": 1784214779.5589085,
-  "ultima_confirmacion": 1784236501.5868704
+  "ultima_confirmacion": 1784240979.1254044
  },
  "ADI": {
   "nombre": "Analog Devices, Inc.",
@@ -217,6 +217,6 @@
    "\u2705 Market cap > $2.00B \u2014 $185.35B"
   ],
   "primera": 1784214779.5589085,
-  "ultima_confirmacion": 1784236501.5868704
+  "ultima_confirmacion": 1784240979.1254044
  }
 }
