@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.88T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1784158413.5021167
+  "ultima_confirmacion": 1784172915.1258783
  },
  "PLTR": {
   "nombre": "Palantir Technologies Inc.",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.02T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1784158413.5021167
+  "ultima_confirmacion": 1784172915.1258783
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $59.23B"
   ],
   "primera": 1782742745.5882063,
-  "ultima_confirmacion": 1784158413.5021167
+  "ultima_confirmacion": 1784172915.1258783
  },
  "TER": {
   "nombre": "Teradyne, Inc.",
@@ -107,14 +107,14 @@
    "\u2705 Market cap > $2.00B \u2014 $53.56B"
   ],
   "primera": 1783955406.1500144,
-  "ultima_confirmacion": 1784158413.5021167
+  "ultima_confirmacion": 1784172915.1258783
  },
  "PAYP": {
   "nombre": "PayPay Corporation - American D",
   "sector": "Technology",
   "industria": "Software - Infrastructure",
-  "precio": 15.6,
-  "market_cap": 10563432448,
+  "precio": 15.64,
+  "market_cap": 10590518272,
   "score": 77,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 29.1%",
@@ -123,13 +123,13 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 53.1%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 18.8%, fiscal 20.5% \u2192 28.7%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $351.11B",
-   "\u2705 PEG < 1.5 \u2014 0.64",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 58.6% (13 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.65",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 57.2% (13 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $10.56B"
+   "\u2705 Market cap > $2.00B \u2014 $10.59B"
   ],
   "primera": 1783999940.8136551,
-  "ultima_confirmacion": 1784144743.1846995
+  "ultima_confirmacion": 1784172915.1258783
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
@@ -195,6 +195,6 @@
    "\u2705 Market cap > $2.00B \u2014 $177.11B"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1784158413.5021167
+  "ultima_confirmacion": 1784172915.1258783
  }
 }
