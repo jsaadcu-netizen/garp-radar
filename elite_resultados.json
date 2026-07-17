@@ -19,10 +19,10 @@
    "\u2705 Market cap > $2.00B \u2014 $1.78T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1784270310.6089325
+  "ultima_confirmacion": 1784280035.3319507
  },
  "MU": {
-  "nombre": "Micron Technology, Inc.",
+  "nombre": "MU",
   "sector": "Technology",
   "industria": "Semiconductors",
   "precio": 853.2,
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $963.60B"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1784270310.6089325
+  "ultima_confirmacion": 1784280035.3319507
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
@@ -66,7 +66,7 @@
   "ultima_confirmacion": 1784244580.1942725
  },
  "TER": {
-  "nombre": "Teradyne, Inc.",
+  "nombre": "TER",
   "sector": "Technology",
   "industria": "Semiconductor Equipment & Materials",
   "precio": 322.3,
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $50.45B"
   ],
   "primera": 1783955406.1500144,
-  "ultima_confirmacion": 1784270310.6089325
+  "ultima_confirmacion": 1784280035.3319507
  },
  "PAYP": {
   "nombre": "PayPay Corporation - American D",
@@ -110,7 +110,7 @@
   "ultima_confirmacion": 1784244580.1942725
  },
  "STX": {
-  "nombre": "Seagate Technology Holdings PLC",
+  "nombre": "STX",
   "sector": "Technology",
   "industria": "Computer Hardware",
   "precio": 745.49,
@@ -129,7 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $168.67B"
   ],
   "primera": 1784127676.9375374,
-  "ultima_confirmacion": 1784270310.6089325
+  "ultima_confirmacion": 1784280035.3319507
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -151,7 +151,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.13T"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1784270310.6089325
+  "ultima_confirmacion": 1784280035.3319507
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -173,7 +173,7 @@
    "\u2705 Market cap > $2.00B \u2014 $160.90B"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1784270310.6089325
+  "ultima_confirmacion": 1784280035.3319507
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -195,10 +195,10 @@
    "\u2705 Market cap > $2.00B \u2014 $38.78B"
   ],
   "primera": 1784214779.5589085,
-  "ultima_confirmacion": 1784270310.6089325
+  "ultima_confirmacion": 1784280035.3319507
  },
  "ADI": {
-  "nombre": "Analog Devices, Inc.",
+  "nombre": "ADI",
   "sector": "Technology",
   "industria": "Semiconductors",
   "precio": 380.53,
@@ -217,6 +217,6 @@
    "\u2705 Market cap > $2.00B \u2014 $185.35B"
   ],
   "primera": 1784214779.5589085,
-  "ultima_confirmacion": 1784270310.6089325
+  "ultima_confirmacion": 1784280035.3319507
  }
 }
