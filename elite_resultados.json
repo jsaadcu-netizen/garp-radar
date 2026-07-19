@@ -19,10 +19,10 @@
    "\u2705 Market cap > $2.00B \u2014 $1.76T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1784422982.0799117
+  "ultima_confirmacion": 1784435641.0544343
  },
  "MU": {
-  "nombre": "MU",
+  "nombre": "Micron Technology, Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
   "precio": 848.95,
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $958.80B"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1784422982.0799117
+  "ultima_confirmacion": 1784435641.0544343
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
@@ -63,10 +63,10 @@
    "\u2705 Market cap > $2.00B \u2014 $53.00B"
   ],
   "primera": 1782742745.5882063,
-  "ultima_confirmacion": 1784422982.0799117
+  "ultima_confirmacion": 1784435641.0544343
  },
  "TER": {
-  "nombre": "TER",
+  "nombre": "Teradyne, Inc.",
   "sector": "Technology",
   "industria": "Semiconductor Equipment & Materials",
   "precio": 322.355,
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $50.46B"
   ],
   "primera": 1783955406.1500144,
-  "ultima_confirmacion": 1784422982.0799117
+  "ultima_confirmacion": 1784435641.0544343
  },
  "PAYP": {
   "nombre": "PayPay Corporation - American D",
@@ -110,11 +110,11 @@
   "ultima_confirmacion": 1784309418.909323
  },
  "STX": {
-  "nombre": "STX",
+  "nombre": "Seagate Technology Holdings PLC",
   "sector": "Technology",
   "industria": "Computer Hardware",
   "precio": 787.66,
-  "market_cap": 178209734656,
+  "market_cap": 176616194048,
   "score": 93,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 44.1%",
@@ -126,10 +126,10 @@
    "\u2705 PEG < 1.5 \u2014 0.30",
    "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 28.1% (23 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $178.21B"
+   "\u2705 Market cap > $2.00B \u2014 $176.62B"
   ],
   "primera": 1784127676.9375374,
-  "ultima_confirmacion": 1784422982.0799117
+  "ultima_confirmacion": 1784435641.0544343
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -151,10 +151,10 @@
    "\u2705 Market cap > $2.00B \u2014 $2.07T"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1784422982.0799117
+  "ultima_confirmacion": 1784435641.0544343
  },
  "WDC": {
-  "nombre": "WDC",
+  "nombre": "Western Digital Corporation",
   "sector": "Technology",
   "industria": "Computer Hardware",
   "precio": 477.22,
@@ -173,7 +173,7 @@
    "\u2705 Market cap > $2.00B \u2014 $164.49B"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1784422982.0799117
+  "ultima_confirmacion": 1784435641.0544343
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -195,10 +195,10 @@
    "\u2705 Market cap > $2.00B \u2014 $37.80B"
   ],
   "primera": 1784214779.5589085,
-  "ultima_confirmacion": 1784422982.0799117
+  "ultima_confirmacion": 1784435641.0544343
  },
  "ADI": {
-  "nombre": "ADI",
+  "nombre": "Analog Devices, Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
   "precio": 375.36,
@@ -217,7 +217,7 @@
    "\u2705 Market cap > $2.00B \u2014 $182.83B"
   ],
   "primera": 1784214779.5589085,
-  "ultima_confirmacion": 1784422982.0799117
+  "ultima_confirmacion": 1784435641.0544343
  },
  "PLTR": {
   "nombre": "Palantir Technologies Inc.",
