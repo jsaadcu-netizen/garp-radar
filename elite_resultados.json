@@ -3,8 +3,8 @@
   "nombre": "Broadcom Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 396.425,
-  "market_cap": 1886023712768,
+  "precio": 396.68,
+  "market_cap": 1887236915200,
   "score": 95,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 47.9%",
@@ -19,36 +19,36 @@
    "\u2705 Market cap > $2.00B \u2014 $1.89T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1784739352.0487976
+  "ultima_confirmacion": 1784744457.7823448
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 975.335,
-  "market_cap": 1101536690176,
+  "precio": 970.535,
+  "market_cap": 1096115552256,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 345.7%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 81.4%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 84.0%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 1368.5%",
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 72.6%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 80.4%, fiscal 5.2% \u2192 26.2%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $1.67B",
    "\u2705 PEG < 1.5 \u2014 0.06",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 53.0% (42 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 55.3% (42 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
    "\u2705 Market cap > $2.00B \u2014 $1.10T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1784739352.0487976
+  "ultima_confirmacion": 1784744457.7823448
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
   "sector": "Technology",
   "industria": "Communication Equipment",
-  "precio": 403.47,
-  "market_cap": 57112358912,
+  "precio": 402.47,
+  "market_cap": 56970805248,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 39.5%",
@@ -58,12 +58,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 15.2%, fiscal 4.8% \u2192 6.5%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $665.3M",
    "\u2705 PEG < 1.5 \u2014 0.88",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 40.2% (19 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 40.6% (19 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $57.11B"
+   "\u2705 Market cap > $2.00B \u2014 $56.97B"
   ],
   "primera": 1782742745.5882063,
-  "ultima_confirmacion": 1784739352.0487976
+  "ultima_confirmacion": 1784744457.7823448
  },
  "TER": {
   "nombre": "Teradyne, Inc.",
@@ -113,8 +113,8 @@
   "nombre": "Taiwan Semiconductor Manufactur",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 422.935,
-  "market_cap": 2193541300224,
+  "precio": 422.1,
+  "market_cap": 2189210681344,
   "score": 87,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 36.0%",
@@ -124,12 +124,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 60.3%, fiscal 45.7% \u2192 50.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $992.38B",
    "\u2705 PEG < 1.5 \u2014 0.72",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 24.7% (18 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 24.9% (18 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
    "\u2705 Market cap > $2.00B \u2014 $2.19T"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1784739352.0487976
+  "ultima_confirmacion": 1784744457.7823448
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -157,9 +157,9 @@
   "nombre": "Credo Technology Group Holding ",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 229.0,
-  "market_cap": 42703441920,
-  "score": 89,
+  "precio": 229.22,
+  "market_cap": 42744463360,
+  "score": 88,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 157.0%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 49.3%",
@@ -168,12 +168,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 35.7%, fiscal 8.5% \u2192 33.3%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $407.0M",
    "\u2705 PEG < 1.5 \u2014 0.53",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 21.6% (19 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 21.5% (19 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $42.70B"
+   "\u2705 Market cap > $2.00B \u2014 $42.74B"
   ],
   "primera": 1784214779.5589085,
-  "ultima_confirmacion": 1784739352.0487976
+  "ultima_confirmacion": 1784744457.7823448
  },
  "ADI": {
   "nombre": "Analog Devices, Inc.",
@@ -201,8 +201,8 @@
   "nombre": "Palantir Technologies Inc.",
   "sector": "Technology",
   "industria": "Software - Infrastructure",
-  "precio": 125.885,
-  "market_cap": 301785612288,
+  "precio": 123.77,
+  "market_cap": 296715288576,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 84.7%",
@@ -211,12 +211,12 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 84.1%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 46.2%, fiscal 10.8% \u2192 31.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $2.10B",
-   "\u2705 PEG < 1.5 \u2014 1.43",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 45.5% (27 analistas)",
+   "\u2705 PEG < 1.5 \u2014 1.41",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 48.0% (27 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $301.79B"
+   "\u2705 Market cap > $2.00B \u2014 $296.72B"
   ],
   "primera": 1784733412.3317184,
-  "ultima_confirmacion": 1784739352.0487976
+  "ultima_confirmacion": 1784744457.7823448
  }
 }
