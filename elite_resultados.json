@@ -3,9 +3,9 @@
   "nombre": "Broadcom Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 391.105,
-  "market_cap": 1860713447424,
-  "score": 96,
+  "precio": 389.35,
+  "market_cap": 1852363898880,
+  "score": 97,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 47.9%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 62.9%",
@@ -14,19 +14,19 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 49.0%, fiscal 29.1% \u2192 40.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $26.91B",
    "\u2705 PEG < 1.5 \u2014 0.30",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 34.3% (45 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 35.0% (45 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.86T"
+   "\u2705 Market cap > $2.00B \u2014 $1.85T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1784828736.922661
+  "ultima_confirmacion": 1784835873.023918
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 997.71,
-  "market_cap": 1126366445568,
+  "precio": 981.0701,
+  "market_cap": 1108013875200,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 345.7%",
@@ -36,20 +36,20 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 80.4%, fiscal 5.2% \u2192 26.2%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $1.67B",
    "\u2705 PEG < 1.5 \u2014 0.06",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 51.1% (42 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 53.6% (42 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.13T"
+   "\u2705 Market cap > $2.00B \u2014 $1.11T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1784828736.922661
+  "ultima_confirmacion": 1784835873.023918
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
   "sector": "Technology",
   "industria": "Communication Equipment",
-  "precio": 409.68,
-  "market_cap": 57991401472,
-  "score": 98,
+  "precio": 402.88,
+  "market_cap": 57028845568,
+  "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 39.5%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 26.6%",
@@ -57,21 +57,21 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 43.0%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 15.2%, fiscal 4.8% \u2192 6.5%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $665.3M",
-   "\u2705 PEG < 1.5 \u2014 0.90",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 38.1% (19 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.88",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 40.4% (19 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $57.99B"
+   "\u2705 Market cap > $2.00B \u2014 $57.03B"
   ],
   "primera": 1782742745.5882063,
-  "ultima_confirmacion": 1784828736.922661
+  "ultima_confirmacion": 1784835873.023918
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 416.515,
-  "market_cap": 2160244293632,
-  "score": 88,
+  "precio": 413.53,
+  "market_cap": 2144762593280,
+  "score": 89,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 36.0%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 31.3%",
@@ -80,12 +80,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 60.3%, fiscal 45.7% \u2192 50.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $992.38B",
    "\u2705 PEG < 1.5 \u2014 0.71",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 26.6% (18 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 27.5% (18 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $2.16T"
+   "\u2705 Market cap > $2.00B \u2014 $2.14T"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1784828736.922661
+  "ultima_confirmacion": 1784835873.023918
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -135,8 +135,8 @@
   "nombre": "Palantir Technologies Inc.",
   "sector": "Technology",
   "industria": "Software - Infrastructure",
-  "precio": 122.15,
-  "market_cap": 292783718400,
+  "precio": 122.3,
+  "market_cap": 293191254016,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 84.7%",
@@ -146,11 +146,11 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 46.2%, fiscal 10.8% \u2192 31.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $2.10B",
    "\u2705 PEG < 1.5 \u2014 1.39",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 49.9% (27 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 49.7% (27 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $292.78B"
+   "\u2705 Market cap > $2.00B \u2014 $293.19B"
   ],
   "primera": 1784733412.3317184,
-  "ultima_confirmacion": 1784828736.922661
+  "ultima_confirmacion": 1784835873.023918
  }
 }
