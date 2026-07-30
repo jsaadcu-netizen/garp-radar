@@ -5,7 +5,7 @@
   "industria": "Semiconductors",
   "precio": 387.84,
   "market_cap": 1845179973632,
-  "score": 97,
+  "score": 98,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 47.9%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 63.3%",
@@ -14,12 +14,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 49.0%, fiscal 29.1% \u2192 40.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $26.91B",
    "\u2705 PEG < 1.5 \u2014 0.29",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 35.9% (45 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 36.1% (45 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
    "\u2705 Market cap > $2.00B \u2014 $1.85T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1785443671.0686557
+  "ultima_confirmacion": 1785449889.2336736
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $987.84B"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1785443671.0686557
+  "ultima_confirmacion": 1785449889.2336736
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.09T"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1785443671.0686557
+  "ultima_confirmacion": 1785449889.2336736
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $37.50B"
   ],
   "primera": 1784214779.5589085,
-  "ultima_confirmacion": 1785443671.0686557
+  "ultima_confirmacion": 1785449889.2336736
  },
  "ADI": {
   "nombre": "Analog Devices, Inc.",
@@ -129,7 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $178.60B"
   ],
   "primera": 1784214779.5589085,
-  "ultima_confirmacion": 1785443671.0686557
+  "ultima_confirmacion": 1785449889.2336736
  },
  "PLTR": {
   "nombre": "Palantir Technologies Inc.",
@@ -151,7 +151,7 @@
    "\u2705 Market cap > $2.00B \u2014 $293.10B"
   ],
   "primera": 1784733412.3317184,
-  "ultima_confirmacion": 1785443671.0686557
+  "ultima_confirmacion": 1785449889.2336736
  },
  "TER": {
   "nombre": "Teradyne, Inc.",
@@ -195,7 +195,7 @@
    "\u2705 Market cap > $2.00B \u2014 $183.73B"
   ],
   "primera": 1784922295.3935115,
-  "ultima_confirmacion": 1785443671.0686557
+  "ultima_confirmacion": 1785449889.2336736
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
