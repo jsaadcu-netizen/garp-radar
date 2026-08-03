@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.85T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1785712293.6156297
+  "ultima_confirmacion": 1785716025.870883
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -41,29 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $929.52B"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1785712293.6156297
- },
- "CIEN": {
-  "nombre": "Ciena Corporation",
-  "sector": "Technology",
-  "industria": "Communication Equipment",
-  "precio": 377.05,
-  "market_cap": 53372530688,
-  "score": 100,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 39.5%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 26.6%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 2383.3%",
-   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 43.0%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 15.2%, fiscal 4.8% \u2192 6.5%",
-   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $665.3M",
-   "\u2705 PEG < 1.5 \u2014 0.83",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 50.0% (19 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $53.37B"
-  ],
-  "primera": 1782742745.5882063,
-  "ultima_confirmacion": 1785540639.8766809
+  "ultima_confirmacion": 1785716025.870883
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -85,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.10T"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1785712293.6156297
+  "ultima_confirmacion": 1785716025.870883
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -107,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $38.60B"
   ],
   "primera": 1784214779.5589085,
-  "ultima_confirmacion": 1785712293.6156297
+  "ultima_confirmacion": 1785716025.870883
  },
  "ADI": {
   "nombre": "Analog Devices, Inc.",
@@ -129,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $178.96B"
   ],
   "primera": 1784214779.5589085,
-  "ultima_confirmacion": 1785712293.6156297
+  "ultima_confirmacion": 1785716025.870883
  },
  "PLTR": {
   "nombre": "Palantir Technologies Inc.",
@@ -151,7 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $295.01B"
   ],
   "primera": 1784733412.3317184,
-  "ultima_confirmacion": 1785712293.6156297
+  "ultima_confirmacion": 1785716025.870883
  },
  "TER": {
   "nombre": "Teradyne, Inc.",
@@ -173,7 +151,7 @@
    "\u2705 Market cap > $2.00B \u2014 $57.56B"
   ],
   "primera": 1784915432.6778107,
-  "ultima_confirmacion": 1785712293.6156297
+  "ultima_confirmacion": 1785716025.870883
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -195,7 +173,7 @@
    "\u2705 Market cap > $2.00B \u2014 $187.80B"
   ],
   "primera": 1784922295.3935115,
-  "ultima_confirmacion": 1785712293.6156297
+  "ultima_confirmacion": 1785716025.870883
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -217,7 +195,7 @@
    "\u2705 Market cap > $2.00B \u2014 $776.41B"
   ],
   "primera": 1785249618.784243,
-  "ultima_confirmacion": 1785712293.6156297
+  "ultima_confirmacion": 1785716025.870883
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -239,7 +217,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.02T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1785712293.6156297
+  "ultima_confirmacion": 1785716025.870883
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -261,6 +239,6 @@
    "\u2705 Market cap > $2.00B \u2014 $366.65B"
   ],
   "primera": 1785643444.4320374,
-  "ultima_confirmacion": 1785712293.6156297
+  "ultima_confirmacion": 1785716025.870883
  }
 }
