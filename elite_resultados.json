@@ -3,9 +3,9 @@
   "nombre": "Broadcom Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 416.885,
-  "market_cap": 1983363940352,
-  "score": 92,
+  "precio": 420.76,
+  "market_cap": 2001799479296,
+  "score": 91,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 47.9%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 63.3%",
@@ -14,12 +14,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 49.0%, fiscal 29.1% \u2192 40.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $26.91B",
    "\u2705 PEG < 1.5 \u2014 0.32",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 26.6% (45 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 25.5% (45 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.98T"
+   "\u2705 Market cap > $2.00B \u2014 $2.00T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1785862984.5611598
+  "ultima_confirmacion": 1785869462.320773
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -47,8 +47,8 @@
   "nombre": "Taiwan Semiconductor Manufactur",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 417.49,
-  "market_cap": 2165300920320,
+  "precio": 418.955,
+  "market_cap": 2172899164160,
   "score": 90,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 36.0%",
@@ -58,12 +58,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 60.3%, fiscal 45.7% \u2192 50.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $992.38B",
    "\u2705 PEG < 1.5 \u2014 0.68",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 29.4% (18 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 28.9% (18 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
    "\u2705 Market cap > $2.00B \u2014 $2.17T"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1785862984.5611598
+  "ultima_confirmacion": 1785869462.320773
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -201,8 +201,8 @@
   "nombre": "SK hynix Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 151.95,
-  "market_cap": 1078624452608,
+  "precio": 153.84,
+  "market_cap": 1092040720384,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 256.8%",
@@ -211,13 +211,13 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 70.2%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 76.3%, fiscal 35.5% \u2192 48.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $24.79T",
-   "\u2705 PEG < 1.5 \u2014 0.16",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 61.2% (6 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.17",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 59.3% (6 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.08T"
+   "\u2705 Market cap > $2.00B \u2014 $1.09T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1785862984.5611598
+  "ultima_confirmacion": 1785869462.320773
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -284,5 +284,27 @@
   ],
   "primera": 1785836989.5629776,
   "ultima_confirmacion": 1785836989.5629776
+ },
+ "LFTO": {
+  "nombre": "Liftoff Mobile, Inc.",
+  "sector": "Communication Services",
+  "industria": "Advertising Agencies",
+  "precio": 25.8,
+  "market_cap": 4368727552,
+  "score": 96,
+  "criterios": [
+   "\u2705 Ingresos YoY > 25.0% \u2014 37.1%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 16.4%",
+   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 1233.3%",
+   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 85.7%",
+   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 41.8%, fiscal 20.4% \u2192 24.4%",
+   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $113.2M",
+   "\u2705 PEG < 1.5 \u2014 0.05",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 37.4% (13 analistas)",
+   "\u2705 Consenso Buy/Strong Buy \u2014 buy",
+   "\u2705 Market cap > $2.00B \u2014 $4.37B"
+  ],
+  "primera": 1785869462.320773,
+  "ultima_confirmacion": 1785869462.320773
  }
 }
