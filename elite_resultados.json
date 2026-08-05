@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.99T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1785886378.9879713
+  "ultima_confirmacion": 1785900643.820158
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.01T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1785882071.6884289
+  "ultima_confirmacion": 1785900643.820158
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.16T"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1785886378.9879713
+  "ultima_confirmacion": 1785900643.820158
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $185.23B"
   ],
   "primera": 1784214779.5589085,
-  "ultima_confirmacion": 1785882071.6884289
+  "ultima_confirmacion": 1785900643.820158
  },
  "PLTR": {
   "nombre": "Palantir Technologies Inc.",
@@ -217,7 +217,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.10T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1785886378.9879713
+  "ultima_confirmacion": 1785900643.820158
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -290,7 +290,7 @@
   "sector": "Communication Services",
   "industria": "Advertising Agencies",
   "precio": 25.51,
-  "market_cap": 4319621632,
+  "market_cap": 4246918400,
   "score": 97,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 37.1%",
@@ -302,9 +302,9 @@
    "\u2705 PEG < 1.5 \u2014 0.05",
    "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 39.0% (13 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $4.32B"
+   "\u2705 Market cap > $2.00B \u2014 $4.25B"
   ],
   "primera": 1785869462.320773,
-  "ultima_confirmacion": 1785886378.9879713
+  "ultima_confirmacion": 1785900643.820158
  }
 }
