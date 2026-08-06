@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.99T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1786000831.8416102
+  "ultima_confirmacion": 1786010944.5822425
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.15T"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1786000831.8416102
+  "ultima_confirmacion": 1786010944.5822425
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -108,28 +108,6 @@
   ],
   "primera": 1784214779.5589085,
   "ultima_confirmacion": 1785977756.4171143
- },
- "PLTR": {
-  "nombre": "Palantir Technologies Inc.",
-  "sector": "Technology",
-  "industria": "Software - Infrastructure",
-  "precio": 125.65,
-  "market_cap": 301222264832,
-  "score": 100,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 84.7%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 45.4%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 325.0%",
-   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 84.1%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 46.2%, fiscal 10.8% \u2192 31.6%",
-   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $2.10B",
-   "\u2705 PEG < 1.5 \u2014 1.42",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 45.0% (27 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $301.22B"
-  ],
-  "primera": 1784733412.3317184,
-  "ultima_confirmacion": 1785836989.5629776
  },
  "TER": {
   "nombre": "Teradyne, Inc.",
@@ -195,7 +173,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.07T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1786000831.8416102
+  "ultima_confirmacion": 1786010944.5822425
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -240,28 +218,6 @@
   ],
   "primera": 1785783967.6593692,
   "ultima_confirmacion": 1785845835.0692124
- },
- "CIEN": {
-  "nombre": "Ciena Corporation",
-  "sector": "Technology",
-  "industria": "Communication Equipment",
-  "precio": 390.76,
-  "market_cap": 55313223680,
-  "score": 100,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 39.5%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 26.6%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 2383.3%",
-   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 43.0%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 15.2%, fiscal 4.8% \u2192 6.5%",
-   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $665.3M",
-   "\u2705 PEG < 1.5 \u2014 0.86",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 44.8% (19 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $55.31B"
-  ],
-  "primera": 1785836989.5629776,
-  "ultima_confirmacion": 1785836989.5629776
  },
  "LFTO": {
   "nombre": "Liftoff Mobile, Inc.",
@@ -327,6 +283,6 @@
    "\u2705 Market cap > $2.00B \u2014 $189.85B"
   ],
   "primera": 1785990574.3195243,
-  "ultima_confirmacion": 1786000831.8416102
+  "ultima_confirmacion": 1786010944.5822425
  }
 }
