@@ -19,14 +19,14 @@
    "\u2705 Market cap > $2.00B \u2014 $2.04T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1786136231.9028592
+  "ultima_confirmacion": 1786139677.605663
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 878.33,
-  "market_cap": 992070205440,
+  "precio": 877.57,
+  "market_cap": 991121571840,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 345.7%",
@@ -36,12 +36,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 80.4%, fiscal 5.2% \u2192 26.2%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $1.67B",
    "\u2705 PEG < 1.5 \u2014 0.05",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 71.7% (43 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 71.8% (43 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $992.07B"
+   "\u2705 Market cap > $2.00B \u2014 $991.12B"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1786118885.3569055
+  "ultima_confirmacion": 1786139677.605663
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.18T"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1786136231.9028592
+  "ultima_confirmacion": 1786139677.605663
  },
  "ADI": {
   "nombre": "Analog Devices, Inc.",
@@ -91,8 +91,8 @@
   "nombre": "Western Digital Corporation",
   "sector": "Technology",
   "industria": "Computer Hardware",
-  "precio": 435.95,
-  "market_cap": 150264184832,
+  "precio": 434.3,
+  "market_cap": 149695447040,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 43.8%",
@@ -102,12 +102,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 42.9%, fiscal 1.5% \u2192 22.4%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $1.28B",
    "\u2705 PEG < 1.5 \u2014 0.24",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 52.6% (24 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 53.2% (24 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $150.26B"
+   "\u2705 Market cap > $2.00B \u2014 $149.70B"
   ],
   "primera": 1784922295.3935115,
-  "ultima_confirmacion": 1786118885.3569055
+  "ultima_confirmacion": 1786139677.605663
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -129,7 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $978.96B"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1786136231.9028592
+  "ultima_confirmacion": 1786139677.605663
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -173,14 +173,14 @@
    "\u2705 Market cap > $2.00B \u2014 $789.07B"
   ],
   "primera": 1785941702.957834,
-  "ultima_confirmacion": 1786136231.9028592
+  "ultima_confirmacion": 1786139677.605663
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
   "sector": "Technology",
   "industria": "Computer Hardware",
   "precio": 812.76,
-  "market_cap": 184207589376,
+  "market_cap": 184496521216,
   "score": 98,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 48.5%",
@@ -192,10 +192,10 @@
    "\u2705 PEG < 1.5 \u2014 0.27",
    "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 37.3% (23 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $184.21B"
+   "\u2705 Market cap > $2.00B \u2014 $184.50B"
   ],
   "primera": 1785990574.3195243,
-  "ultima_confirmacion": 1786136231.9028592
+  "ultima_confirmacion": 1786139677.605663
  },
  "SITM": {
   "nombre": "SiTime Corporation",
@@ -283,6 +283,6 @@
    "\u2705 Market cap > $2.00B \u2014 $45.99B"
   ],
   "primera": 1786118885.3569055,
-  "ultima_confirmacion": 1786136231.9028592
+  "ultima_confirmacion": 1786139677.605663
  }
 }
