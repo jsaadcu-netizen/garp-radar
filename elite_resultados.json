@@ -3,9 +3,9 @@
   "nombre": "Broadcom Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 420.565,
-  "market_cap": 2000871751680,
-  "score": 91,
+  "precio": 427.63,
+  "market_cap": 2034484117504,
+  "score": 90,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 47.9%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 63.3%",
@@ -14,12 +14,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 49.0%, fiscal 29.1% \u2192 40.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $26.91B",
    "\u2705 PEG < 1.5 \u2014 0.32",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 25.5% (45 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 23.4% (45 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $2.00T"
+   "\u2705 Market cap > $2.00B \u2014 $2.03T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1786104537.8361037
+  "ultima_confirmacion": 1786109875.8306978
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -47,9 +47,9 @@
   "nombre": "Taiwan Semiconductor Manufactur",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 418.2,
-  "market_cap": 2168983519232,
-  "score": 90,
+  "precio": 421.155,
+  "market_cap": 2184309506048,
+  "score": 89,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 36.0%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 32.6%",
@@ -58,12 +58,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 60.3%, fiscal 45.7% \u2192 50.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $992.38B",
    "\u2705 PEG < 1.5 \u2014 0.68",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 29.2% (18 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 28.3% (18 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $2.17T"
+   "\u2705 Market cap > $2.00B \u2014 $2.18T"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1786104537.8361037
+  "ultima_confirmacion": 1786109875.8306978
  },
  "ADI": {
   "nombre": "Analog Devices, Inc.",
@@ -113,8 +113,8 @@
   "nombre": "SK hynix Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 143.53,
-  "market_cap": 1018854703104,
+  "precio": 139.0,
+  "market_cap": 986698285056,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 256.8%",
@@ -124,12 +124,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 76.3%, fiscal 35.5% \u2192 48.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $24.79T",
    "\u2705 PEG < 1.5 \u2014 0.16",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 70.1% (12 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 75.7% (12 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.02T"
+   "\u2705 Market cap > $2.00B \u2014 $986.70B"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1786104537.8361037
+  "ultima_confirmacion": 1786109875.8306978
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -153,35 +153,13 @@
   "primera": 1785643444.4320374,
   "ultima_confirmacion": 1786104537.8361037
  },
- "LFTO": {
-  "nombre": "Liftoff Mobile, Inc.",
-  "sector": "Communication Services",
-  "industria": "Advertising Agencies",
-  "precio": 25.51,
-  "market_cap": 4246918400,
-  "score": 97,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 37.1%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 16.4%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 1233.3%",
-   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 85.7%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 41.8%, fiscal 20.4% \u2192 24.4%",
-   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $113.2M",
-   "\u2705 PEG < 1.5 \u2014 0.05",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 39.0% (13 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $4.25B"
-  ],
-  "primera": 1785869462.320773,
-  "ultima_confirmacion": 1785932099.30342
- },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 489.28,
-  "market_cap": 798737367040,
-  "score": 90,
+  "precio": 481.44,
+  "market_cap": 785938776064,
+  "score": 91,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 50.1%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 72.0%",
@@ -189,21 +167,21 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 55.7%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 17.2%, fiscal 8.1% \u2192 10.7%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $6.74B",
-   "\u2705 PEG < 1.5 \u2014 0.34",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 24.3% (46 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.33",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 26.3% (46 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $798.74B"
+   "\u2705 Market cap > $2.00B \u2014 $785.94B"
   ],
   "primera": 1785941702.957834,
-  "ultima_confirmacion": 1786104537.8361037
+  "ultima_confirmacion": 1786109875.8306978
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
   "sector": "Technology",
   "industria": "Computer Hardware",
-  "precio": 852.95,
-  "market_cap": 193316438016,
-  "score": 94,
+  "precio": 830.0,
+  "market_cap": 188114944000,
+  "score": 97,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 48.5%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 33.0%",
@@ -211,13 +189,13 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 45.6%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 43.1%, fiscal 21.1% \u2192 34.7%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $3.10B",
-   "\u2705 PEG < 1.5 \u2014 0.28",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 30.8% (23 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.27",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 34.4% (23 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $193.32B"
+   "\u2705 Market cap > $2.00B \u2014 $188.11B"
   ],
   "primera": 1785990574.3195243,
-  "ultima_confirmacion": 1786104537.8361037
+  "ultima_confirmacion": 1786109875.8306978
  },
  "SITM": {
   "nombre": "SiTime Corporation",
