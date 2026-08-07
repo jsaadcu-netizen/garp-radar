@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.00T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1786081783.895811
+  "ultima_confirmacion": 1786088377.2682526
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $995.53B"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1786075391.5420735
+  "ultima_confirmacion": 1786088377.2682526
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.17T"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1786081783.895811
+  "ultima_confirmacion": 1786088377.2682526
  },
  "ADI": {
   "nombre": "Analog Devices, Inc.",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $155.63B"
   ],
   "primera": 1784922295.3935115,
-  "ultima_confirmacion": 1786075391.5420735
+  "ultima_confirmacion": 1786088377.2682526
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -129,7 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.02T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1786081783.895811
+  "ultima_confirmacion": 1786088377.2682526
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -151,7 +151,7 @@
    "\u2705 Market cap > $2.00B \u2014 $382.60B"
   ],
   "primera": 1785643444.4320374,
-  "ultima_confirmacion": 1786081783.895811
+  "ultima_confirmacion": 1786088377.2682526
  },
  "LFTO": {
   "nombre": "Liftoff Mobile, Inc.",
@@ -195,14 +195,14 @@
    "\u2705 Market cap > $2.00B \u2014 $798.74B"
   ],
   "primera": 1785941702.957834,
-  "ultima_confirmacion": 1786081783.895811
+  "ultima_confirmacion": 1786088377.2682526
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
   "sector": "Technology",
   "industria": "Computer Hardware",
   "precio": 852.95,
-  "market_cap": 193316438016,
+  "market_cap": 193619656704,
   "score": 94,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 48.5%",
@@ -214,9 +214,9 @@
    "\u2705 PEG < 1.5 \u2014 0.28",
    "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 30.8% (23 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $193.32B"
+   "\u2705 Market cap > $2.00B \u2014 $193.62B"
   ],
   "primera": 1785990574.3195243,
-  "ultima_confirmacion": 1786081783.895811
+  "ultima_confirmacion": 1786088377.2682526
  }
 }
