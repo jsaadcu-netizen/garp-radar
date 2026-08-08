@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.04T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1786179523.6691103
+  "ultima_confirmacion": 1786182799.7832906
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $991.12B"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1786176078.9533474
+  "ultima_confirmacion": 1786182799.7832906
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.18T"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1786179523.6691103
+  "ultima_confirmacion": 1786182799.7832906
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $149.70B"
   ],
   "primera": 1784922295.3935115,
-  "ultima_confirmacion": 1786176078.9533474
+  "ultima_confirmacion": 1786182799.7832906
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $978.96B"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1786179523.6691103
+  "ultima_confirmacion": 1786182799.7832906
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -151,14 +151,14 @@
    "\u2705 Market cap > $2.00B \u2014 $789.07B"
   ],
   "primera": 1785941702.957834,
-  "ultima_confirmacion": 1786179523.6691103
+  "ultima_confirmacion": 1786182799.7832906
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
   "sector": "Technology",
   "industria": "Computer Hardware",
   "precio": 812.76,
-  "market_cap": 184207589376,
+  "market_cap": 184496521216,
   "score": 98,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 48.5%",
@@ -170,10 +170,10 @@
    "\u2705 PEG < 1.5 \u2014 0.27",
    "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 37.3% (23 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $184.21B"
+   "\u2705 Market cap > $2.00B \u2014 $184.50B"
   ],
   "primera": 1785990574.3195243,
-  "ultima_confirmacion": 1786179523.6691103
+  "ultima_confirmacion": 1786182799.7832906
  },
  "SITM": {
   "nombre": "SiTime Corporation",
@@ -261,6 +261,6 @@
    "\u2705 Market cap > $2.00B \u2014 $45.99B"
   ],
   "primera": 1786118885.3569055,
-  "ultima_confirmacion": 1786179523.6691103
+  "ultima_confirmacion": 1786182799.7832906
  }
 }
