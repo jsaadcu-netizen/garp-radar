@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.01T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1786420889.4229805
+  "ultima_confirmacion": 1786425673.7482479
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $972.41B"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1786420889.4229805
+  "ultima_confirmacion": 1786425673.7482479
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.17T"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1786420889.4229805
+  "ultima_confirmacion": 1786425673.7482479
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $151.09B"
   ],
   "primera": 1784922295.3935115,
-  "ultima_confirmacion": 1786420889.4229805
+  "ultima_confirmacion": 1786425673.7482479
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $960.36B"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1786420889.4229805
+  "ultima_confirmacion": 1786425673.7482479
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -129,14 +129,14 @@
    "\u2705 Market cap > $2.00B \u2014 $766.54B"
   ],
   "primera": 1785941702.957834,
-  "ultima_confirmacion": 1786420889.4229805
+  "ultima_confirmacion": 1786425673.7482479
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
   "sector": "Technology",
   "industria": "Computer Hardware",
   "precio": 800.99,
-  "market_cap": 181539979264,
+  "market_cap": 181824733184,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 48.5%",
@@ -148,10 +148,10 @@
    "\u2705 PEG < 1.5 \u2014 0.26",
    "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 39.3% (23 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $181.54B"
+   "\u2705 Market cap > $2.00B \u2014 $181.82B"
   ],
   "primera": 1785990574.3195243,
-  "ultima_confirmacion": 1786420889.4229805
+  "ultima_confirmacion": 1786425673.7482479
  },
  "MCHP": {
   "nombre": "Microchip Technology Incorporat",
@@ -195,7 +195,7 @@
    "\u2705 Market cap > $2.00B \u2014 $383.39B"
   ],
   "primera": 1786395652.1374602,
-  "ultima_confirmacion": 1786420889.4229805
+  "ultima_confirmacion": 1786425673.7482479
  },
  "ALAB": {
   "nombre": "Astera Labs, Inc.",
@@ -217,6 +217,6 @@
    "\u2705 Market cap > $2.00B \u2014 $55.03B"
   ],
   "primera": 1786395652.1374602,
-  "ultima_confirmacion": 1786420889.4229805
+  "ultima_confirmacion": 1786425673.7482479
  }
 }
