@@ -3,8 +3,8 @@
   "nombre": "Broadcom Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 418.98,
-  "market_cap": 1993331048448,
+  "precio": 417.82,
+  "market_cap": 1987812261888,
   "score": 91,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 47.9%",
@@ -13,13 +13,13 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 76.3%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 49.0%, fiscal 29.1% \u2192 40.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $26.91B",
-   "\u2705 PEG < 1.5 \u2014 0.32",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 26.0% (45 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.31",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 26.3% (45 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
    "\u2705 Market cap > $2.00B \u2014 $1.99T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1786649876.151075
+  "ultima_confirmacion": 1786654886.2798567
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -47,8 +47,8 @@
   "nombre": "Taiwan Semiconductor Manufactur",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 431.33,
-  "market_cap": 2237081845760,
+  "precio": 430.49,
+  "market_cap": 2232725012480,
   "score": 88,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 36.0%",
@@ -58,12 +58,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 60.3%, fiscal 45.7% \u2192 50.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $992.38B",
    "\u2705 PEG < 1.5 \u2014 0.68",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 26.8% (18 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 27.1% (18 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $2.24T"
+   "\u2705 Market cap > $2.00B \u2014 $2.23T"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1786649876.151075
+  "ultima_confirmacion": 1786654886.2798567
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -91,8 +91,8 @@
   "nombre": "SK hynix Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 166.405,
-  "market_cap": 1181233971200,
+  "precio": 165.67,
+  "market_cap": 1176016519168,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 256.8%",
@@ -101,21 +101,21 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 70.2%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 76.3%, fiscal 35.5% \u2192 48.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $24.79T",
-   "\u2705 PEG < 1.5 \u2014 0.23",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 47.4% (13 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.22",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 48.0% (13 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
    "\u2705 Market cap > $2.00B \u2014 $1.18T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1786649876.151075
+  "ultima_confirmacion": 1786654886.2798567
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 486.52,
-  "market_cap": 794231701504,
-  "score": 91,
+  "precio": 483.01,
+  "market_cap": 788501757952,
+  "score": 92,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 50.1%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 72.1%",
@@ -124,19 +124,19 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 17.2%, fiscal 8.1% \u2192 10.7%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $6.74B",
    "\u2705 PEG < 1.5 \u2014 0.30",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 26.1% (46 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 27.0% (46 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $794.23B"
+   "\u2705 Market cap > $2.00B \u2014 $788.50B"
   ],
   "primera": 1785941702.957834,
-  "ultima_confirmacion": 1786649876.151075
+  "ultima_confirmacion": 1786654886.2798567
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
   "sector": "Technology",
   "industria": "Computer Hardware",
-  "precio": 919.31,
-  "market_cap": 208683368448,
+  "precio": 921.37,
+  "market_cap": 208823451648,
   "score": 88,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 48.5%",
@@ -146,19 +146,19 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 43.1%, fiscal 21.1% \u2192 34.7%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $3.10B",
    "\u2705 PEG < 1.5 \u2014 0.30",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 21.4% (23 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 21.1% (23 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $208.68B"
+   "\u2705 Market cap > $2.00B \u2014 $208.82B"
   ],
   "primera": 1785990574.3195243,
-  "ultima_confirmacion": 1786649876.151075
+  "ultima_confirmacion": 1786654886.2798567
  },
  "ALAB": {
   "nombre": "Astera Labs, Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 323.07,
-  "market_cap": 56047833088,
+  "precio": 322.78,
+  "market_cap": 55997521920,
   "score": 88,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 104.5%",
@@ -168,12 +168,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 22.7%, fiscal -29.3% \u2192 20.3%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $281.8M",
    "\u2705 PEG < 1.5 \u2014 0.86",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 21.3% (22 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 21.4% (22 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $56.05B"
+   "\u2705 Market cap > $2.00B \u2014 $56.00B"
   ],
   "primera": 1786395652.1374602,
-  "ultima_confirmacion": 1786649876.151075
+  "ultima_confirmacion": 1786654886.2798567
  },
  "SEZL": {
   "nombre": "Sezzle Inc.",
