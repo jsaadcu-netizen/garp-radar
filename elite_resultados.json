@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.98T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1786589123.526933
+  "ultima_confirmacion": 1786597352.1110413
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.03T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1786568513.0471027
+  "ultima_confirmacion": 1786597352.1110413
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.23T"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1786589123.526933
+  "ultima_confirmacion": 1786597352.1110413
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $156.52B"
   ],
   "primera": 1784922295.3935115,
-  "ultima_confirmacion": 1786568513.0471027
+  "ultima_confirmacion": 1786597352.1110413
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.10T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1786589123.526933
+  "ultima_confirmacion": 1786597352.1110413
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -129,14 +129,14 @@
    "\u2705 Market cap > $2.00B \u2014 $788.37B"
   ],
   "primera": 1785941702.957834,
-  "ultima_confirmacion": 1786589123.526933
+  "ultima_confirmacion": 1786597352.1110413
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
   "sector": "Technology",
   "industria": "Computer Hardware",
   "precio": 878.21,
-  "market_cap": 199041482752,
+  "market_cap": 199353679872,
   "score": 92,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 48.5%",
@@ -148,10 +148,10 @@
    "\u2705 PEG < 1.5 \u2014 0.29",
    "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 27.1% (23 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $199.04B"
+   "\u2705 Market cap > $2.00B \u2014 $199.35B"
   ],
   "primera": 1785990574.3195243,
-  "ultima_confirmacion": 1786589123.526933
+  "ultima_confirmacion": 1786597352.1110413
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -195,7 +195,7 @@
    "\u2705 Market cap > $2.00B \u2014 $55.31B"
   ],
   "primera": 1786395652.1374602,
-  "ultima_confirmacion": 1786589123.526933
+  "ultima_confirmacion": 1786597352.1110413
  },
  "TER": {
   "nombre": "Teradyne, Inc.",
@@ -261,6 +261,6 @@
    "\u2705 Market cap > $2.00B \u2014 $61.16B"
   ],
   "primera": 1786551946.2207587,
-  "ultima_confirmacion": 1786589123.526933
+  "ultima_confirmacion": 1786597352.1110413
  }
 }
