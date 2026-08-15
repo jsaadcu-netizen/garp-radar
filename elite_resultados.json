@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.87T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1786811967.0155368
+  "ultima_confirmacion": 1786815219.2252767
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.21T"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1786811967.0155368
+  "ultima_confirmacion": 1786815219.2252767
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.18T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1786811967.0155368
+  "ultima_confirmacion": 1786815219.2252767
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -175,28 +175,6 @@
   "primera": 1786395652.1374602,
   "ultima_confirmacion": 1786750532.7126758
  },
- "CIEN": {
-  "nombre": "Ciena Corporation",
-  "sector": "Technology",
-  "industria": "Communication Equipment",
-  "precio": 459.435,
-  "market_cap": 65034371072,
-  "score": 89,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 39.5%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 26.6%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 2383.3%",
-   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 43.0%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 15.2%, fiscal 4.8% \u2192 6.5%",
-   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $665.3M",
-   "\u2705 PEG < 1.5 \u2014 1.01",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 23.1% (19 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $65.03B"
-  ],
-  "primera": 1786551946.2207587,
-  "ultima_confirmacion": 1786642116.9021914
- },
  "RDDT": {
   "nombre": "Reddit, Inc.",
   "sector": "Communication Services",
@@ -217,7 +195,7 @@
    "\u2705 Market cap > $2.00B \u2014 $34.26B"
   ],
   "primera": 1786723468.968542,
-  "ultima_confirmacion": 1786811967.0155368
+  "ultima_confirmacion": 1786815219.2252767
  },
  "LFTO": {
   "nombre": "Liftoff Mobile, Inc.",
@@ -239,6 +217,6 @@
    "\u2705 Market cap > $2.00B \u2014 $3.66B"
   ],
   "primera": 1786723468.968542,
-  "ultima_confirmacion": 1786811967.0155368
+  "ultima_confirmacion": 1786815219.2252767
  }
 }
