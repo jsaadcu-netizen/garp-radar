@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.87T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1786905948.169563
+  "ultima_confirmacion": 1786908727.6578293
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.21T"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1786905948.169563
+  "ultima_confirmacion": 1786908727.6578293
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -107,29 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.18T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1786905948.169563
- },
- "AMD": {
-  "nombre": "Advanced Micro Devices, Inc.",
-  "sector": "Technology",
-  "industria": "Semiconductors",
-  "precio": 508.575,
-  "market_cap": 830236000256,
-  "score": 88,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 50.1%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 72.1%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 159.5%",
-   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 55.7%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 17.2%, fiscal 8.1% \u2192 10.7%",
-   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $6.74B",
-   "\u2705 PEG < 1.5 \u2014 0.31",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 20.6% (46 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $830.24B"
-  ],
-  "primera": 1785941702.957834,
-  "ultima_confirmacion": 1786734746.800151
+  "ultima_confirmacion": 1786908727.6578293
  },
  "ALAB": {
   "nombre": "Astera Labs, Inc.",
@@ -173,7 +151,7 @@
    "\u2705 Market cap > $2.00B \u2014 $34.26B"
   ],
   "primera": 1786723468.968542,
-  "ultima_confirmacion": 1786905948.169563
+  "ultima_confirmacion": 1786908727.6578293
  },
  "LFTO": {
   "nombre": "Liftoff Mobile, Inc.",
@@ -195,6 +173,6 @@
    "\u2705 Market cap > $2.00B \u2014 $3.66B"
   ],
   "primera": 1786723468.968542,
-  "ultima_confirmacion": 1786905948.169563
+  "ultima_confirmacion": 1786908727.6578293
  }
 }
