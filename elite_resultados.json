@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.87T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1786855748.4131787
+  "ultima_confirmacion": 1786858884.9249198
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.21T"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1786855748.4131787
+  "ultima_confirmacion": 1786858884.9249198
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.18T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1786855748.4131787
+  "ultima_confirmacion": 1786858884.9249198
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -195,14 +195,14 @@
    "\u2705 Market cap > $2.00B \u2014 $34.26B"
   ],
   "primera": 1786723468.968542,
-  "ultima_confirmacion": 1786855748.4131787
+  "ultima_confirmacion": 1786858884.9249198
  },
  "LFTO": {
   "nombre": "Liftoff Mobile, Inc.",
   "sector": "Communication Services",
   "industria": "Advertising Agencies",
   "precio": 21.61,
-  "market_cap": 3597644288,
+  "market_cap": 3659232768,
   "score": 71,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 35.4%",
@@ -214,9 +214,9 @@
    "\u2705 PEG < 1.5 \u2014 0.16",
    "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 64.5% (13 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $3.60B"
+   "\u2705 Market cap > $2.00B \u2014 $3.66B"
   ],
   "primera": 1786723468.968542,
-  "ultima_confirmacion": 1786855748.4131787
+  "ultima_confirmacion": 1786858884.9249198
  }
 }
