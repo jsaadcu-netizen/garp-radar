@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.87T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1786845376.1318812
+  "ultima_confirmacion": 1786849926.8061018
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.21T"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1786845376.1318812
+  "ultima_confirmacion": 1786849926.8061018
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.18T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1786845376.1318812
+  "ultima_confirmacion": 1786849926.8061018
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -184,18 +184,18 @@
   "score": 88,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 61.1%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 31.2%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 31.4%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 177.8%",
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 91.4%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 28.8%, fiscal -43.1% \u2192 20.1%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $684.2M",
    "\u2705 PEG < 1.5 \u2014 0.60",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 21.1% (32 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 20.9% (32 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
    "\u2705 Market cap > $2.00B \u2014 $34.26B"
   ],
   "primera": 1786723468.968542,
-  "ultima_confirmacion": 1786845376.1318812
+  "ultima_confirmacion": 1786849926.8061018
  },
  "LFTO": {
   "nombre": "Liftoff Mobile, Inc.",
@@ -217,6 +217,6 @@
    "\u2705 Market cap > $2.00B \u2014 $3.66B"
   ],
   "primera": 1786723468.968542,
-  "ultima_confirmacion": 1786845376.1318812
+  "ultima_confirmacion": 1786849926.8061018
  }
 }
