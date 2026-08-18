@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.87T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1787031831.5296638
+  "ultima_confirmacion": 1787036563.9901624
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.14T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1787025394.3777618
+  "ultima_confirmacion": 1787036563.9901624
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.24T"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1787031831.5296638
+  "ultima_confirmacion": 1787036563.9901624
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -74,18 +74,18 @@
   "score": 90,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 43.8%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 36.2%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 36.8%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 984.1%",
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 48.9%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 43.6%, fiscal 22.4% \u2192 35.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $3.51B",
-   "\u2705 PEG < 1.5 \u2014 0.29",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 23.5% (24 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.30",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 24.0% (24 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
    "\u2705 Market cap > $2.00B \u2014 $193.25B"
   ],
   "primera": 1784922295.3935115,
-  "ultima_confirmacion": 1787031831.5296638
+  "ultima_confirmacion": 1787036563.9901624
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.22T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1787031831.5296638
+  "ultima_confirmacion": 1787036563.9901624
  },
  "RDDT": {
   "nombre": "Reddit, Inc.",
@@ -173,6 +173,6 @@
    "\u2705 Market cap > $2.00B \u2014 $826.03B"
   ],
   "primera": 1786977768.4068127,
-  "ultima_confirmacion": 1787031831.5296638
+  "ultima_confirmacion": 1787036563.9901624
  }
 }
