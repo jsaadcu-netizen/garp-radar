@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.75T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1787471176.790452
+  "ultima_confirmacion": 1787474837.7951293
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.17T"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1787471176.790452
+  "ultima_confirmacion": 1787474837.7951293
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $165.65B"
   ],
   "primera": 1784922295.3935115,
-  "ultima_confirmacion": 1787471176.790452
+  "ultima_confirmacion": 1787474837.7951293
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.16T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1787471176.790452
+  "ultima_confirmacion": 1787474837.7951293
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -129,14 +129,14 @@
    "\u2705 Market cap > $2.00B \u2014 $772.57B"
   ],
   "primera": 1786977768.4068127,
-  "ultima_confirmacion": 1787471176.790452
+  "ultima_confirmacion": 1787474837.7951293
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
   "sector": "Technology",
   "industria": "Computer Hardware",
   "precio": 850.0,
-  "market_cap": 192949993472,
+  "market_cap": 192647839744,
   "score": 95,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 48.5%",
@@ -148,10 +148,10 @@
    "\u2705 PEG < 1.5 \u2014 0.28",
    "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 32.4% (23 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $192.95B"
+   "\u2705 Market cap > $2.00B \u2014 $192.65B"
   ],
   "primera": 1787061329.284902,
-  "ultima_confirmacion": 1787471176.790452
+  "ultima_confirmacion": 1787474837.7951293
  },
  "ALAB": {
   "nombre": "Astera Labs, Inc.",
@@ -217,7 +217,7 @@
    "\u2705 Market cap > $2.00B \u2014 $43.00B"
   ],
   "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1787471176.790452
+  "ultima_confirmacion": 1787474837.7951293
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
