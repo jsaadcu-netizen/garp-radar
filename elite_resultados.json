@@ -19,14 +19,14 @@
    "\u2705 Market cap > $2.00B \u2014 $1.70T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1787690682.5649374
+  "ultima_confirmacion": 1787694170.0723774
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 925.23,
-  "market_cap": 1044948385792,
+  "precio": 932.97,
+  "market_cap": 1053689905152,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 345.7%",
@@ -36,12 +36,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 80.4%, fiscal 5.2% \u2192 26.2%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $1.67B",
    "\u2705 PEG < 1.5 \u2014 0.05",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 63.8% (44 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 62.4% (44 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.04T"
+   "\u2705 Market cap > $2.00B \u2014 $1.05T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1787676843.6562984
+  "ultima_confirmacion": 1787694170.0723774
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.16T"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1787690682.5649374
+  "ultima_confirmacion": 1787694170.0723774
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $162.51B"
   ],
   "primera": 1784922295.3935115,
-  "ultima_confirmacion": 1787690682.5649374
+  "ultima_confirmacion": 1787694170.0723774
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.13T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1787690682.5649374
+  "ultima_confirmacion": 1787694170.0723774
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -129,14 +129,14 @@
    "\u2705 Market cap > $2.00B \u2014 $782.25B"
   ],
   "primera": 1786977768.4068127,
-  "ultima_confirmacion": 1787690682.5649374
+  "ultima_confirmacion": 1787694170.0723774
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
   "sector": "Technology",
   "industria": "Computer Hardware",
   "precio": 821.67,
-  "market_cap": 186226999296,
+  "market_cap": 186519093248,
   "score": 98,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 48.5%",
@@ -148,10 +148,10 @@
    "\u2705 PEG < 1.5 \u2014 0.27",
    "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 36.9% (23 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $186.23B"
+   "\u2705 Market cap > $2.00B \u2014 $186.52B"
   ],
   "primera": 1787061329.284902,
-  "ultima_confirmacion": 1787690682.5649374
+  "ultima_confirmacion": 1787694170.0723774
  },
  "ADI": {
   "nombre": "Analog Devices, Inc.",
@@ -173,14 +173,14 @@
    "\u2705 Market cap > $2.00B \u2014 $181.06B"
   ],
   "primera": 1787067889.9015968,
-  "ultima_confirmacion": 1787690682.5649374
+  "ultima_confirmacion": 1787694170.0723774
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 224.63,
-  "market_cap": 41888534528,
+  "precio": 226.51,
+  "market_cap": 42239107072,
   "score": 91,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 157.0%",
@@ -190,12 +190,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 35.7%, fiscal 8.5% \u2192 33.3%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $407.0M",
    "\u2705 PEG < 1.5 \u2014 0.51",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 26.1% (19 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 25.0% (19 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $41.89B"
+   "\u2705 Market cap > $2.00B \u2014 $42.24B"
   ],
   "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1787676843.6562984
+  "ultima_confirmacion": 1787694170.0723774
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -233,13 +233,13 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 59.2%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 33.2%, fiscal 19.6% \u2192 21.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $450.4M",
-   "\u2705 PEG < 1.5 \u2014 1.17",
+   "\u2705 PEG < 1.5 \u2014 1.16",
    "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 22.8% (15 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
    "\u2705 Market cap > $2.00B \u2014 $57.29B"
   ],
   "primera": 1787580228.4523382,
-  "ultima_confirmacion": 1787690682.5649374
+  "ultima_confirmacion": 1787694170.0723774
  },
  "ALAB": {
   "nombre": "Astera Labs, Inc.",
@@ -261,7 +261,7 @@
    "\u2705 Market cap > $2.00B \u2014 $49.04B"
   ],
   "primera": 1787622661.7231743,
-  "ultima_confirmacion": 1787690682.5649374
+  "ultima_confirmacion": 1787694170.0723774
  },
  "PAYP": {
   "nombre": "PayPay Corporation - American D",
