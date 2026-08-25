@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.71T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1787622661.7231743
+  "ultima_confirmacion": 1787627513.9369497
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.13T"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1787622661.7231743
+  "ultima_confirmacion": 1787627513.9369497
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $156.97B"
   ],
   "primera": 1784922295.3935115,
-  "ultima_confirmacion": 1787622661.7231743
+  "ultima_confirmacion": 1787627513.9369497
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -102,12 +102,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 76.3%, fiscal 35.5% \u2192 48.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $24.79T",
    "\u2705 PEG < 1.5 \u2014 0.16",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 58.0% (13 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 59.0% (13 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
    "\u2705 Market cap > $2.00B \u2014 $1.10T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1787622661.7231743
+  "ultima_confirmacion": 1787627513.9369497
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -129,7 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $745.62B"
   ],
   "primera": 1786977768.4068127,
-  "ultima_confirmacion": 1787622661.7231743
+  "ultima_confirmacion": 1787627513.9369497
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
@@ -151,29 +151,29 @@
    "\u2705 Market cap > $2.00B \u2014 $180.10B"
   ],
   "primera": 1787061329.284902,
-  "ultima_confirmacion": 1787622661.7231743
+  "ultima_confirmacion": 1787627513.9369497
  },
  "ADI": {
   "nombre": "Analog Devices, Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 371.36,
-  "market_cap": 180884635648,
-  "score": 90,
+  "precio": 371.17,
+  "market_cap": 179856179200,
+  "score": 91,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 39.6%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 20.1%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 20.5%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 163.5%",
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 65.8%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 39.5%, fiscal 22.0% \u2192 27.2%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $4.28B",
-   "\u2705 PEG < 1.5 \u2014 0.83",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 24.7% (32 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.84",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 26.7% (32 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $180.88B"
+   "\u2705 Market cap > $2.00B \u2014 $179.86B"
   ],
   "primera": 1787067889.9015968,
-  "ultima_confirmacion": 1787600604.017692
+  "ultima_confirmacion": 1787627513.9369497
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -239,7 +239,7 @@
    "\u2705 Market cap > $2.00B \u2014 $57.05B"
   ],
   "primera": 1787580228.4523382,
-  "ultima_confirmacion": 1787622661.7231743
+  "ultima_confirmacion": 1787627513.9369497
  },
  "ALAB": {
   "nombre": "Astera Labs, Inc.",
@@ -261,6 +261,6 @@
    "\u2705 Market cap > $2.00B \u2014 $48.15B"
   ],
   "primera": 1787622661.7231743,
-  "ultima_confirmacion": 1787622661.7231743
+  "ultima_confirmacion": 1787627513.9369497
  }
 }
