@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.69T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1787783053.2870865
+  "ultima_confirmacion": 1787801272.4993584
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.17T"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1787783053.2870865
+  "ultima_confirmacion": 1787801272.4993584
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $169.05B"
   ],
   "primera": 1784922295.3935115,
-  "ultima_confirmacion": 1787783053.2870865
+  "ultima_confirmacion": 1787801272.4993584
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.12T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1787783053.2870865
+  "ultima_confirmacion": 1787801272.4993584
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -129,7 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $785.11B"
   ],
   "primera": 1786977768.4068127,
-  "ultima_confirmacion": 1787783053.2870865
+  "ultima_confirmacion": 1787801272.4993584
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
@@ -180,7 +180,7 @@
   "sector": "Technology",
   "industria": "Semiconductors",
   "precio": 226.49,
-  "market_cap": 42235379712,
+  "market_cap": 42565324800,
   "score": 91,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 157.0%",
@@ -192,10 +192,10 @@
    "\u2705 PEG < 1.5 \u2014 0.51",
    "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 25.1% (19 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $42.24B"
+   "\u2705 Market cap > $2.00B \u2014 $42.57B"
   ],
   "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1787783053.2870865
+  "ultima_confirmacion": 1787801272.4993584
  },
  "TER": {
   "nombre": "Teradyne, Inc.",
@@ -203,21 +203,21 @@
   "industria": "Semiconductor Equipment & Materials",
   "precio": 363.1,
   "market_cap": 56767328256,
-  "score": 90,
+  "score": 89,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 103.9%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 21.0%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 21.8%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 385.8%",
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 59.2%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 33.2%, fiscal 19.6% \u2192 21.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $450.4M",
-   "\u2705 PEG < 1.5 \u2014 1.15",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 23.9% (15 analistas)",
+   "\u2705 PEG < 1.5 \u2014 1.11",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 23.0% (15 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
    "\u2705 Market cap > $2.00B \u2014 $56.77B"
   ],
   "primera": 1787580228.4523382,
-  "ultima_confirmacion": 1787783053.2870865
+  "ultima_confirmacion": 1787801272.4993584
  },
  "ALAB": {
   "nombre": "Astera Labs, Inc.",
@@ -283,6 +283,6 @@
    "\u2705 Market cap > $2.00B \u2014 $84.23B"
   ],
   "primera": 1787771903.5975943,
-  "ultima_confirmacion": 1787783053.2870865
+  "ultima_confirmacion": 1787801272.4993584
  }
 }
