@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.77T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1787876682.2483377
+  "ultima_confirmacion": 1787917182.8975883
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.22T"
   ],
   "primera": 1784133849.607705,
-  "ultima_confirmacion": 1787876682.2483377
+  "ultima_confirmacion": 1787917182.8975883
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $166.57B"
   ],
   "primera": 1784922295.3935115,
-  "ultima_confirmacion": 1787876682.2483377
+  "ultima_confirmacion": 1787917182.8975883
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.15T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1787876682.2483377
+  "ultima_confirmacion": 1787917182.8975883
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -129,14 +129,14 @@
    "\u2705 Market cap > $2.00B \u2014 $778.15B"
   ],
   "primera": 1786977768.4068127,
-  "ultima_confirmacion": 1787876682.2483377
+  "ultima_confirmacion": 1787917182.8975883
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
   "sector": "Technology",
   "industria": "Computer Hardware",
   "precio": 847.2,
-  "market_cap": 192314408960,
+  "market_cap": 192013238272,
   "score": 95,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 48.5%",
@@ -148,10 +148,10 @@
    "\u2705 PEG < 1.5 \u2014 0.28",
    "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 32.8% (23 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $192.31B"
+   "\u2705 Market cap > $2.00B \u2014 $192.01B"
   ],
   "primera": 1787061329.284902,
-  "ultima_confirmacion": 1787876682.2483377
+  "ultima_confirmacion": 1787917182.8975883
  },
  "ADI": {
   "nombre": "Analog Devices, Inc.",
@@ -173,7 +173,7 @@
    "\u2705 Market cap > $2.00B \u2014 $181.48B"
   ],
   "primera": 1787067889.9015968,
-  "ultima_confirmacion": 1787876682.2483377
+  "ultima_confirmacion": 1787917182.8975883
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -240,5 +240,49 @@
   ],
   "primera": 1787771903.5975943,
   "ultima_confirmacion": 1787801272.4993584
+ },
+ "SMTC": {
+  "nombre": "Semtech Corporation",
+  "sector": "Technology",
+  "industria": "Semiconductors",
+  "precio": 142.43,
+  "market_cap": 13292367872,
+  "score": 69,
+  "criterios": [
+   "\u2705 Ingresos YoY > 25.0% \u2014 32.7%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 27.6%",
+   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 57.2%",
+   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 52.9%",
+   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 16.2%, fiscal 6.9% \u2192 11.7%",
+   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $165.4M",
+   "\u2705 PEG < 1.5 \u2014 0.43",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 48.4% (13 analistas)",
+   "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
+   "\u2705 Market cap > $2.00B \u2014 $13.29B"
+  ],
+  "primera": 1787917182.8975883,
+  "ultima_confirmacion": 1787917182.8975883
+ },
+ "ALAB": {
+  "nombre": "Astera Labs, Inc.",
+  "sector": "Technology",
+  "industria": "Semiconductors",
+  "precio": 304.09,
+  "market_cap": 52755083264,
+  "score": 93,
+  "criterios": [
+   "\u2705 Ingresos YoY > 25.0% \u2014 104.5%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 55.8%",
+   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 186.2%",
+   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 75.1%",
+   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 22.7%, fiscal -29.3% \u2192 20.3%",
+   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $281.8M",
+   "\u2705 PEG < 1.5 \u2014 0.81",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 28.2% (23 analistas)",
+   "\u2705 Consenso Buy/Strong Buy \u2014 buy",
+   "\u2705 Market cap > $2.00B \u2014 $52.76B"
+  ],
+  "primera": 1787917182.8975883,
+  "ultima_confirmacion": 1787917182.8975883
  }
 }
