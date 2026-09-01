@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.76T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1788243269.0746887
+  "ultima_confirmacion": 1788263672.889787
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.08T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1788243269.0746887
+  "ultima_confirmacion": 1788263672.889787
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $162.44B"
   ],
   "primera": 1784922295.3935115,
-  "ultima_confirmacion": 1788243269.0746887
+  "ultima_confirmacion": 1788263672.889787
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.17T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1788243269.0746887
+  "ultima_confirmacion": 1788263672.889787
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -107,14 +107,14 @@
    "\u2705 Market cap > $2.00B \u2014 $768.44B"
   ],
   "primera": 1786977768.4068127,
-  "ultima_confirmacion": 1788243269.0746887
+  "ultima_confirmacion": 1788263672.889787
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
   "sector": "Technology",
   "industria": "Computer Hardware",
   "precio": 828.38,
-  "market_cap": 188042264576,
+  "market_cap": 187747778560,
   "score": 97,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 48.5%",
@@ -126,10 +126,10 @@
    "\u2705 PEG < 1.5 \u2014 0.27",
    "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 35.8% (23 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $188.04B"
+   "\u2705 Market cap > $2.00B \u2014 $187.75B"
   ],
   "primera": 1787061329.284902,
-  "ultima_confirmacion": 1788243269.0746887
+  "ultima_confirmacion": 1788263672.889787
  },
  "ADI": {
   "nombre": "Analog Devices, Inc.",
@@ -151,7 +151,7 @@
    "\u2705 Market cap > $2.00B \u2014 $175.48B"
   ],
   "primera": 1787067889.9015968,
-  "ultima_confirmacion": 1788243269.0746887
+  "ultima_confirmacion": 1788263672.889787
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -162,7 +162,7 @@
   "score": 91,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 157.0%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 50.0%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 49.9%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 343.2%",
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 68.0%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 35.7%, fiscal 8.5% \u2192 33.3%",
@@ -173,7 +173,7 @@
    "\u2705 Market cap > $2.00B \u2014 $42.51B"
   ],
   "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1788243269.0746887
+  "ultima_confirmacion": 1788263672.889787
  },
  "SMTC": {
   "nombre": "Semtech Corporation",
@@ -217,7 +217,7 @@
    "\u2705 Market cap > $2.00B \u2014 $51.52B"
   ],
   "primera": 1787917182.8975883,
-  "ultima_confirmacion": 1788223017.12103
+  "ultima_confirmacion": 1788263672.889787
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -239,7 +239,7 @@
    "\u2705 Market cap > $2.00B \u2014 $377.26B"
   ],
   "primera": 1787955465.928217,
-  "ultima_confirmacion": 1788243269.0746887
+  "ultima_confirmacion": 1788263672.889787
  },
  "MRVL": {
   "nombre": "Marvell Technology, Inc.",
@@ -269,21 +269,21 @@
   "industria": "Credit Services",
   "precio": 74.45,
   "market_cap": 25121011712,
-  "score": 87,
+  "score": 89,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 33.0%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 23.5%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 23.8%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 2186.9%",
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 48.9%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 12.6%, fiscal -11.4% \u2192 10.5%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $601.7M",
    "\u2705 PEG < 1.5 \u2014 0.62",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 29.7% (30 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 31.5% (30 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
    "\u2705 Market cap > $2.00B \u2014 $25.12B"
   ],
   "primera": 1788209930.5427392,
-  "ultima_confirmacion": 1788243269.0746887
+  "ultima_confirmacion": 1788263672.889787
  },
  "SNDK": {
   "nombre": "Sandisk Corporation",
@@ -305,6 +305,6 @@
    "\u2705 Market cap > $2.00B \u2014 $229.39B"
   ],
   "primera": 1788243269.0746887,
-  "ultima_confirmacion": 1788243269.0746887
+  "ultima_confirmacion": 1788263672.889787
  }
 }
