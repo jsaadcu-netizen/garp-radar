@@ -3,8 +3,8 @@
   "nombre": "Broadcom Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 369.84,
-  "market_cap": 1759543427072,
+  "precio": 368.585,
+  "market_cap": 1753572704256,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 47.9%",
@@ -14,19 +14,19 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 49.0%, fiscal 29.1% \u2192 40.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $26.91B",
    "\u2705 PEG < 1.5 \u2014 0.28",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 42.2% (46 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 42.7% (46 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.76T"
+   "\u2705 Market cap > $2.00B \u2014 $1.75T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1788361979.2547674
+  "ultima_confirmacion": 1788374727.031892
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 940.675,
-  "market_cap": 1062391906304,
+  "precio": 949.925,
+  "market_cap": 1072838803456,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 345.7%",
@@ -35,20 +35,20 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 72.6%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 80.4%, fiscal 5.2% \u2192 26.2%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $1.67B",
-   "\u2705 PEG < 1.5 \u2014 0.05",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 60.9% (45 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.06",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 59.3% (45 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.06T"
+   "\u2705 Market cap > $2.00B \u2014 $1.07T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1788361979.2547674
+  "ultima_confirmacion": 1788374727.031892
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
   "sector": "Technology",
   "industria": "Computer Hardware",
-  "precio": 440.12,
-  "market_cap": 158681268224,
+  "precio": 445.58,
+  "market_cap": 160649822208,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 43.8%",
@@ -58,19 +58,19 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 43.6%, fiscal 22.4% \u2192 35.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $3.51B",
    "\u2705 PEG < 1.5 \u2014 0.24",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 51.1% (24 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 49.2% (24 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $158.68B"
+   "\u2705 Market cap > $2.00B \u2014 $160.65B"
   ],
   "primera": 1784922295.3935115,
-  "ultima_confirmacion": 1788361979.2547674
+  "ultima_confirmacion": 1788374727.031892
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 160.76,
-  "market_cap": 1141162639360,
+  "precio": 164.07,
+  "market_cap": 1164658999296,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 256.8%",
@@ -80,19 +80,19 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 76.3%, fiscal 35.5% \u2192 48.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $24.79T",
    "\u2705 PEG < 1.5 \u2014 0.17",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 53.6% (13 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 50.5% (13 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.14T"
+   "\u2705 Market cap > $2.00B \u2014 $1.16T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1788361979.2547674
+  "ultima_confirmacion": 1788374727.031892
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 456.705,
-  "market_cap": 745559490560,
+  "precio": 456.35,
+  "market_cap": 744979955712,
   "score": 97,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 50.1%",
@@ -102,12 +102,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 17.2%, fiscal 8.1% \u2192 10.7%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $6.74B",
    "\u2705 PEG < 1.5 \u2014 0.28",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 34.4% (49 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 34.5% (49 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $745.56B"
+   "\u2705 Market cap > $2.00B \u2014 $744.98B"
   ],
   "primera": 1786977768.4068127,
-  "ultima_confirmacion": 1788361979.2547674
+  "ultima_confirmacion": 1788374727.031892
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
@@ -135,9 +135,9 @@
   "nombre": "Analog Devices, Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 357.5,
-  "market_cap": 173232160768,
-  "score": 94,
+  "precio": 354.32,
+  "market_cap": 171691245568,
+  "score": 95,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 39.6%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 20.5%",
@@ -145,20 +145,20 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 65.8%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 39.5%, fiscal 22.0% \u2192 27.2%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $4.28B",
-   "\u2705 PEG < 1.5 \u2014 0.81",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 31.5% (32 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.80",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 32.7% (32 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $173.23B"
+   "\u2705 Market cap > $2.00B \u2014 $171.69B"
   ],
   "primera": 1787067889.9015968,
-  "ultima_confirmacion": 1788361979.2547674
+  "ultima_confirmacion": 1788374727.031892
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 168.21,
-  "market_cap": 31612491776,
+  "precio": 163.9799,
+  "market_cap": 30817509376,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 157.0%",
@@ -167,20 +167,20 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 68.0%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 35.7%, fiscal 8.5% \u2192 33.3%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $407.0M",
-   "\u2705 PEG < 1.5 \u2014 0.33",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 65.2% (19 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.32",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 69.4% (19 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $31.61B"
+   "\u2705 Market cap > $2.00B \u2014 $30.82B"
   ],
   "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1788361979.2547674
+  "ultima_confirmacion": 1788374727.031892
  },
  "SMTC": {
   "nombre": "Semtech Corporation",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 132.27,
-  "market_cap": 12344180736,
+  "precio": 133.535,
+  "market_cap": 12462237696,
   "score": 69,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 32.7%",
@@ -189,20 +189,20 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 52.9%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 16.2%, fiscal 6.9% \u2192 11.7%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $165.4M",
-   "\u2705 PEG < 1.5 \u2014 0.33",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 58.2% (14 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.34",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 56.7% (14 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $12.34B"
+   "\u2705 Market cap > $2.00B \u2014 $12.46B"
   ],
   "primera": 1787917182.8975883,
-  "ultima_confirmacion": 1788347767.5624287
+  "ultima_confirmacion": 1788374727.031892
  },
  "ALAB": {
   "nombre": "Astera Labs, Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 268.95,
-  "market_cap": 46658822144,
+  "precio": 272.62,
+  "market_cap": 47295508480,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 104.5%",
@@ -211,79 +211,57 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 75.1%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 22.7%, fiscal -29.3% \u2192 20.3%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $281.8M",
-   "\u2705 PEG < 1.5 \u2014 0.72",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 45.0% (23 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.73",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 43.0% (23 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $46.66B"
+   "\u2705 Market cap > $2.00B \u2014 $47.30B"
   ],
   "primera": 1787917182.8975883,
-  "ultima_confirmacion": 1788361979.2547674
+  "ultima_confirmacion": 1788374727.031892
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
   "sector": "Technology",
   "industria": "Semiconductor Equipment & Materials",
-  "precio": 287.025,
-  "market_cap": 359160381440,
+  "precio": 287.6657,
+  "market_cap": 359962148864,
   "score": 81,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 30.0%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 16.9%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 17.0%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 34.8%",
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 50.5%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 37.4%, fiscal 32.0% \u2192 35.3%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $4.89B",
-   "\u2705 PEG < 1.5 \u2014 1.12",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 29.3% (31 analistas)",
+   "\u2705 PEG < 1.5 \u2014 1.11",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 28.9% (31 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $359.16B"
+   "\u2705 Market cap > $2.00B \u2014 $359.96B"
   ],
   "primera": 1787955465.928217,
-  "ultima_confirmacion": 1788361979.2547674
- },
- "MRVL": {
-  "nombre": "Marvell Technology, Inc.",
-  "sector": "Technology",
-  "industria": "Semiconductors",
-  "precio": 210.76,
-  "market_cap": 189415489536,
-  "score": 92,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 36.5%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 51.5%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 58.2%",
-   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 52.2%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 17.3%, fiscal -6.4% \u2192 16.3%",
-   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $1.39B",
-   "\u2705 PEG < 1.5 \u2014 0.55",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 32.3% (41 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $189.42B"
-  ],
-  "primera": 1787975292.0953884,
-  "ultima_confirmacion": 1788189432.4360044
+  "ultima_confirmacion": 1788374727.031892
  },
  "AFRM": {
   "nombre": "Affirm Holdings, Inc.",
   "sector": "Financial Services",
   "industria": "Credit Services",
-  "precio": 73.46,
-  "market_cap": 24786964480,
-  "score": 91,
+  "precio": 73.78,
+  "market_cap": 24894939136,
+  "score": 90,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 33.0%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 24.3%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 24.7%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 2186.9%",
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 48.9%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 12.6%, fiscal -11.4% \u2192 10.5%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $601.7M",
-   "\u2705 PEG < 1.5 \u2014 0.64",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 35.7% (29 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.63",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 34.5% (30 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $24.79B"
+   "\u2705 Market cap > $2.00B \u2014 $24.89B"
   ],
   "primera": 1788209930.5427392,
-  "ultima_confirmacion": 1788361979.2547674
+  "ultima_confirmacion": 1788374727.031892
  },
  "SNDK": {
   "nombre": "Sandisk Corporation",
@@ -311,8 +289,8 @@
   "nombre": "Taiwan Semiconductor Manufactur",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 413.81,
-  "market_cap": 2146214739968,
+  "precio": 413.71,
+  "market_cap": 2145696088064,
   "score": 92,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 36.0%",
@@ -327,7 +305,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.15T"
   ],
   "primera": 1788347767.5624287,
-  "ultima_confirmacion": 1788361979.2547674
+  "ultima_confirmacion": 1788374727.031892
  },
  "TER": {
   "nombre": "Teradyne, Inc.",
