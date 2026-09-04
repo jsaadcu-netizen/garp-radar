@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.15T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1788554662.7664397
+  "ultima_confirmacion": 1788562954.837144
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.26T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1788554662.7664397
+  "ultima_confirmacion": 1788562954.837144
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $779.62B"
   ],
   "primera": 1786977768.4068127,
-  "ultima_confirmacion": 1788554662.7664397
+  "ultima_confirmacion": 1788562954.837144
  },
  "ADI": {
   "nombre": "Analog Devices, Inc.",
@@ -129,7 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $175.53B"
   ],
   "primera": 1787067889.9015968,
-  "ultima_confirmacion": 1788554662.7664397
+  "ultima_confirmacion": 1788562954.837144
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -151,7 +151,7 @@
    "\u2705 Market cap > $2.00B \u2014 $32.06B"
   ],
   "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1788554662.7664397
+  "ultima_confirmacion": 1788562954.837144
  },
  "SMTC": {
   "nombre": "Semtech Corporation",
@@ -173,7 +173,7 @@
    "\u2705 Market cap > $2.00B \u2014 $13.80B"
   ],
   "primera": 1787917182.8975883,
-  "ultima_confirmacion": 1788554662.7664397
+  "ultima_confirmacion": 1788562954.837144
  },
  "ALAB": {
   "nombre": "Astera Labs, Inc.",
@@ -195,7 +195,7 @@
    "\u2705 Market cap > $2.00B \u2014 $53.85B"
   ],
   "primera": 1787917182.8975883,
-  "ultima_confirmacion": 1788554662.7664397
+  "ultima_confirmacion": 1788562954.837144
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -217,7 +217,7 @@
    "\u2705 Market cap > $2.00B \u2014 $384.97B"
   ],
   "primera": 1787955465.928217,
-  "ultima_confirmacion": 1788554662.7664397
+  "ultima_confirmacion": 1788562954.837144
  },
  "AFRM": {
   "nombre": "Affirm Holdings, Inc.",
@@ -261,7 +261,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.22T"
   ],
   "primera": 1788347767.5624287,
-  "ultima_confirmacion": 1788554662.7664397
+  "ultima_confirmacion": 1788562954.837144
  },
  "TER": {
   "nombre": "Teradyne, Inc.",
@@ -294,17 +294,39 @@
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 39.5%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 26.5%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 30.1%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 2383.3%",
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 43.0%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 15.2%, fiscal 4.8% \u2192 6.5%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $665.3M",
-   "\u2705 PEG < 1.5 \u2014 0.58",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 71.9% (19 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.40",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 57.0% (19 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
    "\u2705 Market cap > $2.00B \u2014 $45.55B"
   ],
   "primera": 1788496216.8573775,
-  "ultima_confirmacion": 1788554662.7664397
+  "ultima_confirmacion": 1788562954.837144
+ },
+ "SNDK": {
+  "nombre": "Sandisk Corporation",
+  "sector": "Technology",
+  "industria": "Computer Hardware",
+  "precio": 1740.0,
+  "market_cap": 254769070080,
+  "score": 64,
+  "criterios": [
+   "\u2705 Ingresos YoY > 25.0% \u2014 371.6%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 18.0%",
+   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 23.6%",
+   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 71.5%",
+   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 78.5%, fiscal 6.9% \u2192 61.6%",
+   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $11.49B",
+   "\u2705 PEG < 1.5 \u2014 0.28",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 22.1% (23 analistas)",
+   "\u2705 Consenso Buy/Strong Buy \u2014 buy",
+   "\u2705 Market cap > $2.00B \u2014 $254.77B"
+  ],
+  "primera": 1788562954.837144,
+  "ultima_confirmacion": 1788562954.837144
  }
 }
