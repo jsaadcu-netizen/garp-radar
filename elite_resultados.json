@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.70T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1788626961.336131
+  "ultima_confirmacion": 1788634900.0705986
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.15T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1788626961.336131
+  "ultima_confirmacion": 1788634900.0705986
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.26T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1788626961.336131
+  "ultima_confirmacion": 1788634900.0705986
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $779.62B"
   ],
   "primera": 1786977768.4068127,
-  "ultima_confirmacion": 1788626961.336131
+  "ultima_confirmacion": 1788634900.0705986
  },
  "ADI": {
   "nombre": "Analog Devices, Inc.",
@@ -129,7 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $175.53B"
   ],
   "primera": 1787067889.9015968,
-  "ultima_confirmacion": 1788626961.336131
+  "ultima_confirmacion": 1788634900.0705986
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -151,7 +151,7 @@
    "\u2705 Market cap > $2.00B \u2014 $32.06B"
   ],
   "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1788626961.336131
+  "ultima_confirmacion": 1788634900.0705986
  },
  "SMTC": {
   "nombre": "Semtech Corporation",
@@ -173,7 +173,7 @@
    "\u2705 Market cap > $2.00B \u2014 $13.80B"
   ],
   "primera": 1787917182.8975883,
-  "ultima_confirmacion": 1788626961.336131
+  "ultima_confirmacion": 1788634900.0705986
  },
  "ALAB": {
   "nombre": "Astera Labs, Inc.",
@@ -217,29 +217,7 @@
    "\u2705 Market cap > $2.00B \u2014 $384.97B"
   ],
   "primera": 1787955465.928217,
-  "ultima_confirmacion": 1788626961.336131
- },
- "AFRM": {
-  "nombre": "Affirm Holdings, Inc.",
-  "sector": "Financial Services",
-  "industria": "Credit Services",
-  "precio": 74.625,
-  "market_cap": 25180059648,
-  "score": 89,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 33.0%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 24.7%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 2186.9%",
-   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 48.9%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 12.6%, fiscal -11.4% \u2192 10.5%",
-   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $601.7M",
-   "\u2705 PEG < 1.5 \u2014 0.63",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 33.0% (30 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $25.18B"
-  ],
-  "primera": 1788209930.5427392,
-  "ultima_confirmacion": 1788460632.6656783
+  "ultima_confirmacion": 1788634900.0705986
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -261,29 +239,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.22T"
   ],
   "primera": 1788347767.5624287,
-  "ultima_confirmacion": 1788626961.336131
- },
- "TER": {
-  "nombre": "Teradyne, Inc.",
-  "sector": "Technology",
-  "industria": "Semiconductor Equipment & Materials",
-  "precio": 339.25,
-  "market_cap": 53038600192,
-  "score": 95,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 103.9%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 21.8%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 385.8%",
-   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 59.2%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 33.2%, fiscal 19.6% \u2192 21.6%",
-   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $450.4M",
-   "\u2705 PEG < 1.5 \u2014 1.03",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 31.6% (15 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $53.04B"
-  ],
-  "primera": 1788361979.2547674,
-  "ultima_confirmacion": 1788460632.6656783
+  "ultima_confirmacion": 1788634900.0705986
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
@@ -305,7 +261,7 @@
    "\u2705 Market cap > $2.00B \u2014 $45.52B"
   ],
   "primera": 1788496216.8573775,
-  "ultima_confirmacion": 1788626961.336131
+  "ultima_confirmacion": 1788634900.0705986
  },
  "SNDK": {
   "nombre": "Sandisk Corporation",
@@ -327,7 +283,7 @@
    "\u2705 Market cap > $2.00B \u2014 $254.77B"
   ],
   "primera": 1788562954.837144,
-  "ultima_confirmacion": 1788626961.336131
+  "ultima_confirmacion": 1788634900.0705986
  },
  "MRVL": {
   "nombre": "Marvell Technology, Inc.",
@@ -349,6 +305,6 @@
    "\u2705 Market cap > $2.00B \u2014 $200.91B"
   ],
   "primera": 1788569786.1005692,
-  "ultima_confirmacion": 1788626961.336131
+  "ultima_confirmacion": 1788634900.0705986
  }
 }
