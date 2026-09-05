@@ -3,23 +3,23 @@
   "nombre": "Broadcom Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 357.16,
-  "market_cap": 1699217408000,
+  "precio": 357.895,
+  "market_cap": 1702714146816,
   "score": 100,
   "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 47.9%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 63.5%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 85.4%",
-   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 76.3%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 49.0%, fiscal 29.1% \u2192 40.8%",
+   "\u2705 Ingresos YoY > 25.0% \u2014 85.5%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 63.7%",
+   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 215.3%",
+   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 75.5%",
+   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 54.3%, fiscal 29.1% \u2192 40.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $26.91B",
-   "\u2705 PEG < 1.5 \u2014 0.27",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 47.3% (46 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.28",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 49.0% (46 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
    "\u2705 Market cap > $2.00B \u2014 $1.70T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1788512424.9748793
+  "ultima_confirmacion": 1788587080.1534307
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.15T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1788569786.1005692
+  "ultima_confirmacion": 1788587080.1534307
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -74,7 +74,7 @@
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 256.8%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 53.1%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 54.4%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 1272.4%",
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 76.3%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 76.3%, fiscal 35.5% \u2192 48.6%",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.26T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1788569786.1005692
+  "ultima_confirmacion": 1788587080.1534307
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $779.62B"
   ],
   "primera": 1786977768.4068127,
-  "ultima_confirmacion": 1788569786.1005692
+  "ultima_confirmacion": 1788587080.1534307
  },
  "ADI": {
   "nombre": "Analog Devices, Inc.",
@@ -129,7 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $175.53B"
   ],
   "primera": 1787067889.9015968,
-  "ultima_confirmacion": 1788569786.1005692
+  "ultima_confirmacion": 1788587080.1534307
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -151,7 +151,7 @@
    "\u2705 Market cap > $2.00B \u2014 $32.06B"
   ],
   "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1788569786.1005692
+  "ultima_confirmacion": 1788587080.1534307
  },
  "SMTC": {
   "nombre": "Semtech Corporation",
@@ -173,7 +173,7 @@
    "\u2705 Market cap > $2.00B \u2014 $13.80B"
   ],
   "primera": 1787917182.8975883,
-  "ultima_confirmacion": 1788569786.1005692
+  "ultima_confirmacion": 1788587080.1534307
  },
  "ALAB": {
   "nombre": "Astera Labs, Inc.",
@@ -217,7 +217,7 @@
    "\u2705 Market cap > $2.00B \u2014 $384.97B"
   ],
   "primera": 1787955465.928217,
-  "ultima_confirmacion": 1788569786.1005692
+  "ultima_confirmacion": 1788587080.1534307
  },
  "AFRM": {
   "nombre": "Affirm Holdings, Inc.",
@@ -261,7 +261,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.22T"
   ],
   "primera": 1788347767.5624287,
-  "ultima_confirmacion": 1788569786.1005692
+  "ultima_confirmacion": 1788587080.1534307
  },
  "TER": {
   "nombre": "Teradyne, Inc.",
@@ -305,7 +305,7 @@
    "\u2705 Market cap > $2.00B \u2014 $45.52B"
   ],
   "primera": 1788496216.8573775,
-  "ultima_confirmacion": 1788569786.1005692
+  "ultima_confirmacion": 1788587080.1534307
  },
  "SNDK": {
   "nombre": "Sandisk Corporation",
@@ -327,7 +327,7 @@
    "\u2705 Market cap > $2.00B \u2014 $254.77B"
   ],
   "primera": 1788562954.837144,
-  "ultima_confirmacion": 1788569786.1005692
+  "ultima_confirmacion": 1788587080.1534307
  },
  "MRVL": {
   "nombre": "Marvell Technology, Inc.",
@@ -349,6 +349,6 @@
    "\u2705 Market cap > $2.00B \u2014 $200.91B"
   ],
   "primera": 1788569786.1005692,
-  "ultima_confirmacion": 1788569786.1005692
+  "ultima_confirmacion": 1788587080.1534307
  }
 }
