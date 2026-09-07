@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.70T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1788742820.7745762
+  "ultima_confirmacion": 1788761125.0228825
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.15T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1788742820.7745762
+  "ultima_confirmacion": 1788761125.0228825
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -52,7 +52,7 @@
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 256.8%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 54.4%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 54.3%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 1272.4%",
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 76.3%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 76.3%, fiscal 35.5% \u2192 48.6%",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.26T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1788742820.7745762
+  "ultima_confirmacion": 1788761125.0228825
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $779.62B"
   ],
   "primera": 1786977768.4068127,
-  "ultima_confirmacion": 1788742820.7745762
+  "ultima_confirmacion": 1788761125.0228825
  },
  "ADI": {
   "nombre": "Analog Devices, Inc.",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $175.53B"
   ],
   "primera": 1787067889.9015968,
-  "ultima_confirmacion": 1788742820.7745762
+  "ultima_confirmacion": 1788761125.0228825
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -129,7 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $32.06B"
   ],
   "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1788742820.7745762
+  "ultima_confirmacion": 1788761125.0228825
  },
  "SMTC": {
   "nombre": "Semtech Corporation",
@@ -151,7 +151,7 @@
    "\u2705 Market cap > $2.00B \u2014 $13.80B"
   ],
   "primera": 1787917182.8975883,
-  "ultima_confirmacion": 1788742820.7745762
+  "ultima_confirmacion": 1788761125.0228825
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -173,7 +173,7 @@
    "\u2705 Market cap > $2.00B \u2014 $384.97B"
   ],
   "primera": 1787955465.928217,
-  "ultima_confirmacion": 1788742820.7745762
+  "ultima_confirmacion": 1788761125.0228825
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -195,7 +195,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.22T"
   ],
   "primera": 1788347767.5624287,
-  "ultima_confirmacion": 1788742820.7745762
+  "ultima_confirmacion": 1788761125.0228825
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
@@ -217,7 +217,7 @@
    "\u2705 Market cap > $2.00B \u2014 $45.52B"
   ],
   "primera": 1788496216.8573775,
-  "ultima_confirmacion": 1788742820.7745762
+  "ultima_confirmacion": 1788761125.0228825
  },
  "SNDK": {
   "nombre": "Sandisk Corporation",
@@ -239,7 +239,7 @@
    "\u2705 Market cap > $2.00B \u2014 $254.77B"
   ],
   "primera": 1788562954.837144,
-  "ultima_confirmacion": 1788742820.7745762
+  "ultima_confirmacion": 1788761125.0228825
  },
  "MRVL": {
   "nombre": "Marvell Technology, Inc.",
@@ -261,7 +261,7 @@
    "\u2705 Market cap > $2.00B \u2014 $200.91B"
   ],
   "primera": 1788569786.1005692,
-  "ultima_confirmacion": 1788742820.7745762
+  "ultima_confirmacion": 1788761125.0228825
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -283,6 +283,6 @@
    "\u2705 Market cap > $2.00B \u2014 $168.54B"
   ],
   "primera": 1788742820.7745762,
-  "ultima_confirmacion": 1788742820.7745762
+  "ultima_confirmacion": 1788761125.0228825
  }
 }
