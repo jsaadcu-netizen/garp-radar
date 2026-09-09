@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.75T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1788929307.578702
+  "ultima_confirmacion": 1788947026.1461217
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.13T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1788929307.578702
+  "ultima_confirmacion": 1788947026.1461217
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -52,7 +52,7 @@
   "score": 96,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 256.8%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 54.3%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 54.2%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 1272.4%",
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 76.3%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 76.3%, fiscal 35.5% \u2192 48.6%",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.32T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1788929307.578702
+  "ultima_confirmacion": 1788947026.1461217
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $825.61B"
   ],
   "primera": 1786977768.4068127,
-  "ultima_confirmacion": 1788929307.578702
+  "ultima_confirmacion": 1788947026.1461217
  },
  "ADI": {
   "nombre": "Analog Devices, Inc.",
@@ -129,7 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $31.53B"
   ],
   "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1788929307.578702
+  "ultima_confirmacion": 1788947026.1461217
  },
  "SMTC": {
   "nombre": "Semtech Corporation",
@@ -151,7 +151,7 @@
    "\u2705 Market cap > $2.00B \u2014 $15.18B"
   ],
   "primera": 1787917182.8975883,
-  "ultima_confirmacion": 1788929307.578702
+  "ultima_confirmacion": 1788947026.1461217
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -195,7 +195,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.28T"
   ],
   "primera": 1788347767.5624287,
-  "ultima_confirmacion": 1788929307.578702
+  "ultima_confirmacion": 1788947026.1461217
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
@@ -283,14 +283,14 @@
    "\u2705 Market cap > $2.00B \u2014 $172.09B"
   ],
   "primera": 1788742820.7745762,
-  "ultima_confirmacion": 1788929307.578702
+  "ultima_confirmacion": 1788947026.1461217
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
   "sector": "Technology",
   "industria": "Computer Hardware",
   "precio": 904.38,
-  "market_cap": 204972769280,
+  "market_cap": 205294256128,
   "score": 90,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 48.5%",
@@ -302,9 +302,9 @@
    "\u2705 PEG < 1.5 \u2014 0.30",
    "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 24.4% (23 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $204.97B"
+   "\u2705 Market cap > $2.00B \u2014 $205.29B"
   ],
   "primera": 1788929307.578702,
-  "ultima_confirmacion": 1788929307.578702
+  "ultima_confirmacion": 1788947026.1461217
  }
 }
