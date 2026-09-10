@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.72T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1789073429.1620967
+  "ultima_confirmacion": 1789081750.9987278
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.10T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1789073429.1620967
+  "ultima_confirmacion": 1789081750.9987278
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.34T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1789073429.1620967
+  "ultima_confirmacion": 1789081750.9987278
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $822.11B"
   ],
   "primera": 1786977768.4068127,
-  "ultima_confirmacion": 1789073429.1620967
+  "ultima_confirmacion": 1789081750.9987278
  },
  "ADI": {
   "nombre": "Analog Devices, Inc.",
@@ -129,14 +129,14 @@
    "\u2705 Market cap > $2.00B \u2014 $30.13B"
   ],
   "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1789073429.1620967
+  "ultima_confirmacion": 1789081750.9987278
  },
  "SMTC": {
   "nombre": "Semtech Corporation",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 159.04,
-  "market_cap": 14842506240,
+  "precio": 159.13,
+  "market_cap": 14850907136,
   "score": 63,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 32.7%",
@@ -146,12 +146,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 16.2%, fiscal 6.9% \u2192 11.7%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $165.4M",
    "\u2705 PEG < 1.5 \u2014 0.40",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 31.6% (14 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 31.5% (14 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $14.84B"
+   "\u2705 Market cap > $2.00B \u2014 $14.85B"
   ],
   "primera": 1787917182.8975883,
-  "ultima_confirmacion": 1789050316.3699675
+  "ultima_confirmacion": 1789081750.9987278
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -173,7 +173,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.22T"
   ],
   "primera": 1788347767.5624287,
-  "ultima_confirmacion": 1789073429.1620967
+  "ultima_confirmacion": 1789081750.9987278
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
@@ -217,7 +217,7 @@
    "\u2705 Market cap > $2.00B \u2014 $166.18B"
   ],
   "primera": 1788742820.7745762,
-  "ultima_confirmacion": 1789073429.1620967
+  "ultima_confirmacion": 1789081750.9987278
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
@@ -239,7 +239,7 @@
    "\u2705 Market cap > $2.00B \u2014 $196.09B"
   ],
   "primera": 1788929307.578702,
-  "ultima_confirmacion": 1789073429.1620967
+  "ultima_confirmacion": 1789081750.9987278
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -261,7 +261,7 @@
    "\u2705 Market cap > $2.00B \u2014 $372.91B"
   ],
   "primera": 1789050316.3699675,
-  "ultima_confirmacion": 1789073429.1620967
+  "ultima_confirmacion": 1789081750.9987278
  },
  "PAYP": {
   "nombre": "PayPay Corporation - American D",
@@ -289,9 +289,9 @@
   "nombre": "Bending Spoons S.p.A.",
   "sector": "Technology",
   "industria": "Software - Application",
-  "precio": 39.74,
-  "market_cap": 25243617280,
-  "score": 88,
+  "precio": 39.67,
+  "market_cap": 25199149056,
+  "score": 89,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 126.3%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 45.6%",
@@ -300,11 +300,11 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 35.4%, fiscal 19.0% \u2192 19.5%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $290.0M",
    "\u2705 PEG < 1.5 \u2014 0.50",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 21.5% (12 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 21.7% (12 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $25.24B"
+   "\u2705 Market cap > $2.00B \u2014 $25.20B"
   ],
   "primera": 1789050316.3699675,
-  "ultima_confirmacion": 1789050316.3699675
+  "ultima_confirmacion": 1789081750.9987278
  }
 }
