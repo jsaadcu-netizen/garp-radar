@@ -4,7 +4,7 @@
   "sector": "Technology",
   "industria": "Semiconductors",
   "precio": 360.83,
-  "market_cap": 1716677640192,
+  "market_cap": 1722468794368,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 85.5%",
@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.72T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1789088685.546794
+  "ultima_confirmacion": 1789106250.7433465
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.10T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1789088685.546794
+  "ultima_confirmacion": 1789106250.7433465
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.34T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1789088685.546794
+  "ultima_confirmacion": 1789106250.7433465
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $822.11B"
   ],
   "primera": 1786977768.4068127,
-  "ultima_confirmacion": 1789088685.546794
+  "ultima_confirmacion": 1789106250.7433465
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $30.13B"
   ],
   "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1789088685.546794
+  "ultima_confirmacion": 1789106250.7433465
  },
  "SMTC": {
   "nombre": "Semtech Corporation",
@@ -151,7 +151,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.22T"
   ],
   "primera": 1788347767.5624287,
-  "ultima_confirmacion": 1789088685.546794
+  "ultima_confirmacion": 1789106250.7433465
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -173,7 +173,7 @@
    "\u2705 Market cap > $2.00B \u2014 $166.18B"
   ],
   "primera": 1788742820.7745762,
-  "ultima_confirmacion": 1789088685.546794
+  "ultima_confirmacion": 1789106250.7433465
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
@@ -195,7 +195,7 @@
    "\u2705 Market cap > $2.00B \u2014 $196.09B"
   ],
   "primera": 1788929307.578702,
-  "ultima_confirmacion": 1789088685.546794
+  "ultima_confirmacion": 1789106250.7433465
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -217,7 +217,7 @@
    "\u2705 Market cap > $2.00B \u2014 $372.91B"
   ],
   "primera": 1789050316.3699675,
-  "ultima_confirmacion": 1789088685.546794
+  "ultima_confirmacion": 1789106250.7433465
  },
  "PAYP": {
   "nombre": "PayPay Corporation - American D",
@@ -261,7 +261,7 @@
    "\u2705 Market cap > $2.00B \u2014 $25.20B"
   ],
   "primera": 1789050316.3699675,
-  "ultima_confirmacion": 1789088685.546794
+  "ultima_confirmacion": 1789106250.7433465
  },
  "RDDT": {
   "nombre": "Reddit, Inc.",
@@ -283,6 +283,28 @@
    "\u2705 Market cap > $2.00B \u2014 $29.89B"
   ],
   "primera": 1789088685.546794,
-  "ultima_confirmacion": 1789088685.546794
+  "ultima_confirmacion": 1789106250.7433465
+ },
+ "ADI": {
+  "nombre": "Analog Devices, Inc.",
+  "sector": "Technology",
+  "industria": "Semiconductors",
+  "precio": 361.25,
+  "market_cap": 175049277440,
+  "score": 94,
+  "criterios": [
+   "\u2705 Ingresos YoY > 25.0% \u2014 39.6%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 20.5%",
+   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 163.5%",
+   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 65.8%",
+   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 39.5%, fiscal 22.0% \u2192 27.2%",
+   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $4.28B",
+   "\u2705 PEG < 1.5 \u2014 0.81",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 30.2% (32 analistas)",
+   "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
+   "\u2705 Market cap > $2.00B \u2014 $175.05B"
+  ],
+  "primera": 1789106250.7433465,
+  "ultima_confirmacion": 1789106250.7433465
  }
 }
