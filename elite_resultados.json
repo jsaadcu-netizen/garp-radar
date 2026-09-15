@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.65T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1789425539.2216554
+  "ultima_confirmacion": 1789435616.207834
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.04T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1789425539.2216554
+  "ultima_confirmacion": 1789435616.207834
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.25T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1789425539.2216554
+  "ultima_confirmacion": 1789435616.207834
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $28.21B"
   ],
   "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1789425539.2216554
+  "ultima_confirmacion": 1789435616.207834
  },
  "SMTC": {
   "nombre": "Semtech Corporation",
@@ -129,7 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.17T"
   ],
   "primera": 1788347767.5624287,
-  "ultima_confirmacion": 1789425539.2216554
+  "ultima_confirmacion": 1789435616.207834
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -151,7 +151,7 @@
    "\u2705 Market cap > $2.00B \u2014 $153.93B"
   ],
   "primera": 1788742820.7745762,
-  "ultima_confirmacion": 1789425539.2216554
+  "ultima_confirmacion": 1789435616.207834
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
@@ -173,7 +173,7 @@
    "\u2705 Market cap > $2.00B \u2014 $183.18B"
   ],
   "primera": 1788929307.578702,
-  "ultima_confirmacion": 1789425539.2216554
+  "ultima_confirmacion": 1789435616.207834
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -195,7 +195,7 @@
    "\u2705 Market cap > $2.00B \u2014 $342.22B"
   ],
   "primera": 1789050316.3699675,
-  "ultima_confirmacion": 1789425539.2216554
+  "ultima_confirmacion": 1789435616.207834
  },
  "ADI": {
   "nombre": "Analog Devices, Inc.",
@@ -217,29 +217,7 @@
    "\u2705 Market cap > $2.00B \u2014 $174.94B"
   ],
   "primera": 1789106250.7433465,
-  "ultima_confirmacion": 1789425539.2216554
- },
- "AFRM": {
-  "nombre": "Affirm Holdings, Inc.",
-  "sector": "Financial Services",
-  "industria": "Credit Services",
-  "precio": 71.44,
-  "market_cap": 24105375744,
-  "score": 93,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 33.0%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 24.9%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 2186.9%",
-   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 48.9%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 12.6%, fiscal 10.5% \u2192 20.4%",
-   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $992.6M",
-   "\u2705 PEG < 1.5 \u2014 0.58",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 39.1% (31 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $24.11B"
-  ],
-  "primera": 1789204777.9932463,
-  "ultima_confirmacion": 1789254669.0047212
+  "ultima_confirmacion": 1789435616.207834
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -261,6 +239,6 @@
    "\u2705 Market cap > $2.00B \u2014 $805.48B"
   ],
   "primera": 1789394462.3603032,
-  "ultima_confirmacion": 1789425539.2216554
+  "ultima_confirmacion": 1789435616.207834
  }
 }
