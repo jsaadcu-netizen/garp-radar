@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.71T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1789810169.9568505
+  "ultima_confirmacion": 1789824057.3910172
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.15T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1789810169.9568505
+  "ultima_confirmacion": 1789824057.3910172
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.33T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1789810169.9568505
+  "ultima_confirmacion": 1789824057.3910172
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -85,29 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $33.06B"
   ],
   "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1789810169.9568505
- },
- "SMTC": {
-  "nombre": "Semtech Corporation",
-  "sector": "Technology",
-  "industria": "Semiconductors",
-  "precio": 167.55,
-  "market_cap": 15636708352,
-  "score": 59,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 32.7%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 29.2%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 68.0%",
-   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 52.9%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 16.2%, fiscal 6.9% \u2192 11.7%",
-   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $165.4M",
-   "\u2705 PEG < 1.5 \u2014 0.42",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 24.9% (14 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $15.64B"
-  ],
-  "primera": 1787917182.8975883,
-  "ultima_confirmacion": 1789645155.8716063
+  "ultima_confirmacion": 1789824057.3910172
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -129,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.25T"
   ],
   "primera": 1788347767.5624287,
-  "ultima_confirmacion": 1789810169.9568505
+  "ultima_confirmacion": 1789824057.3910172
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -151,7 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $159.13B"
   ],
   "primera": 1788742820.7745762,
-  "ultima_confirmacion": 1789810169.9568505
+  "ultima_confirmacion": 1789824057.3910172
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
@@ -173,7 +151,7 @@
    "\u2705 Market cap > $2.00B \u2014 $195.28B"
   ],
   "primera": 1788929307.578702,
-  "ultima_confirmacion": 1789810169.9568505
+  "ultima_confirmacion": 1789824057.3910172
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -195,29 +173,7 @@
    "\u2705 Market cap > $2.00B \u2014 $360.52B"
   ],
   "primera": 1789050316.3699675,
-  "ultima_confirmacion": 1789810169.9568505
- },
- "AMD": {
-  "nombre": "Advanced Micro Devices, Inc.",
-  "sector": "Technology",
-  "industria": "Semiconductors",
-  "precio": 512.5,
-  "market_cap": 836643454976,
-  "score": 88,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 50.1%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 73.1%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 159.5%",
-   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 55.7%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 17.2%, fiscal 8.1% \u2192 10.7%",
-   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $6.74B",
-   "\u2705 PEG < 1.5 \u2014 0.31",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 20.3% (50 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $836.64B"
-  ],
-  "primera": 1789394462.3603032,
-  "ultima_confirmacion": 1789645155.8716063
+  "ultima_confirmacion": 1789824057.3910172
  },
  "ALAB": {
   "nombre": "Astera Labs, Inc.",
@@ -239,29 +195,7 @@
    "\u2705 Market cap > $2.00B \u2014 $52.61B"
   ],
   "primera": 1789454058.1032534,
-  "ultima_confirmacion": 1789810169.9568505
- },
- "LITE": {
-  "nombre": "Lumentum Holdings Inc.",
-  "sector": "Technology",
-  "industria": "Communication Equipment",
-  "precio": 919.4,
-  "market_cap": 82470182912,
-  "score": 66,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 109.3%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 52.2%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 83.2%",
-   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 44.2%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 28.0%, fiscal -11.7% \u2192 17.8%",
-   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $300.1M",
-   "\u2705 PEG < 1.5 \u2014 0.28",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 25.0% (26 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $82.47B"
-  ],
-  "primera": 1789584832.3569515,
-  "ultima_confirmacion": 1789645155.8716063
+  "ultima_confirmacion": 1789824057.3910172
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
@@ -327,6 +261,6 @@
    "\u2705 Market cap > $2.00B \u2014 $182.06B"
   ],
   "primera": 1789793575.2443407,
-  "ultima_confirmacion": 1789793575.2443407
+  "ultima_confirmacion": 1789824057.3910172
  }
 }
