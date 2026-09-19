@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.71T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1789824057.3910172
+  "ultima_confirmacion": 1789836026.9348025
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -30,7 +30,7 @@
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 345.7%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 88.8%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 89.1%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 1368.5%",
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 72.6%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 80.4%, fiscal 5.2% \u2192 26.2%",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.15T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1789824057.3910172
+  "ultima_confirmacion": 1789836026.9348025
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.33T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1789824057.3910172
+  "ultima_confirmacion": 1789836026.9348025
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $33.06B"
   ],
   "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1789824057.3910172
+  "ultima_confirmacion": 1789836026.9348025
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.25T"
   ],
   "primera": 1788347767.5624287,
-  "ultima_confirmacion": 1789824057.3910172
+  "ultima_confirmacion": 1789836026.9348025
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -129,7 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $159.13B"
   ],
   "primera": 1788742820.7745762,
-  "ultima_confirmacion": 1789824057.3910172
+  "ultima_confirmacion": 1789836026.9348025
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
@@ -151,7 +151,7 @@
    "\u2705 Market cap > $2.00B \u2014 $195.28B"
   ],
   "primera": 1788929307.578702,
-  "ultima_confirmacion": 1789824057.3910172
+  "ultima_confirmacion": 1789836026.9348025
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -173,7 +173,7 @@
    "\u2705 Market cap > $2.00B \u2014 $360.52B"
   ],
   "primera": 1789050316.3699675,
-  "ultima_confirmacion": 1789824057.3910172
+  "ultima_confirmacion": 1789836026.9348025
  },
  "ALAB": {
   "nombre": "Astera Labs, Inc.",
@@ -195,7 +195,7 @@
    "\u2705 Market cap > $2.00B \u2014 $52.61B"
   ],
   "primera": 1789454058.1032534,
-  "ultima_confirmacion": 1789824057.3910172
+  "ultima_confirmacion": 1789836026.9348025
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
@@ -261,6 +261,6 @@
    "\u2705 Market cap > $2.00B \u2014 $182.06B"
   ],
   "primera": 1789793575.2443407,
-  "ultima_confirmacion": 1789824057.3910172
+  "ultima_confirmacion": 1789836026.9348025
  }
 }
