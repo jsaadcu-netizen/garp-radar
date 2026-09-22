@@ -5,13 +5,13 @@
   "sector": "Technology",
   "industria": "Semiconductors",
   "precio": 227.38,
-  "cambio_pct": 2.299006,
+  "cambio_pct": 2.29901,
   "crec_ingresos": 1.059,
   "upside": 0.4411997537162459,
   "rec_clave": "strong_buy",
   "market_cap": 5490544738304,
   "primera": 1781279440.6840675,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "MU": {
   "score": 100,
@@ -19,13 +19,13 @@
   "sector": "Technology",
   "industria": "Semiconductors",
   "precio": 1043.96,
-  "cambio_pct": 2.7721965,
+  "cambio_pct": 2.7722,
   "crec_ingresos": 3.457,
   "upside": 0.4512050270125292,
   "rec_clave": "strong_buy",
   "market_cap": 1179041267712,
   "primera": 1781279440.6840675,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "AVGO": {
   "score": 100,
@@ -33,13 +33,13 @@
   "sector": "Technology",
   "industria": "Semiconductors",
   "precio": 362.66,
-  "cambio_pct": 1.5968211,
+  "cambio_pct": 1.59682,
   "crec_ingresos": 0.855,
   "upside": 0.46651629625544583,
   "rec_clave": "strong_buy",
   "market_cap": 1731204612096,
   "primera": 1781279440.6840675,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "AMD": {
   "score": 75,
@@ -47,13 +47,13 @@
   "sector": "Technology",
   "industria": "Semiconductors",
   "precio": 615.52,
-  "cambio_pct": 9.949629,
+  "cambio_pct": 9.94963,
   "crec_ingresos": 0.501,
   "upside": 0.0016051468676892,
   "rec_clave": "strong_buy",
   "market_cap": 1004821020672,
   "primera": 1781279440.6840675,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "PLTR": {
   "score": 80,
@@ -61,13 +61,13 @@
   "sector": "Technology",
   "industria": "Software - Infrastructure",
   "precio": 183.09,
-  "cambio_pct": 3.068001,
+  "cambio_pct": 3.068,
   "crec_ingresos": 0.928,
   "upside": 0.0751037194822219,
   "rec_clave": "buy",
   "market_cap": 439975968768,
   "primera": 1781279440.6840675,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "CRDO": {
   "score": 100,
@@ -75,13 +75,13 @@
   "sector": "Technology",
   "industria": "Semiconductors",
   "precio": 187.27,
-  "cambio_pct": 6.4699554,
+  "cambio_pct": 6.46996,
   "crec_ingresos": 1.147,
   "upside": 0.495690713942436,
   "rec_clave": "strong_buy",
   "market_cap": 35197755392,
   "primera": 1781279440.6840675,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "TSM": {
   "score": 87,
@@ -95,7 +95,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 2308707188736,
   "primera": 1781279440.6840675,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "DELL": {
   "score": 75,
@@ -109,7 +109,7 @@
   "rec_clave": "buy",
   "market_cap": 365789413376,
   "primera": 1781279440.6840675,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "WDC": {
   "score": 85,
@@ -117,13 +117,13 @@
   "sector": "Technology",
   "industria": "Computer Hardware",
   "precio": 448.17,
-  "cambio_pct": 1.5429646,
+  "cambio_pct": 1.54296,
   "crec_ingresos": 0.438,
   "upside": 0.4836260793895173,
   "rec_clave": "none",
   "market_cap": 161583628288,
   "primera": 1781279440.6840675,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "APH": {
   "score": 89,
@@ -137,21 +137,21 @@
   "rec_clave": "strong_buy",
   "market_cap": 199052853248,
   "primera": 1781279440.6840675,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "AMKR": {
   "score": 72,
   "nombre": "Amkor Technology, Inc.",
   "sector": "Technology",
   "industria": "Semiconductor Equipment & Materials",
-  "precio": 51.6,
-  "cambio_pct": 2.5844915,
+  "precio": 52.19,
+  "cambio_pct": 3.75745,
   "crec_ingresos": 0.256,
-  "upside": 0.48062015503875977,
+  "upside": 0.4638819697260013,
   "rec_clave": "none",
-  "market_cap": 12820147200,
+  "market_cap": 12936466432,
   "primera": 1781279440.6840675,
-  "ultima": 1790010120.947991
+  "ultima": 1790035535.0982094
  },
  "FIS": {
   "score": 65,
@@ -163,9 +163,9 @@
   "crec_ingresos": 0.291,
   "upside": 0.4208581983518046,
   "rec_clave": "buy",
-  "market_cap": 18147690496,
+  "market_cap": 18188976128,
   "primera": 1781279440.6840675,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "OPTU": {
   "score": 0,
@@ -193,7 +193,7 @@
   "rec_clave": "buy",
   "market_cap": 174393229312,
   "primera": 1781288031.8177383,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "BMY": {
   "score": 49,
@@ -207,7 +207,7 @@
   "rec_clave": "buy",
   "market_cap": 127914786816,
   "primera": 1781296696.095258,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "INTC": {
   "score": 37,
@@ -215,13 +215,13 @@
   "sector": "Technology",
   "industria": "Semiconductors",
   "precio": 121.78,
-  "cambio_pct": 12.13628,
+  "cambio_pct": 12.1363,
   "crec_ingresos": 0.254,
   "upside": -0.04440720972245033,
   "rec_clave": "buy",
   "market_cap": 643741843456,
   "primera": 1781308107.9330657,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "NOK": {
   "score": 45,
@@ -235,7 +235,7 @@
   "rec_clave": "buy",
   "market_cap": 61249171456,
   "primera": 1781308107.9330657,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "ONDS": {
   "score": 75,
@@ -243,13 +243,13 @@
   "sector": "Technology",
   "industria": "Communication Equipment",
   "precio": 7.38,
-  "cambio_pct": -0.13531464,
+  "cambio_pct": -0.135315,
   "crec_ingresos": 12.354,
   "upside": 1.6309850948509486,
   "rec_clave": "strong_buy",
   "market_cap": 4297306624,
   "primera": 1781315531.7260728,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "PLUG": {
   "score": 33,
@@ -271,13 +271,13 @@
   "sector": "Industrials",
   "industria": "Aerospace & Defense",
   "precio": 151.85,
-  "cambio_pct": -0.5631593,
+  "cambio_pct": -0.563159,
   "crec_ingresos": 0.919,
   "upside": 0.4647418505103722,
   "rec_clave": "buy",
-  "market_cap": 2001653334016,
+  "market_cap": 2000500424704,
   "primera": 1781660466.0210392,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "PATH": {
   "score": 58,
@@ -291,7 +291,7 @@
   "rec_clave": "hold",
   "market_cap": 7082502144,
   "primera": 1782163226.7195258,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "SKHY": {
   "score": 95,
@@ -299,13 +299,13 @@
   "sector": "Technology",
   "industria": "Semiconductors",
   "precio": 188.86,
-  "cambio_pct": 0.7253337,
+  "cambio_pct": 0.725334,
   "crec_ingresos": 2.568,
   "upside": 0.3154112570157788,
   "rec_clave": "strong_buy",
   "market_cap": 1340631941120,
   "primera": 1783968938.5002291,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "COUR": {
   "score": 60,
@@ -317,9 +317,9 @@
   "crec_ingresos": 0.596,
   "upside": 0.5826879844961239,
   "rec_clave": "none",
-  "market_cap": 1477610496,
+  "market_cap": 1364304000,
   "primera": 1785174878.66723,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "CAPR": {
   "score": 40,
@@ -327,13 +327,13 @@
   "sector": "Healthcare",
   "industria": "Biotechnology",
   "precio": 8.9,
-  "cambio_pct": -1.7660131,
+  "cambio_pct": -1.76601,
   "crec_ingresos": null,
   "upside": 2.033707865168539,
   "rec_clave": "buy",
   "market_cap": 517436960,
   "primera": 1785209800.8046954,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "CORZ": {
   "score": 75,
@@ -341,13 +341,13 @@
   "sector": "Technology",
   "industria": "Software - Infrastructure",
   "precio": 18.36,
-  "cambio_pct": 2.0567029,
+  "cambio_pct": 2.0567,
   "crec_ingresos": 1.088,
   "upside": 0.9577581699346406,
   "rec_clave": "strong_buy",
   "market_cap": 5899810816,
   "primera": 1785381984.269287,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "ASX": {
   "score": 74,
@@ -361,7 +361,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 113858289664,
   "primera": 1785556077.1087623,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "LRCX": {
   "score": 78,
@@ -369,13 +369,13 @@
   "sector": "Technology",
   "industria": "Semiconductor Equipment & Materials",
   "precio": 302.28,
-  "cambio_pct": 4.9182653,
+  "cambio_pct": 4.91827,
   "crec_ingresos": 0.3,
   "upside": 0.23438212915177992,
   "rec_clave": "strong_buy",
   "market_cap": 378249314304,
   "primera": 1785556077.1087623,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "AEO": {
   "score": 49,
@@ -403,7 +403,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 16412044288,
   "primera": 1786155621.5395079,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "SMCI": {
   "score": 68,
@@ -411,13 +411,13 @@
   "sector": "Technology",
   "industria": "Computer Hardware",
   "precio": 41.2,
-  "cambio_pct": 5.3978014,
+  "cambio_pct": 5.3978,
   "crec_ingresos": 0.932,
   "upside": 0.028519417475728084,
   "rec_clave": "hold",
-  "market_cap": 27066974208,
+  "market_cap": 26651168768,
   "primera": 1786374936.6961355,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "F": {
   "score": 29,
@@ -431,7 +431,7 @@
   "rec_clave": "buy",
   "market_cap": 52516638720,
   "primera": 1786378989.004545,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "IREN": {
   "score": 40,
@@ -453,13 +453,13 @@
   "sector": "Technology",
   "industria": "Communication Equipment",
   "precio": 61.89,
-  "cambio_pct": 5.7587132,
+  "cambio_pct": 5.75871,
   "crec_ingresos": 26.266,
   "upside": 0.2862874454677653,
   "rec_clave": "hold",
   "market_cap": 24085575680,
   "primera": 1786502564.1333537,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "GPRO": {
   "score": 0,
@@ -467,13 +467,13 @@
   "sector": "Technology",
   "industria": "Consumer Electronics",
   "precio": 1.3,
-  "cambio_pct": -0.76335806,
+  "cambio_pct": -0.763358,
   "crec_ingresos": -0.313,
   "upside": -0.6153846153846154,
   "rec_clave": "none",
   "market_cap": 268263264,
   "primera": 1786510837.4189425,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "BMNR": {
   "score": 75,
@@ -487,7 +487,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 17041144832,
   "primera": 1786977768.4068127,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "SMTC": {
   "score": 52,
@@ -515,7 +515,7 @@
   "rec_clave": "buy",
   "market_cap": 7464490496,
   "primera": 1787771903.5975943,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "ONON": {
   "score": 52,
@@ -525,11 +525,11 @@
   "precio": 27.32,
   "cambio_pct": 0.220101,
   "crec_ingresos": 0.135,
-  "upside": 0.572188653001464,
+  "upside": 0.5722653733528551,
   "rec_clave": "buy",
   "market_cap": 9130744832,
   "primera": 1787801272.4993584,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "VISN": {
   "score": 50,
@@ -537,13 +537,13 @@
   "sector": "Technology",
   "industria": "Communication Equipment",
   "precio": 6.48,
-  "cambio_pct": -1.3698653,
+  "cambio_pct": -1.36987,
   "crec_ingresos": -0.014,
   "upside": 1.263375,
   "rec_clave": "none",
   "market_cap": 1494459136,
   "primera": 1787955465.928217,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "AAPL": {
   "score": 47,
@@ -571,7 +571,7 @@
   "rec_clave": "buy",
   "market_cap": 81970954240,
   "primera": 1788411154.2329357,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "MARA": {
   "score": 39,
@@ -579,13 +579,13 @@
   "sector": "Financial Services",
   "industria": "Capital Markets",
   "precio": 13.28,
-  "cambio_pct": 0.30211452,
+  "cambio_pct": 0.302115,
   "crec_ingresos": -0.267,
   "upside": 0.38629518072289165,
   "rec_clave": "buy",
   "market_cap": 5130054656,
   "primera": 1788460632.6656783,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "GENI": {
   "score": 75,
@@ -599,7 +599,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 1541531392,
   "primera": 1788877884.5849261,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "ANGX": {
   "score": 64,
@@ -613,7 +613,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 974867968,
   "primera": 1788877884.5849261,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "SMR": {
   "score": 31,
@@ -635,13 +635,13 @@
   "sector": "Technology",
   "industria": "Software - Application",
   "precio": 2.91,
-  "cambio_pct": 4.1144905,
+  "cambio_pct": 4.11449,
   "crec_ingresos": 0.219,
   "upside": 1.0,
   "rec_clave": "strong_buy",
   "market_cap": 11905688576,
   "primera": 1788892732.2628791,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "CIFR": {
   "score": 40,
@@ -649,13 +649,13 @@
   "sector": "Technology",
   "industria": "Information Technology Services",
   "precio": 18.9,
-  "cambio_pct": 3.0534322,
+  "cambio_pct": 3.05343,
   "crec_ingresos": -0.43,
   "upside": 0.6833751322751324,
   "rec_clave": "strong_buy",
   "market_cap": 7844080640,
   "primera": 1788904229.1118057,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "STX": {
   "score": 78,
@@ -663,13 +663,13 @@
   "sector": "Technology",
   "industria": "Computer Hardware",
   "precio": 877.325,
-  "cambio_pct": 2.1582732,
+  "cambio_pct": 2.15827,
   "crec_ingresos": 0.485,
   "upside": 0.2823070127945744,
   "rec_clave": "none",
   "market_cap": 199497580544,
   "primera": 1788929307.578702,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "KSS": {
   "score": 11,
@@ -683,7 +683,7 @@
   "rec_clave": "hold",
   "market_cap": 1976151552,
   "primera": 1788990075.0730543,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "OI": {
   "score": 40,
@@ -697,7 +697,7 @@
   "rec_clave": "buy",
   "market_cap": 935787840,
   "primera": 1789016628.844921,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "ORCL": {
   "score": 91,
@@ -711,7 +711,7 @@
   "rec_clave": "buy",
   "market_cap": 449206222848,
   "primera": 1789050316.3699675,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "YSS": {
   "score": 49,
@@ -725,7 +725,7 @@
   "rec_clave": "buy",
   "market_cap": 1340610176,
   "primera": 1789139301.5023537,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "GEMI": {
   "score": 38,
@@ -756,18 +756,18 @@
   "ultima": 1789988354.3593063
  },
  "M": {
-  "score": 34,
+  "score": 35,
   "nombre": "Macy's Inc",
   "sector": "Consumer Cyclical",
   "industria": "Department Stores",
-  "precio": 22.505,
-  "cambio_pct": 2.575199,
+  "precio": 22.19,
+  "cambio_pct": 1.13947,
   "crec_ingresos": 0.012,
-  "upside": 0.03815329926682965,
+  "upside": 0.05289049121225772,
   "rec_clave": "hold",
-  "market_cap": 5877779968,
+  "market_cap": 5795509760,
   "primera": 1789172225.2293777,
-  "ultima": 1790010120.947991
+  "ultima": 1790035535.0982094
  },
  "OPENL": {
   "score": 0,
@@ -789,13 +789,13 @@
   "sector": "Technology",
   "industria": "Semiconductors",
   "precio": 340.74,
-  "cambio_pct": 12.362734,
+  "cambio_pct": 12.3627,
   "crec_ingresos": 1.045,
   "upside": 0.14442889006280443,
   "rec_clave": "buy",
   "market_cap": 59113312256,
   "primera": 1789454058.1032534,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "FIP": {
   "score": 60,
@@ -859,13 +859,13 @@
   "sector": "Financial Services",
   "industria": "Credit Services",
   "precio": 16.97,
-  "cambio_pct": 0.058963615,
+  "cambio_pct": 0.0589636,
   "crec_ingresos": 0.426,
   "upside": 0.1986393635827933,
   "rec_clave": "hold",
   "market_cap": 21917947904,
   "primera": 1789507156.8839087,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "PFE": {
   "score": 20,
@@ -893,7 +893,7 @@
   "rec_clave": "buy",
   "market_cap": 37874610176,
   "primera": 1789534036.9163694,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "DOCN": {
   "score": 52,
@@ -905,9 +905,9 @@
   "crec_ingresos": 0.286,
   "upside": 0.19868637110016416,
   "rec_clave": "buy",
-  "market_cap": 17185427456,
+  "market_cap": 17087287296,
   "primera": 1789534036.9163694,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "VNET": {
   "score": 52,
@@ -915,13 +915,13 @@
   "sector": "Technology",
   "industria": "Information Technology Services",
   "precio": 7.235,
-  "cambio_pct": 10.96626,
+  "cambio_pct": 10.9663,
   "crec_ingresos": 0.142,
   "upside": 0.886601243953006,
   "rec_clave": "strong_buy",
   "market_cap": 2059744128,
   "primera": 1789534036.9163694,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "LVWR": {
   "score": 35,
@@ -1031,9 +1031,9 @@
   "crec_ingresos": 0.884,
   "upside": 0.9725348314606741,
   "rec_clave": "buy",
-  "market_cap": 1310645376,
+  "market_cap": 1310420480,
   "primera": 1789664294.9161792,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "SPCE": {
   "score": 5,
@@ -1047,7 +1047,7 @@
   "rec_clave": "none",
   "market_cap": 501782432,
   "primera": 1789664294.9161792,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "BTGO": {
   "score": 73,
@@ -1075,7 +1075,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 2204086784,
   "primera": 1789664294.9161792,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "CRWV": {
   "score": 75,
@@ -1166,14 +1166,14 @@
   "nombre": "Evolent Health, Inc",
   "sector": "Healthcare",
   "industria": "Health Information Services",
-  "precio": 3.6,
-  "cambio_pct": -2.4390285,
+  "precio": 3.69,
+  "cambio_pct": 0.0,
   "crec_ingresos": 0.469,
-  "upside": 0.6025638888888889,
+  "upside": 0.5634769647696478,
   "rec_clave": "buy",
-  "market_cap": 407013600,
+  "market_cap": 417188960,
   "primera": 1789712558.9482095,
-  "ultima": 1790010120.947991
+  "ultima": 1790035535.0982094
  },
  "PAL": {
   "score": 25,
@@ -1194,14 +1194,14 @@
   "nombre": "Taboola.com Ltd.",
   "sector": "Communication Services",
   "industria": "Internet Content & Information",
-  "precio": 3.59,
-  "cambio_pct": -0.27777752,
+  "precio": 3.62,
+  "cambio_pct": 0.555555,
   "crec_ingresos": 0.024,
-  "upside": 0.6155988857938719,
+  "upside": 0.6022099447513811,
   "rec_clave": "buy",
-  "market_cap": 969857856,
+  "market_cap": 977962496,
   "primera": 1789731534.8684266,
-  "ultima": 1790010120.947991
+  "ultima": 1790035535.0982094
  },
  "WOLF": {
   "score": 0,
@@ -1215,7 +1215,7 @@
   "rec_clave": "none",
   "market_cap": 1466706048,
   "primera": 1789748558.1252532,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "ADCT": {
   "score": 27,
@@ -1243,7 +1243,7 @@
   "rec_clave": "none",
   "market_cap": 411934848,
   "primera": 1789748558.1252532,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "IQMX": {
   "score": 24,
@@ -1335,13 +1335,13 @@
   "sector": "Technology",
   "industria": "Software - Application",
   "precio": 168.5,
-  "cambio_pct": 9.472454,
+  "cambio_pct": 9.47245,
   "crec_ingresos": 0.069,
   "upside": 0.3562808902077152,
   "rec_clave": "strong_buy",
   "market_cap": 66941960192,
   "primera": 1789758399.3152568,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "BTDR": {
   "score": 75,
@@ -1503,13 +1503,13 @@
   "sector": "Communication Services",
   "industria": "Entertainment",
   "precio": 9.91,
-  "cambio_pct": -2.9382975,
+  "cambio_pct": -2.9383,
   "crec_ingresos": 0.009,
   "upside": -0.005423814328960732,
   "rec_clave": "hold",
-  "market_cap": 11118482432,
+  "market_cap": 11091005440,
   "primera": 1789767620.239491,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "BE": {
   "score": 53,
@@ -1537,7 +1537,7 @@
   "rec_clave": "hold",
   "market_cap": 2579627520,
   "primera": 1789767620.239491,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "SBET": {
   "score": 75,
@@ -1691,7 +1691,7 @@
   "rec_clave": "none",
   "market_cap": 1060681472,
   "primera": 1789793575.2443407,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "PRPL": {
   "score": 25,
@@ -1726,14 +1726,14 @@
   "nombre": "SOS Limited",
   "sector": "Financial Services",
   "industria": "Capital Markets",
-  "precio": 0.7307,
-  "cambio_pct": 4.955473,
+  "precio": 0.7682,
+  "cambio_pct": 10.3419,
   "crec_ingresos": -0.621,
   "upside": null,
   "rec_clave": "none",
-  "market_cap": 14143102,
+  "market_cap": 14868935,
   "primera": 1789810169.9568505,
-  "ultima": 1790010120.947991
+  "ultima": 1790035535.0982094
  },
  "GRPN": {
   "score": 24,
@@ -1741,13 +1741,13 @@
   "sector": "Communication Services",
   "industria": "Internet Content & Information",
   "precio": 22.05,
-  "cambio_pct": 15.566034,
+  "cambio_pct": 15.566,
   "crec_ingresos": -0.008,
   "upside": 0.3907786848072562,
   "rec_clave": "none",
   "market_cap": 896669760,
   "primera": 1789810169.9568505,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "GTX": {
   "score": 62,
@@ -1783,13 +1783,13 @@
   "sector": "Technology",
   "industria": "Software - Application",
   "precio": 1.25,
-  "cambio_pct": 5.0420117,
+  "cambio_pct": 5.04201,
   "crec_ingresos": 0.07,
   "upside": 1.3679999999999999,
   "rec_clave": "none",
   "market_cap": 295641632,
   "primera": 1790010120.947991,
-  "ultima": 1790010120.947991
+  "ultima": 1790035535.0982094
  },
  "TV": {
   "score": 31,
@@ -1799,11 +1799,11 @@
   "precio": 2.57,
   "cambio_pct": 9.3617,
   "crec_ingresos": -0.03,
-  "upside": 0.5573217898832684,
+  "upside": 0.5568150583657587,
   "rec_clave": "hold",
   "market_cap": 1354544128,
   "primera": 1790010120.947991,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "NMAX": {
   "score": 39,
@@ -1817,7 +1817,7 @@
   "rec_clave": "none",
   "market_cap": 1405267840,
   "primera": 1790010120.947991,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "EDIT": {
   "score": 60,
@@ -1957,7 +1957,7 @@
   "rec_clave": "none",
   "market_cap": 211633808,
   "primera": 1790024581.0603166,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "LCID": {
   "score": 60,
@@ -1965,13 +1965,13 @@
   "sector": "Consumer Cyclical",
   "industria": "Auto Manufacturers",
   "precio": 4.3,
-  "cambio_pct": 5.134475,
+  "cambio_pct": 5.13448,
   "crec_ingresos": 0.562,
   "upside": 0.8863046511627908,
   "rec_clave": "none",
-  "market_cap": 1694501888,
+  "market_cap": 1678104320,
   "primera": 1790024581.0603166,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "RXT": {
   "score": 18,
@@ -1985,7 +1985,7 @@
   "rec_clave": "hold",
   "market_cap": 1029686272,
   "primera": 1790024581.0603166,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "VYX": {
   "score": 40,
@@ -1999,7 +1999,7 @@
   "rec_clave": "buy",
   "market_cap": 1006529600,
   "primera": 1790024581.0603166,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "ETRA": {
   "score": 0,
@@ -2013,7 +2013,7 @@
   "rec_clave": "none",
   "market_cap": 850516032,
   "primera": 1790024581.0603166,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "LAES": {
   "score": 75,
@@ -2021,13 +2021,13 @@
   "sector": "Technology",
   "industria": "Semiconductors",
   "precio": 2.36,
-  "cambio_pct": 5.3571377,
+  "cambio_pct": 5.35714,
   "crec_ingresos": 1.311,
   "upside": 1.489406779661017,
   "rec_clave": "strong_buy",
   "market_cap": 530836096,
   "primera": 1790024581.0603166,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "NXDR": {
   "score": 29,
@@ -2039,9 +2039,9 @@
   "crec_ingresos": 0.145,
   "upside": 0.2689393939393939,
   "rec_clave": "none",
-  "market_cap": 1021279872,
+  "market_cap": 1006863616,
   "primera": 1790024581.0603166,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "AMBQ": {
   "score": 48,
@@ -2063,13 +2063,13 @@
   "sector": "Communication Services",
   "industria": "Entertainment",
   "precio": 30.8,
-  "cambio_pct": 10.791368,
+  "cambio_pct": 10.7914,
   "crec_ingresos": -0.112,
   "upside": -0.034090909090909116,
   "rec_clave": "hold",
   "market_cap": 77219807232,
   "primera": 1790024581.0603166,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "AUR": {
   "score": 75,
@@ -2077,13 +2077,13 @@
   "sector": "Consumer Cyclical",
   "industria": "Auto Parts",
   "precio": 6.51,
-  "cambio_pct": 3.169577,
+  "cambio_pct": 3.16958,
   "crec_ingresos": 1.0,
   "upside": 0.7740660522273426,
   "rec_clave": "buy",
   "market_cap": 13047051264,
   "primera": 1790024581.0603166,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "META": {
   "score": 41,
@@ -2091,13 +2091,13 @@
   "sector": "Communication Services",
   "industria": "Internet Content & Information",
   "precio": 741.245,
-  "cambio_pct": 11.427715,
+  "cambio_pct": 11.4277,
   "crec_ingresos": 0.28,
   "upside": 0.018935304791263374,
   "rec_clave": "strong_buy",
   "market_cap": 1888326254592,
   "primera": 1790024581.0603166,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
  },
  "NVO": {
   "score": 19,
@@ -2107,10 +2107,178 @@
   "precio": 39.8,
   "cambio_pct": -7.9556,
   "crec_ingresos": 0.021,
-  "upside": 0.1773447236180905,
+  "upside": 0.17685336683417088,
   "rec_clave": "hold",
   "market_cap": 175831416832,
   "primera": 1790024581.0603166,
-  "ultima": 1790024581.0603166
+  "ultima": 1790035535.0982094
+ },
+ "GRAL": {
+  "score": 37,
+  "nombre": "GRAIL, Inc.",
+  "sector": "Healthcare",
+  "industria": "Diagnostics & Research",
+  "precio": 107.97,
+  "cambio_pct": 33.6759,
+  "crec_ingresos": 0.257,
+  "upside": -0.2803556543484301,
+  "rec_clave": "buy",
+  "market_cap": 4822612992,
+  "primera": 1790035535.0982094,
+  "ultima": 1790035535.0982094
+ },
+ "ARM": {
+  "score": 60,
+  "nombre": "Arm Holdings plc",
+  "sector": "Technology",
+  "industria": "Semiconductors",
+  "precio": 322.9,
+  "cambio_pct": 17.1583,
+  "crec_ingresos": 0.224,
+  "upside": -0.1058996593372561,
+  "rec_clave": "buy",
+  "market_cap": 344856723456,
+  "primera": 1790035535.0982094,
+  "ultima": 1790035535.0982094
+ },
+ "PLBL": {
+  "score": 35,
+  "nombre": "Polibeli Group Ltd",
+  "sector": "Consumer Cyclical",
+  "industria": "Department Stores",
+  "precio": 6.37,
+  "cambio_pct": 15.3985,
+  "crec_ingresos": 0.611,
+  "upside": null,
+  "rec_clave": "none",
+  "market_cap": 2333888000,
+  "primera": 1790035535.0982094,
+  "ultima": 1790035535.0982094
+ },
+ "FSLY": {
+  "score": 35,
+  "nombre": "Fastly, Inc.",
+  "sector": "Technology",
+  "industria": "Software - Application",
+  "precio": 27.42,
+  "cambio_pct": 14.9204,
+  "crec_ingresos": 0.233,
+  "upside": -0.015317286652078837,
+  "rec_clave": "buy",
+  "market_cap": 4368006144,
+  "primera": 1790035535.0982094,
+  "ultima": 1790035535.0982094
+ },
+ "AXTI": {
+  "score": 59,
+  "nombre": "AXT Inc",
+  "sector": "Technology",
+  "industria": "Semiconductor Equipment & Materials",
+  "precio": 79.93,
+  "cambio_pct": 14.1368,
+  "crec_ingresos": 1.648,
+  "upside": 0.14600275240835714,
+  "rec_clave": "buy",
+  "market_cap": 5241266688,
+  "primera": 1790035535.0982094,
+  "ultima": 1790035535.0982094
+ },
+ "FIVN": {
+  "score": 49,
+  "nombre": "Five9, Inc.",
+  "sector": "Technology",
+  "industria": "Software - Infrastructure",
+  "precio": 37.01,
+  "cambio_pct": 13.9821,
+  "crec_ingresos": 0.103,
+  "upside": -0.04755471494190754,
+  "rec_clave": "buy",
+  "market_cap": 2765517568,
+  "primera": 1790035535.0982094,
+  "ultima": 1790035535.0982094
+ },
+ "XXI": {
+  "score": 0,
+  "nombre": "Twenty One Capital, Inc.",
+  "sector": "Consumer Defensive",
+  "industria": "Education & Training Services",
+  "precio": 6.61,
+  "cambio_pct": 13.7694,
+  "crec_ingresos": null,
+  "upside": null,
+  "rec_clave": "none",
+  "market_cap": 2291265536,
+  "primera": 1790035535.0982094,
+  "ultima": 1790035535.0982094
+ },
+ "LUNR": {
+  "score": 60,
+  "nombre": "Intuitive Machines, Inc.",
+  "sector": "Industrials",
+  "industria": "Aerospace & Defense",
+  "precio": 15.72,
+  "cambio_pct": 12.931,
+  "crec_ingresos": 3.098,
+  "upside": 0.876590330788804,
+  "rec_clave": "none",
+  "market_cap": 2522310144,
+  "primera": 1790035535.0982094,
+  "ultima": 1790035535.0982094
+ },
+ "AKAM": {
+  "score": 39,
+  "nombre": "Akamai Technologies, Inc.",
+  "sector": "Technology",
+  "industria": "Software - Infrastructure",
+  "precio": 117.41,
+  "cambio_pct": 12.3326,
+  "crec_ingresos": 0.054,
+  "upside": 0.3057957584532834,
+  "rec_clave": "buy",
+  "market_cap": 16873767936,
+  "primera": 1790035535.0982094,
+  "ultima": 1790035535.0982094
+ },
+ "MRNA": {
+  "score": 8,
+  "nombre": "Moderna, Inc.",
+  "sector": "Healthcare",
+  "industria": "Biotechnology",
+  "precio": 172.94,
+  "cambio_pct": 12.2695,
+  "crec_ingresos": 0.021,
+  "upside": -0.3086876373308662,
+  "rec_clave": "hold",
+  "market_cap": 69043855360,
+  "primera": 1790035535.0982094,
+  "ultima": 1790035535.0982094
+ },
+ "RMBS": {
+  "score": 67,
+  "nombre": "Rambus, Inc.",
+  "sector": "Technology",
+  "industria": "Semiconductors",
+  "precio": 96.96,
+  "cambio_pct": 10.6849,
+  "crec_ingresos": 0.204,
+  "upside": 0.524929352310231,
+  "rec_clave": "strong_buy",
+  "market_cap": 10484960256,
+  "primera": 1790035535.0982094,
+  "ultima": 1790035535.0982094
+ },
+ "NN": {
+  "score": 25,
+  "nombre": "NextNav Inc.",
+  "sector": "Technology",
+  "industria": "Software - Infrastructure",
+  "precio": 15.66,
+  "cambio_pct": 10.1266,
+  "crec_ingresos": -0.043,
+  "upside": 1.149851213282248,
+  "rec_clave": "none",
+  "market_cap": 2643563008,
+  "primera": 1790035535.0982094,
+  "ultima": 1790035535.0982094
  }
 }
