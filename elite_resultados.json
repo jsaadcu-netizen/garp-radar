@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.69T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1790212985.9170012
+  "ultima_confirmacion": 1790231501.230057
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -30,18 +30,18 @@
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 345.7%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 90.5%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 90.8%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 1368.5%",
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 72.6%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 80.4%, fiscal 5.2% \u2192 26.2%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $1.67B",
    "\u2705 PEG < 1.5 \u2014 0.06",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 41.3% (46 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 41.4% (46 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
    "\u2705 Market cap > $2.00B \u2014 $1.21T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1790212985.9170012
+  "ultima_confirmacion": 1790231501.230057
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -49,21 +49,21 @@
   "industria": "Semiconductors",
   "precio": 189.28,
   "market_cap": 1345923710976,
-  "score": 95,
+  "score": 96,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 256.8%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 54.2%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 54.1%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 1272.4%",
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 76.3%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 76.3%, fiscal 35.5% \u2192 48.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $24.79T",
    "\u2705 PEG < 1.5 \u2014 0.20",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 31.4% (14 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 33.2% (14 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
    "\u2705 Market cap > $2.00B \u2014 $1.35T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1790212985.9170012
+  "ultima_confirmacion": 1790231501.230057
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $36.44B"
   ],
   "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1790212985.9170012
+  "ultima_confirmacion": 1790231501.230057
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.32T"
   ],
   "primera": 1788347767.5624287,
-  "ultima_confirmacion": 1790212985.9170012
+  "ultima_confirmacion": 1790231501.230057
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -129,7 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $384.51B"
   ],
   "primera": 1789050316.3699675,
-  "ultima_confirmacion": 1790212985.9170012
+  "ultima_confirmacion": 1790231501.230057
  },
  "SMTC": {
   "nombre": "Semtech Corporation",
@@ -151,7 +151,7 @@
    "\u2705 Market cap > $2.00B \u2014 $15.80B"
   ],
   "primera": 1790088702.1435082,
-  "ultima_confirmacion": 1790194827.1796691
+  "ultima_confirmacion": 1790231501.230057
  },
  "MPWR": {
   "nombre": "Monolithic Power Systems, Inc.",
