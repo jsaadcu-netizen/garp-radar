@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.68T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1790386312.856154
+  "ultima_confirmacion": 1790408353.7345266
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.22T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1790386312.856154
+  "ultima_confirmacion": 1790408353.7345266
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.36T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1790386312.856154
+  "ultima_confirmacion": 1790408353.7345266
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $39.65B"
   ],
   "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1790386312.856154
+  "ultima_confirmacion": 1790408353.7345266
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.34T"
   ],
   "primera": 1788347767.5624287,
-  "ultima_confirmacion": 1790386312.856154
+  "ultima_confirmacion": 1790408353.7345266
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -174,5 +174,27 @@
   ],
   "primera": 1790294316.7489605,
   "ultima_confirmacion": 1790364384.72166
+ },
+ "MCHP": {
+  "nombre": "Microchip Technology Incorporat",
+  "sector": "Technology",
+  "industria": "Semiconductors",
+  "precio": 78.69,
+  "market_cap": 42729357312,
+  "score": 71,
+  "criterios": [
+   "\u2705 Ingresos YoY > 25.0% \u2014 38.0%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 16.2%",
+   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 25.7%",
+   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 60.2%",
+   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 24.0%, fiscal 8.5% \u2192 11.2%",
+   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $871.0M",
+   "\u2705 PEG < 1.5 \u2014 0.67",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 37.0% (25 analistas)",
+   "\u2705 Consenso Buy/Strong Buy \u2014 buy",
+   "\u2705 Market cap > $2.00B \u2014 $42.73B"
+  ],
+  "primera": 1790408353.7345266,
+  "ultima_confirmacion": 1790408353.7345266
  }
 }
