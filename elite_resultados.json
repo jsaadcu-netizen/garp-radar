@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.68T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1790492101.9220283
+  "ultima_confirmacion": 1790514045.9769847
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.22T"
   ],
   "primera": 1782500687.491593,
-  "ultima_confirmacion": 1790492101.9220283
+  "ultima_confirmacion": 1790514045.9769847
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.36T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1790492101.9220283
+  "ultima_confirmacion": 1790514045.9769847
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $39.65B"
   ],
   "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1790492101.9220283
+  "ultima_confirmacion": 1790514045.9769847
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -107,29 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.34T"
   ],
   "primera": 1788347767.5624287,
-  "ultima_confirmacion": 1790492101.9220283
- },
- "LRCX": {
-  "nombre": "Lam Research Corporation",
-  "sector": "Technology",
-  "industria": "Semiconductor Equipment & Materials",
-  "precio": 307.16,
-  "market_cap": 384355762176,
-  "score": 77,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 30.0%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 18.1%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 34.8%",
-   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 50.5%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 37.4%, fiscal 32.0% \u2192 35.3%",
-   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $4.89B",
-   "\u2705 PEG < 1.5 \u2014 1.11",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 21.7% (31 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $384.36B"
-  ],
-  "primera": 1789050316.3699675,
-  "ultima_confirmacion": 1790331050.7359753
+  "ultima_confirmacion": 1790514045.9769847
  },
  "AFRM": {
   "nombre": "Affirm Holdings, Inc.",
@@ -173,6 +151,6 @@
    "\u2705 Market cap > $2.00B \u2014 $42.73B"
   ],
   "primera": 1790408353.7345266,
-  "ultima_confirmacion": 1790492101.9220283
+  "ultima_confirmacion": 1790514045.9769847
  }
 }
