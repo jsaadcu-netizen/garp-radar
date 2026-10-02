@@ -3,8 +3,8 @@
   "nombre": "Broadcom Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 343.64,
-  "market_cap": 1640410251264,
+  "precio": 354.14,
+  "market_cap": 1690533363712,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 85.5%",
@@ -13,13 +13,13 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 75.5%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 54.3%, fiscal 29.1% \u2192 40.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $26.91B",
-   "\u2705 PEG < 1.5 \u2014 0.27",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 54.6% (47 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.28",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 50.0% (47 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.64T"
+   "\u2705 Market cap > $2.00B \u2014 $1.69T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1790944282.5055456
+  "ultima_confirmacion": 1790965441.0626278
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -47,8 +47,8 @@
   "nombre": "SK hynix Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 193.5,
-  "market_cap": 1375931072512,
+  "precio": 193.99,
+  "market_cap": 1379415359488,
   "score": 94,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 256.8%",
@@ -58,20 +58,20 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 76.3%, fiscal 35.5% \u2192 48.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $24.79T",
    "\u2705 PEG < 1.5 \u2014 0.21",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 30.3% (14 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 30.0% (14 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
    "\u2705 Market cap > $2.00B \u2014 $1.38T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1790944282.5055456
+  "ultima_confirmacion": 1790965441.0626278
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 210.17,
-  "market_cap": 39501852672,
-  "score": 96,
+  "precio": 218.21,
+  "market_cap": 41012989952,
+  "score": 93,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 114.7%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 54.8%",
@@ -79,13 +79,13 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 67.1%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 25.2%, fiscal 8.5% \u2192 33.3%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $407.0M",
-   "\u2705 PEG < 1.5 \u2014 0.40",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 33.7% (20 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.42",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 28.8% (20 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $39.50B"
+   "\u2705 Market cap > $2.00B \u2014 $41.01B"
   ],
   "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1790944282.5055456
+  "ultima_confirmacion": 1790965441.0626278
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
