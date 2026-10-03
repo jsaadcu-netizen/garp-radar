@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.70T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1791010421.6562686
+  "ultima_confirmacion": 1791030757.045985
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.39T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1791010421.6562686
+  "ultima_confirmacion": 1791030757.045985
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $41.09B"
   ],
   "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1791010421.6562686
+  "ultima_confirmacion": 1791030757.045985
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
@@ -86,5 +86,27 @@
   ],
   "primera": 1790898751.8593278,
   "ultima_confirmacion": 1790944282.5055456
+ },
+ "STX": {
+  "nombre": "Seagate Technology Holdings PLC",
+  "sector": "Technology",
+  "industria": "Computer Hardware",
+  "precio": 848.99,
+  "market_cap": 193054392320,
+  "score": 95,
+  "criterios": [
+   "\u2705 Ingresos YoY > 25.0% \u2014 48.5%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 33.7%",
+   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 148.8%",
+   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 45.6%",
+   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 43.1%, fiscal 21.1% \u2192 34.7%",
+   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $3.10B",
+   "\u2705 PEG < 1.5 \u2014 0.28",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 32.5% (23 analistas)",
+   "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
+   "\u2705 Market cap > $2.00B \u2014 $193.05B"
+  ],
+  "primera": 1791030757.045985,
+  "ultima_confirmacion": 1791030757.045985
  }
 }
