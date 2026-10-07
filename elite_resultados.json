@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.79T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1791336673.9538586
+  "ultima_confirmacion": 1791362226.5907164
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -41,14 +41,14 @@
    "\u2705 Market cap > $2.00B \u2014 $1.30T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1791336673.9538586
+  "ultima_confirmacion": 1791362226.5907164
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 221.07,
-  "market_cap": 41550532608,
+  "precio": 220.83,
+  "market_cap": 41505423360,
   "score": 91,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 114.7%",
@@ -57,13 +57,13 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 67.1%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 25.2%, fiscal 8.5% \u2192 33.3%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $407.0M",
-   "\u2705 PEG < 1.5 \u2014 0.43",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 26.2% (20 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.42",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 26.4% (20 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $41.55B"
+   "\u2705 Market cap > $2.00B \u2014 $41.51B"
   ],
   "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1791305606.1324043
+  "ultima_confirmacion": 1791362226.5907164
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $183.19B"
   ],
   "primera": 1791030757.045985,
-  "ultima_confirmacion": 1791336673.9538586
+  "ultima_confirmacion": 1791362226.5907164
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -107,6 +107,6 @@
    "\u2705 Market cap > $2.00B \u2014 $148.20B"
   ],
   "primera": 1791255434.9952695,
-  "ultima_confirmacion": 1791336673.9538586
+  "ultima_confirmacion": 1791362226.5907164
  }
 }
