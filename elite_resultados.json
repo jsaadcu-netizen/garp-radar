@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.73T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1791699090.3628657
+  "ultima_confirmacion": 1791723224.8501031
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.20T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1791699090.3628657
+  "ultima_confirmacion": 1791723224.8501031
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $40.70B"
   ],
   "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1791699090.3628657
+  "ultima_confirmacion": 1791723224.8501031
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $148.71B"
   ],
   "primera": 1791255434.9952695,
-  "ultima_confirmacion": 1791699090.3628657
+  "ultima_confirmacion": 1791723224.8501031
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -119,7 +119,7 @@
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 379.3%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 16.5%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 1060.1%",
+   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 1059.5%",
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 80.7%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 80.7%, fiscal 5.2% \u2192 26.2%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $1.67B",
@@ -129,7 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.16T"
   ],
   "primera": 1791390411.4288633,
-  "ultima_confirmacion": 1791699090.3628657
+  "ultima_confirmacion": 1791723224.8501031
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -151,7 +151,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.35T"
   ],
   "primera": 1791494298.9634464,
-  "ultima_confirmacion": 1791699090.3628657
+  "ultima_confirmacion": 1791723224.8501031
  },
  "SEZL": {
   "nombre": "Sezzle Inc.",
@@ -173,6 +173,6 @@
    "\u2705 Market cap > $2.00B \u2014 $4.33B"
   ],
   "primera": 1791591172.5651393,
-  "ultima_confirmacion": 1791699090.3628657
+  "ultima_confirmacion": 1791723224.8501031
  }
 }
