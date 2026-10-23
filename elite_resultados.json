@@ -8,18 +8,18 @@
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 85.5%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 64.1%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 64.3%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 215.3%",
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 75.5%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 54.3%, fiscal 29.1% \u2192 40.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $26.91B",
    "\u2705 PEG < 1.5 \u2014 0.25",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 63.2% (47 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 63.7% (48 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
    "\u2705 Market cap > $2.00B \u2014 $1.54T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1792735286.723946
+  "ultima_confirmacion": 1792755333.7911482
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $959.84B"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1792735286.723946
+  "ultima_confirmacion": 1792755333.7911482
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $30.59B"
   ],
   "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1792735286.723946
+  "ultima_confirmacion": 1792755333.7911482
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -74,18 +74,18 @@
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 43.8%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 37.7%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 37.9%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 984.1%",
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 48.9%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 43.6%, fiscal 22.4% \u2192 35.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $3.51B",
    "\u2705 PEG < 1.5 \u2014 0.16",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 84.6% (24 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 79.6% (24 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
    "\u2705 Market cap > $2.00B \u2014 $132.58B"
   ],
   "primera": 1791255434.9952695,
-  "ultima_confirmacion": 1792735286.723946
+  "ultima_confirmacion": 1792755333.7911482
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $969.05B"
   ],
   "primera": 1791390411.4288633,
-  "ultima_confirmacion": 1792735286.723946
+  "ultima_confirmacion": 1792755333.7911482
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -129,7 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.14T"
   ],
   "primera": 1791494298.9634464,
-  "ultima_confirmacion": 1792735286.723946
+  "ultima_confirmacion": 1792755333.7911482
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -173,7 +173,7 @@
    "\u2705 Market cap > $2.00B \u2014 $146.02B"
   ],
   "primera": 1791851851.9303038,
-  "ultima_confirmacion": 1792735286.723946
+  "ultima_confirmacion": 1792755333.7911482
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -195,7 +195,7 @@
    "\u2705 Market cap > $2.00B \u2014 $829.18B"
   ],
   "primera": 1792691887.8086486,
-  "ultima_confirmacion": 1792735286.723946
+  "ultima_confirmacion": 1792755333.7911482
  },
  "ALAB": {
   "nombre": "Astera Labs, Inc.",
@@ -240,5 +240,27 @@
   ],
   "primera": 1792735286.723946,
   "ultima_confirmacion": 1792735286.723946
+ },
+ "SMTC": {
+  "nombre": "Semtech Corporation",
+  "sector": "Technology",
+  "industria": "Semiconductors",
+  "precio": 125.12,
+  "market_cap": 11676902400,
+  "score": 69,
+  "criterios": [
+   "\u2705 Ingresos YoY > 25.0% \u2014 32.7%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 35.9%",
+   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 82.8%",
+   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 52.9%",
+   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 16.2%, fiscal 6.9% \u2192 11.7%",
+   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $165.4M",
+   "\u2705 PEG < 1.5 \u2014 0.23",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 73.5% (15 analistas)",
+   "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
+   "\u2705 Market cap > $2.00B \u2014 $11.68B"
+  ],
+  "primera": 1792755333.7911482,
+  "ultima_confirmacion": 1792755333.7911482
  }
 }
