@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.54T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1792797706.9259896
+  "ultima_confirmacion": 1792806591.3638592
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $998.69B"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1792797706.9259896
+  "ultima_confirmacion": 1792806591.3638592
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $27.68B"
   ],
   "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1792797706.9259896
+  "ultima_confirmacion": 1792806591.3638592
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $992.88B"
   ],
   "primera": 1791390411.4288633,
-  "ultima_confirmacion": 1792797706.9259896
+  "ultima_confirmacion": 1792806591.3638592
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -129,29 +129,29 @@
    "\u2705 Market cap > $2.00B \u2014 $2.17T"
   ],
   "primera": 1791494298.9634464,
-  "ultima_confirmacion": 1792797706.9259896
+  "ultima_confirmacion": 1792806591.3638592
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
   "sector": "Technology",
   "industria": "Semiconductor Equipment & Materials",
-  "precio": 230.15,
-  "market_cap": 288015319040,
-  "score": 88,
+  "precio": 230.1,
+  "market_cap": 287952764928,
+  "score": 100,
   "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 30.0%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 21.1%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 34.8%",
-   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 50.5%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 37.4%, fiscal 32.0% \u2192 35.3%",
+   "\u2705 Ingresos YoY > 25.0% \u2014 54.4%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 20.6%",
+   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 76.6%",
+   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 51.1%",
+   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 40.0%, fiscal 32.0% \u2192 35.3%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $4.89B",
-   "\u2705 PEG < 1.5 \u2014 0.74",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 59.4% (30 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.72",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 58.2% (30 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $288.02B"
+   "\u2705 Market cap > $2.00B \u2014 $287.95B"
   ],
   "primera": 1791827562.4437606,
-  "ultima_confirmacion": 1792704818.346729
+  "ultima_confirmacion": 1792806591.3638592
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
@@ -173,7 +173,7 @@
    "\u2705 Market cap > $2.00B \u2014 $143.37B"
   ],
   "primera": 1791851851.9303038,
-  "ultima_confirmacion": 1792797706.9259896
+  "ultima_confirmacion": 1792806591.3638592
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -195,7 +195,7 @@
    "\u2705 Market cap > $2.00B \u2014 $843.65B"
   ],
   "primera": 1792691887.8086486,
-  "ultima_confirmacion": 1792797706.9259896
+  "ultima_confirmacion": 1792806591.3638592
  },
  "ALAB": {
   "nombre": "Astera Labs, Inc.",
@@ -217,7 +217,7 @@
    "\u2705 Market cap > $2.00B \u2014 $44.61B"
   ],
   "primera": 1792735286.723946,
-  "ultima_confirmacion": 1792797706.9259896
+  "ultima_confirmacion": 1792806591.3638592
  },
  "CIEN": {
   "nombre": "Ciena Corporation",
