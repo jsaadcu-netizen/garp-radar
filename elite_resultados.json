@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.63T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1793135807.9768279
+  "ultima_confirmacion": 1793147946.8173785
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.03T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1793135807.9768279
+  "ultima_confirmacion": 1793147946.8173785
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $31.47B"
   ],
   "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1793135807.9768279
+  "ultima_confirmacion": 1793147946.8173785
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $142.57B"
   ],
   "primera": 1791255434.9952695,
-  "ultima_confirmacion": 1793135807.9768279
+  "ultima_confirmacion": 1793147946.8173785
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.05T"
   ],
   "primera": 1791390411.4288633,
-  "ultima_confirmacion": 1793135807.9768279
+  "ultima_confirmacion": 1793147946.8173785
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -129,7 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.27T"
   ],
   "primera": 1791494298.9634464,
-  "ultima_confirmacion": 1793135807.9768279
+  "ultima_confirmacion": 1793147946.8173785
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -151,14 +151,14 @@
    "\u2705 Market cap > $2.00B \u2014 $301.41B"
   ],
   "primera": 1791827562.4437606,
-  "ultima_confirmacion": 1793135807.9768279
+  "ultima_confirmacion": 1793147946.8173785
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
   "sector": "Technology",
   "industria": "Computer Hardware",
-  "precio": 679.2506,
-  "market_cap": 154456834048,
+  "precio": 667.85,
+  "market_cap": 151864410112,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 48.5%",
@@ -168,12 +168,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 43.1%, fiscal 21.1% \u2192 34.7%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $3.10B",
    "\u2705 PEG < 1.5 \u2014 0.21",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 60.7% (24 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 63.4% (24 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $154.46B"
+   "\u2705 Market cap > $2.00B \u2014 $151.86B"
   ],
   "primera": 1791851851.9303038,
-  "ultima_confirmacion": 1793118963.905328
+  "ultima_confirmacion": 1793147946.8173785
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -217,7 +217,7 @@
    "\u2705 Market cap > $2.00B \u2014 $49.74B"
   ],
   "primera": 1792735286.723946,
-  "ultima_confirmacion": 1793135807.9768279
+  "ultima_confirmacion": 1793147946.8173785
  },
  "LITE": {
   "nombre": "Lumentum Holdings Inc.",
