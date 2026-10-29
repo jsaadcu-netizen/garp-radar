@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.68T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1793252701.7975094
+  "ultima_confirmacion": 1793278631.035661
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -35,13 +35,13 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 76.3%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 76.3%, fiscal 35.5% \u2192 48.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $24.79T",
-   "\u2705 PEG < 1.5 \u2014 0.10",
+   "\u2705 PEG < 1.5 \u2014 0.09",
    "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 55.7% (14 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
    "\u2705 Market cap > $2.00B \u2014 $1.16T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1793252701.7975094
+  "ultima_confirmacion": 1793278631.035661
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $32.65B"
   ],
   "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1793252701.7975094
+  "ultima_confirmacion": 1793278631.035661
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $148.39B"
   ],
   "primera": 1791255434.9952695,
-  "ultima_confirmacion": 1793252701.7975094
+  "ultima_confirmacion": 1793278631.035661
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.11T"
   ],
   "primera": 1791390411.4288633,
-  "ultima_confirmacion": 1793252701.7975094
+  "ultima_confirmacion": 1793278631.035661
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -129,7 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.28T"
   ],
   "primera": 1791494298.9634464,
-  "ultima_confirmacion": 1793252701.7975094
+  "ultima_confirmacion": 1793278631.035661
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -151,7 +151,7 @@
    "\u2705 Market cap > $2.00B \u2014 $317.64B"
   ],
   "primera": 1791827562.4437606,
-  "ultima_confirmacion": 1793252701.7975094
+  "ultima_confirmacion": 1793278631.035661
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
@@ -175,28 +175,6 @@
   "primera": 1791851851.9303038,
   "ultima_confirmacion": 1793231970.7312472
  },
- "AMD": {
-  "nombre": "Advanced Micro Devices, Inc.",
-  "sector": "Technology",
-  "industria": "Semiconductors",
-  "precio": 531.28,
-  "market_cap": 867301392384,
-  "score": 88,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 50.1%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 74.9%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 159.5%",
-   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 55.7%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 17.2%, fiscal 8.1% \u2192 10.7%",
-   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $6.74B",
-   "\u2705 PEG < 1.5 \u2014 0.31",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 20.0% (50 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $867.30B"
-  ],
-  "primera": 1792691887.8086486,
-  "ultima_confirmacion": 1793097075.2810159
- },
  "ALAB": {
   "nombre": "Astera Labs, Inc.",
   "sector": "Technology",
@@ -217,29 +195,7 @@
    "\u2705 Market cap > $2.00B \u2014 $51.56B"
   ],
   "primera": 1792735286.723946,
-  "ultima_confirmacion": 1793252701.7975094
- },
- "LITE": {
-  "nombre": "Lumentum Holdings Inc.",
-  "sector": "Technology",
-  "industria": "Communication Equipment",
-  "precio": 818.1,
-  "market_cap": 74105831424,
-  "score": 75,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 109.3%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 57.6%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 65.2%",
-   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 44.2%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 28.0%, fiscal -11.7% \u2192 17.8%",
-   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $300.1M",
-   "\u2705 PEG < 1.5 \u2014 0.35",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 42.6% (28 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $74.11B"
-  ],
-  "primera": 1793058664.8925965,
-  "ultima_confirmacion": 1793097075.2810159
+  "ultima_confirmacion": 1793278631.035661
  },
  "HOOD": {
   "nombre": "Robinhood Markets, Inc.",
