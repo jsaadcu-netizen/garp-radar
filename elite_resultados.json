@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.56T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1793395737.0770452
+  "ultima_confirmacion": 1793408345.3101916
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $28.38B"
   ],
   "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1793395737.0770452
+  "ultima_confirmacion": 1793408345.3101916
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $137.04B"
   ],
   "primera": 1791255434.9952695,
-  "ultima_confirmacion": 1793395737.0770452
+  "ultima_confirmacion": 1793408345.3101916
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.00T"
   ],
   "primera": 1791390411.4288633,
-  "ultima_confirmacion": 1793395737.0770452
+  "ultima_confirmacion": 1793408345.3101916
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -129,7 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.11T"
   ],
   "primera": 1791494298.9634464,
-  "ultima_confirmacion": 1793395737.0770452
+  "ultima_confirmacion": 1793408345.3101916
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -151,7 +151,7 @@
    "\u2705 Market cap > $2.00B \u2014 $299.23B"
   ],
   "primera": 1791827562.4437606,
-  "ultima_confirmacion": 1793395737.0770452
+  "ultima_confirmacion": 1793408345.3101916
  },
  "STX": {
   "nombre": "Seagate Technology Holdings PLC",
@@ -173,7 +173,7 @@
    "\u2705 Market cap > $2.00B \u2014 $148.25B"
   ],
   "primera": 1791851851.9303038,
-  "ultima_confirmacion": 1793395737.0770452
+  "ultima_confirmacion": 1793408345.3101916
  },
  "ALAB": {
   "nombre": "Astera Labs, Inc.",
@@ -217,7 +217,7 @@
    "\u2705 Market cap > $2.00B \u2014 $824.07B"
   ],
   "primera": 1793378490.9330711,
-  "ultima_confirmacion": 1793395737.0770452
+  "ultima_confirmacion": 1793408345.3101916
  },
  "TER": {
   "nombre": "Teradyne, Inc.",
@@ -240,5 +240,27 @@
   ],
   "primera": 1793378490.9330711,
   "ultima_confirmacion": 1793395737.0770452
+ },
+ "KLAC": {
+  "nombre": "KLA Corporation",
+  "sector": "Technology",
+  "industria": "Semiconductor Equipment & Materials",
+  "precio": 157.91,
+  "market_cap": 206073577472,
+  "score": 90,
+  "criterios": [
+   "\u2705 Ingresos YoY > 25.0% \u2014 28.9%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 18.9%",
+   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 39.3%",
+   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 61.5%",
+   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 45.0%, fiscal 41.2% \u2192 41.7%",
+   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $3.77B",
+   "\u2705 PEG < 1.5 \u2014 0.99",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 42.5% (26 analistas)",
+   "\u2705 Consenso Buy/Strong Buy \u2014 buy",
+   "\u2705 Market cap > $2.00B \u2014 $206.07B"
+  ],
+  "primera": 1793408345.3101916,
+  "ultima_confirmacion": 1793408345.3101916
  }
 }
