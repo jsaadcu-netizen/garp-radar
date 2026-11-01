@@ -11,7 +11,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 4941441662976,
   "primera": 1781279440.6840675,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "MU": {
   "score": 100,
@@ -25,7 +25,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 1001015410688,
   "primera": 1781279440.6840675,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "AVGO": {
   "score": 100,
@@ -39,7 +39,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 1556585250816,
   "primera": 1781279440.6840675,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "AMD": {
   "score": 92,
@@ -53,7 +53,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 824073388032,
   "primera": 1781279440.6840675,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "PLTR": {
   "score": 85,
@@ -67,7 +67,7 @@
   "rec_clave": "buy",
   "market_cap": 442427080704,
   "primera": 1781279440.6840675,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "CRDO": {
   "score": 100,
@@ -81,7 +81,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 28378861568,
   "primera": 1781279440.6840675,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "TSM": {
   "score": 100,
@@ -95,21 +95,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 2106382745600,
   "primera": 1781279440.6840675,
-  "ultima": 1793561904.5662951
- },
- "DELL": {
-  "score": 91,
-  "nombre": "Dell Technologies Inc.",
-  "sector": "Technology",
-  "industria": "Computer Hardware",
-  "precio": 475.51,
-  "cambio_pct": -3.70198,
-  "crec_ingresos": 0.577,
-  "upside": 0.25128809068158403,
-  "rec_clave": "buy",
-  "market_cap": 302335328256,
-  "primera": 1781279440.6840675,
-  "ultima": 1793315778.151419
+  "ultima": 1793576037.7752762
  },
  "WDC": {
   "score": 100,
@@ -123,7 +109,7 @@
   "rec_clave": "buy",
   "market_cap": 137043484672,
   "primera": 1781279440.6840675,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "APH": {
   "score": 96,
@@ -137,7 +123,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 195812425728,
   "primera": 1781279440.6840675,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "T": {
   "score": 38,
@@ -151,7 +137,7 @@
   "rec_clave": "buy",
   "market_cap": 144227893248,
   "primera": 1781288031.8177383,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "BMY": {
   "score": 24,
@@ -165,7 +151,7 @@
   "rec_clave": "buy",
   "market_cap": 127714484224,
   "primera": 1781296696.095258,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "INTC": {
   "score": 49,
@@ -179,7 +165,7 @@
   "rec_clave": "hold",
   "market_cap": 349514399744,
   "primera": 1781308107.9330657,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "NOK": {
   "score": 73,
@@ -193,7 +179,7 @@
   "rec_clave": "buy",
   "market_cap": 47924400128,
   "primera": 1781308107.9330657,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "SPCX": {
   "score": 75,
@@ -207,7 +193,7 @@
   "rec_clave": "buy",
   "market_cap": 1829640994816,
   "primera": 1781660466.0210392,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "SKHY": {
   "score": 100,
@@ -221,7 +207,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 1052189130752,
   "primera": 1783968938.5002291,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "COUR": {
   "score": 75,
@@ -249,7 +235,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 4257761024,
   "primera": 1785381984.269287,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "ASX": {
   "score": 99,
@@ -263,7 +249,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 87199162368,
   "primera": 1785556077.1087623,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "LRCX": {
   "score": 100,
@@ -277,7 +263,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 299228069888,
   "primera": 1785556077.1087623,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "IONQ": {
   "score": 75,
@@ -291,7 +277,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 12899406848,
   "primera": 1786155621.5395079,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "SMCI": {
   "score": 86,
@@ -303,9 +289,9 @@
   "crec_ingresos": 0.932,
   "upside": 0.31310075872534127,
   "rec_clave": "hold",
-  "market_cap": 21314465792,
+  "market_cap": 21647009792,
   "primera": 1786374936.6961355,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "IREN": {
   "score": 40,
@@ -319,7 +305,7 @@
   "rec_clave": "buy",
   "market_cap": 9690494976,
   "primera": 1786461317.480942,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "ASTS": {
   "score": 66,
@@ -333,7 +319,7 @@
   "rec_clave": "hold",
   "market_cap": 15944192000,
   "primera": 1786502564.1333537,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "GPRO": {
   "score": 0,
@@ -341,13 +327,13 @@
   "sector": "Technology",
   "industria": "Consumer Electronics",
   "precio": 0.93,
-  "cambio_pct": -7.0,
+  "cambio_pct": -6.999999,
   "crec_ingresos": -0.313,
   "upside": -0.4623655913978495,
   "rec_clave": "none",
   "market_cap": 199664416,
   "primera": 1786510837.4189425,
-  "ultima": 1793545502.0722666
+  "ultima": 1793576037.7752762
  },
  "VISN": {
   "score": 50,
@@ -361,7 +347,7 @@
   "rec_clave": "none",
   "market_cap": 1508296704,
   "primera": 1787955465.928217,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "HPE": {
   "score": 89,
@@ -375,7 +361,7 @@
   "rec_clave": "buy",
   "market_cap": 73130041344,
   "primera": 1788411154.2329357,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "GENI": {
   "score": 75,
@@ -389,7 +375,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 1702107520,
   "primera": 1788877884.5849261,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "GRAB": {
   "score": 59,
@@ -403,7 +389,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 11087428608,
   "primera": 1788892732.2628791,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "STX": {
   "score": 100,
@@ -431,7 +417,7 @@
   "rec_clave": "buy",
   "market_cap": 396126224384,
   "primera": 1789050316.3699675,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "VNET": {
   "score": 52,
@@ -445,7 +431,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 918451200,
   "primera": 1789534036.9163694,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "FUN": {
   "score": 40,
@@ -459,7 +445,7 @@
   "rec_clave": "buy",
   "market_cap": 765326016,
   "primera": 1790733982.5764575,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "M": {
   "score": 32,
@@ -487,7 +473,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 5387026944,
   "primera": 1791473681.233478,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "AAPL": {
   "score": 47,
@@ -501,7 +487,7 @@
   "rec_clave": "buy",
   "market_cap": 5029592301568,
   "primera": 1791591172.5651393,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "SOFI": {
   "score": 81,
@@ -515,7 +501,7 @@
   "rec_clave": "hold",
   "market_cap": 21731307520,
   "primera": 1791877276.8079538,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "CIFR": {
   "score": 40,
@@ -529,7 +515,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 3025573888,
   "primera": 1791906984.4934,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "WULF": {
   "score": 40,
@@ -543,7 +529,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 5852902400,
   "primera": 1791926005.2266738,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "F": {
   "score": 30,
@@ -571,7 +557,7 @@
   "rec_clave": "buy",
   "market_cap": 30262810624,
   "primera": 1791955027.049747,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "TSLA": {
   "score": 17,
@@ -599,7 +585,7 @@
   "rec_clave": "buy",
   "market_cap": 258497380352,
   "primera": 1792173708.682358,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "TTMI": {
   "score": 100,
@@ -627,7 +613,7 @@
   "rec_clave": "buy",
   "market_cap": 788187264,
   "primera": 1792475972.1440394,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "UMC": {
   "score": 35,
@@ -641,7 +627,7 @@
   "rec_clave": "hold",
   "market_cap": 41830002688,
   "primera": 1792557773.4950032,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "AMKR": {
   "score": 65,
@@ -669,7 +655,7 @@
   "rec_clave": "buy",
   "market_cap": 288429506560,
   "primera": 1792704818.346729,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "ALAB": {
   "score": 100,
@@ -695,9 +681,9 @@
   "crec_ingresos": 0.291,
   "upside": 0.22023346303501953,
   "rec_clave": "buy",
-  "market_cap": 19925690368,
+  "market_cap": 19880462336,
   "primera": 1792735286.723946,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "OPTU": {
   "score": 31,
@@ -711,7 +697,7 @@
   "rec_clave": "hold",
   "market_cap": 278445056,
   "primera": 1792735286.723946,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "EVH": {
   "score": 71,
@@ -725,7 +711,7 @@
   "rec_clave": "buy",
   "market_cap": 486155168,
   "primera": 1792755333.7911482,
-  "ultima": 1793545502.0722666
+  "ultima": 1793576037.7752762
  },
  "TXN": {
   "score": 72,
@@ -739,7 +725,7 @@
   "rec_clave": "buy",
   "market_cap": 275042271232,
   "primera": 1792806591.3638592,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "BLMN": {
   "score": 28,
@@ -783,20 +769,6 @@
   "primera": 1793058664.8925965,
   "ultima": 1793378490.9330711
  },
- "ARCO": {
-  "score": 78,
-  "nombre": "Arcos Dorados Holdings Inc.",
-  "sector": "Consumer Cyclical",
-  "industria": "Restaurants",
-  "precio": 6.9,
-  "cambio_pct": -0.289017,
-  "crec_ingresos": 0.143,
-  "upside": 0.5708536231884056,
-  "rec_clave": "buy",
-  "market_cap": 1453575168,
-  "primera": 1793077219.628955,
-  "ultima": 1793315778.151419
- },
  "OXSQ": {
   "score": 25,
   "nombre": "Oxford Square Capital Corp.",
@@ -809,7 +781,7 @@
   "rec_clave": "none",
   "market_cap": 110360624,
   "primera": 1793077219.628955,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "GAP": {
   "score": 52,
@@ -909,20 +881,6 @@
   "primera": 1793135807.9768279,
   "ultima": 1793408345.3101916
  },
- "PLAY": {
-  "score": 40,
-  "nombre": "Dave & Buster's Entertainment, ",
-  "sector": "Communication Services",
-  "industria": "Entertainment",
-  "precio": 8.13,
-  "cambio_pct": 5.447472,
-  "crec_ingresos": -0.024,
-  "upside": 0.5990159901599015,
-  "rec_clave": "buy",
-  "market_cap": 283173152,
-  "primera": 1793135807.9768279,
-  "ultima": 1793315778.151419
- },
  "SNAP": {
   "score": 47,
   "nombre": "Snap Inc.",
@@ -935,7 +893,7 @@
   "rec_clave": "hold",
   "market_cap": 9030995968,
   "primera": 1793135807.9768279,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "ADI": {
   "score": 83,
@@ -949,21 +907,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 202117103616,
   "primera": 1793147946.8173785,
-  "ultima": 1793561904.5662951
- },
- "BRSL": {
-  "score": 40,
-  "nombre": "Brightstar Lottery PLC Trading ",
-  "sector": "Consumer Cyclical",
-  "industria": "Gambling",
-  "precio": 9.6,
-  "cambio_pct": 3.33693,
-  "crec_ingresos": -0.074,
-  "upside": 0.6002604166666669,
-  "rec_clave": "buy",
-  "market_cap": 1744683520,
-  "primera": 1793170227.1142037,
-  "ultima": 1793315778.151419
+  "ultima": 1793576037.7752762
  },
  "CAPR": {
   "score": 25,
@@ -977,21 +921,7 @@
   "rec_clave": "none",
   "market_cap": 370926752,
   "primera": 1793170227.1142037,
-  "ultima": 1793561904.5662951
- },
- "EVMN": {
-  "score": 40,
-  "nombre": "Evommune, Inc.",
-  "sector": "Healthcare",
-  "industria": "Biotechnology",
-  "precio": 6.81,
-  "cambio_pct": 7.92393,
-  "crec_ingresos": null,
-  "upside": 2.2794904552129225,
-  "rec_clave": "buy",
-  "market_cap": 247149280,
-  "primera": 1793195982.331445,
-  "ultima": 1793315778.151419
+  "ultima": 1793576037.7752762
  },
  "BOOM": {
   "score": 32,
@@ -1005,7 +935,7 @@
   "rec_clave": "buy",
   "market_cap": 192057872,
   "primera": 1793195982.331445,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "AVEX": {
   "score": 75,
@@ -1047,7 +977,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 3440352690176,
   "primera": 1793231970.7312472,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "PLCE": {
   "score": 25,
@@ -1089,7 +1019,7 @@
   "rec_clave": "buy",
   "market_cap": 5474901504,
   "primera": 1793252701.7975094,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "BHC": {
   "score": 39,
@@ -1175,20 +1105,6 @@
   "primera": 1793300195.9820635,
   "ultima": 1793354278.0740776
  },
- "FWRG": {
-  "score": 70,
-  "nombre": "First Watch Restaurant Group, I",
-  "sector": "Consumer Cyclical",
-  "industria": "Restaurants",
-  "precio": 12.51,
-  "cambio_pct": 8.311688,
-  "crec_ingresos": 0.152,
-  "upside": 0.46282973621103124,
-  "rec_clave": "strong_buy",
-  "market_cap": 772022592,
-  "primera": 1793300195.9820635,
-  "ultima": 1793315778.151419
- },
  "PWP": {
   "score": 85,
   "nombre": "Perella Weinberg Partners",
@@ -1201,7 +1117,7 @@
   "rec_clave": "none",
   "market_cap": 1433661184,
   "primera": 1793300195.9820635,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "HAWK": {
   "score": 75,
@@ -1245,20 +1161,6 @@
   "primera": 1793300195.9820635,
   "ultima": 1793354278.0740776
  },
- "CLM": {
-  "score": 8,
-  "nombre": "Cornerstone Strategic Value Fd",
-  "sector": "Financial Services",
-  "industria": "Asset Management",
-  "precio": 6.01,
-  "cambio_pct": 1.34908,
-  "crec_ingresos": -0.338,
-  "upside": null,
-  "rec_clave": "none",
-  "market_cap": 1875974912,
-  "primera": 1793315778.151419,
-  "ultima": 1793315778.151419
- },
  "CPRI": {
   "score": 28,
   "nombre": "Capri Holdings Limited",
@@ -1271,7 +1173,7 @@
   "rec_clave": "buy",
   "market_cap": 1930572544,
   "primera": 1793315778.151419,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "ADT": {
   "score": 9,
@@ -1285,7 +1187,7 @@
   "rec_clave": "hold",
   "market_cap": 7203036672,
   "primera": 1793315778.151419,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "GOOG": {
   "score": 62,
@@ -1327,7 +1229,7 @@
   "rec_clave": "buy",
   "market_cap": 8069469696,
   "primera": 1793315778.151419,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "IOVA": {
   "score": 75,
@@ -1383,7 +1285,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 2598937821184,
   "primera": 1793315778.151419,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "PINS": {
   "score": 56,
@@ -1425,7 +1327,7 @@
   "rec_clave": "buy",
   "market_cap": 42835947520,
   "primera": 1793328436.6338918,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "ARHS": {
   "score": 29,
@@ -1761,7 +1663,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 1491567872,
   "primera": 1793378490.9330711,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "CABO": {
   "score": 25,
@@ -1789,7 +1691,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 48227336,
   "primera": 1793378490.9330711,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "ACCO": {
   "score": 65,
@@ -1803,7 +1705,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 507878304,
   "primera": 1793378490.9330711,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "PAL": {
   "score": 25,
@@ -1817,7 +1719,7 @@
   "rec_clave": "none",
   "market_cap": 73358400,
   "primera": 1793378490.9330711,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "DFIN": {
   "score": 21,
@@ -1831,7 +1733,7 @@
   "rec_clave": "buy",
   "market_cap": 1628986624,
   "primera": 1793378490.9330711,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "XPOF": {
   "score": 22,
@@ -1845,7 +1747,7 @@
   "rec_clave": "hold",
   "market_cap": 220845824,
   "primera": 1793378490.9330711,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "GLIBK": {
   "score": 0,
@@ -1859,7 +1761,7 @@
   "rec_clave": "none",
   "market_cap": 905843328,
   "primera": 1793378490.9330711,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "LU": {
   "score": 40,
@@ -1887,7 +1789,7 @@
   "rec_clave": "buy",
   "market_cap": 784680896,
   "primera": 1793378490.9330711,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "CURV": {
   "score": 31,
@@ -1901,7 +1803,7 @@
   "rec_clave": "hold",
   "market_cap": 243315424,
   "primera": 1793378490.9330711,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "ISSC": {
   "score": 66,
@@ -1929,7 +1831,7 @@
   "rec_clave": "hold",
   "market_cap": 19549176,
   "primera": 1793395737.0770452,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "ITG": {
   "score": 74,
@@ -1943,7 +1845,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 739161664,
   "primera": 1793395737.0770452,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "ZKH": {
   "score": 36,
@@ -1971,7 +1873,7 @@
   "rec_clave": "hold",
   "market_cap": 1854518400,
   "primera": 1793395737.0770452,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "CVEO": {
   "score": 36,
@@ -1985,7 +1887,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 371816832,
   "primera": 1793395737.0770452,
-  "ultima": 1793545502.0722666
+  "ultima": 1793576037.7752762
  },
  "KVUE": {
   "score": 13,
@@ -1999,7 +1901,7 @@
   "rec_clave": "hold",
   "market_cap": 37109346304,
   "primera": 1793395737.0770452,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "RIVN": {
   "score": 74,
@@ -2013,7 +1915,7 @@
   "rec_clave": "buy",
   "market_cap": 17748840448,
   "primera": 1793395737.0770452,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "CMCSA": {
   "score": 24,
@@ -2027,7 +1929,7 @@
   "rec_clave": "hold",
   "market_cap": 82454364160,
   "primera": 1793395737.0770452,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "CDNA": {
   "score": 74,
@@ -2041,7 +1943,7 @@
   "rec_clave": "buy",
   "market_cap": 4592764928,
   "primera": 1793395737.0770452,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "FDXF": {
   "score": 31,
@@ -2055,7 +1957,7 @@
   "rec_clave": "buy",
   "market_cap": 18845661184,
   "primera": 1793395737.0770452,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "REGN": {
   "score": 69,
@@ -2069,7 +1971,7 @@
   "rec_clave": "buy",
   "market_cap": 95988236288,
   "primera": 1793395737.0770452,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "CVCO": {
   "score": 41,
@@ -2083,7 +1985,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 4723224576,
   "primera": 1793395737.0770452,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "KLAC": {
   "score": 88,
@@ -2097,7 +1999,7 @@
   "rec_clave": "buy",
   "market_cap": 205750796288,
   "primera": 1793408345.3101916,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "TWI": {
   "score": 25,
@@ -2139,7 +2041,7 @@
   "rec_clave": "buy",
   "market_cap": 7580195840,
   "primera": 1793408345.3101916,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "GPN": {
   "score": 55,
@@ -2153,7 +2055,7 @@
   "rec_clave": "buy",
   "market_cap": 25625643008,
   "primera": 1793408345.3101916,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "BTSG": {
   "score": 77,
@@ -2167,7 +2069,7 @@
   "rec_clave": "strong_buy",
   "market_cap": 13310080000,
   "primera": 1793408345.3101916,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "GDDY": {
   "score": 44,
@@ -2181,7 +2083,7 @@
   "rec_clave": "buy",
   "market_cap": 14848176128,
   "primera": 1793408345.3101916,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "INTA": {
   "score": 30,
@@ -2195,7 +2097,7 @@
   "rec_clave": "buy",
   "market_cap": 3235454464,
   "primera": 1793408345.3101916,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "CDLR": {
   "score": 30,
@@ -2209,7 +2111,7 @@
   "rec_clave": "none",
   "market_cap": 2774511360,
   "primera": 1793408345.3101916,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "HGV": {
   "score": 94,
@@ -2223,7 +2125,7 @@
   "rec_clave": "buy",
   "market_cap": 2914625536,
   "primera": 1793408345.3101916,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "MHK": {
   "score": 41,
@@ -2237,7 +2139,7 @@
   "rec_clave": "buy",
   "market_cap": 8104386560,
   "primera": 1793408345.3101916,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "AZN": {
   "score": 42,
@@ -2251,7 +2153,7 @@
   "rec_clave": "buy",
   "market_cap": 289476542464,
   "primera": 1793408345.3101916,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "MLYS": {
   "score": 40,
@@ -2263,9 +2165,9 @@
   "crec_ingresos": null,
   "upside": 1.5485880088008799,
   "rec_clave": "strong_buy",
-  "market_cap": 1602721152,
+  "market_cap": 1607237248,
   "primera": 1793429936.6428905,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "SMP": {
   "score": 28,
@@ -2307,7 +2209,7 @@
   "rec_clave": "buy",
   "market_cap": 3361163008,
   "primera": 1793429936.6428905,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "GLOB": {
   "score": 22,
@@ -2321,7 +2223,7 @@
   "rec_clave": "buy",
   "market_cap": 2017348864,
   "primera": 1793429936.6428905,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "CBOE": {
   "score": 48,
@@ -2335,7 +2237,7 @@
   "rec_clave": "hold",
   "market_cap": 35005923328,
   "primera": 1793429936.6428905,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "VLTO": {
   "score": 30,
@@ -2349,7 +2251,7 @@
   "rec_clave": "buy",
   "market_cap": 27013056512,
   "primera": 1793429936.6428905,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "SPOT": {
   "score": 34,
@@ -2359,11 +2261,11 @@
   "precio": 593.44,
   "cambio_pct": 6.49631,
   "crec_ingresos": 0.163,
-  "upside": 0.08188864923159862,
+  "upside": 0.08176792936101375,
   "rec_clave": "buy",
-  "market_cap": 122023174144,
+  "market_cap": 122001891328,
   "primera": 1793429936.6428905,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "TMUS": {
   "score": 67,
@@ -2377,7 +2279,7 @@
   "rec_clave": "buy",
   "market_cap": 165712609280,
   "primera": 1793429936.6428905,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "AN": {
   "score": 29,
@@ -2391,7 +2293,7 @@
   "rec_clave": "buy",
   "market_cap": 5745525248,
   "primera": 1793429936.6428905,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "TUSK": {
   "score": 35,
@@ -2405,7 +2307,7 @@
   "rec_clave": "none",
   "market_cap": 153045728,
   "primera": 1793453896.799756,
-  "ultima": 1793545502.0722666
+  "ultima": 1793576037.7752762
  },
  "COLM": {
   "score": 38,
@@ -2419,7 +2321,7 @@
   "rec_clave": "hold",
   "market_cap": 3457588224,
   "primera": 1793471541.0632231,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "NPKI": {
   "score": 37,
@@ -2433,7 +2335,7 @@
   "rec_clave": "none",
   "market_cap": 784681216,
   "primera": 1793496242.0566359,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  },
  "FLNC": {
   "score": 38,
@@ -2447,6 +2349,6 @@
   "rec_clave": "hold",
   "market_cap": 1113471104,
   "primera": 1793519645.5538816,
-  "ultima": 1793561904.5662951
+  "ultima": 1793576037.7752762
  }
 }
