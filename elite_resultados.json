@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.55T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1793827135.889296
+  "ultima_confirmacion": 1793842828.5229347
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.01T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1793827135.889296
+  "ultima_confirmacion": 1793842828.5229347
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $25.66B"
   ],
   "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1793827135.889296
+  "ultima_confirmacion": 1793842828.5229347
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $121.22B"
   ],
   "primera": 1791255434.9952695,
-  "ultima_confirmacion": 1793827135.889296
+  "ultima_confirmacion": 1793842828.5229347
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $899.74B"
   ],
   "primera": 1791390411.4288633,
-  "ultima_confirmacion": 1793827135.889296
+  "ultima_confirmacion": 1793842828.5229347
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -129,7 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.05T"
   ],
   "primera": 1791494298.9634464,
-  "ultima_confirmacion": 1793827135.889296
+  "ultima_confirmacion": 1793842828.5229347
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -151,7 +151,7 @@
    "\u2705 Market cap > $2.00B \u2014 $277.10B"
   ],
   "primera": 1791827562.4437606,
-  "ultima_confirmacion": 1793827135.889296
+  "ultima_confirmacion": 1793842828.5229347
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -175,28 +175,6 @@
   "primera": 1793378490.9330711,
   "ultima_confirmacion": 1793827135.889296
  },
- "TER": {
-  "nombre": "Teradyne, Inc.",
-  "sector": "Technology",
-  "industria": "Semiconductor Equipment & Materials",
-  "precio": 261.01,
-  "market_cap": 40750125056,
-  "score": 100,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 69.8%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 24.6%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 189.3%",
-   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 59.3%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 30.9%, fiscal 19.6% \u2192 21.6%",
-   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $450.4M",
-   "\u2705 PEG < 1.5 \u2014 0.81",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 62.7% (15 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $40.75B"
-  ],
-  "primera": 1793378490.9330711,
-  "ultima_confirmacion": 1793662141.8748786
- },
  "KLAC": {
   "nombre": "KLA Corporation",
   "sector": "Technology",
@@ -217,7 +195,7 @@
    "\u2705 Market cap > $2.00B \u2014 $195.17B"
   ],
   "primera": 1793408345.3101916,
-  "ultima_confirmacion": 1793827135.889296
+  "ultima_confirmacion": 1793842828.5229347
  },
  "RDDT": {
   "nombre": "Reddit, Inc.",
@@ -239,7 +217,7 @@
    "\u2705 Market cap > $2.00B \u2014 $19.67B"
   ],
   "primera": 1793599108.9289012,
-  "ultima_confirmacion": 1793827135.889296
+  "ultima_confirmacion": 1793842828.5229347
  },
  "MRVL": {
   "nombre": "Marvell Technology, Inc.",
@@ -284,5 +262,27 @@
   ],
   "primera": 1793773342.4409337,
   "ultima_confirmacion": 1793827135.889296
+ },
+ "STX": {
+  "nombre": "Seagate Technology Holdings PLC",
+  "sector": "Technology",
+  "industria": "Computer Hardware",
+  "precio": 557.06,
+  "market_cap": 127879307264,
+  "score": 100,
+  "criterios": [
+   "\u2705 Ingresos YoY > 25.0% \u2014 61.0%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 39.8%",
+   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 212.3%",
+   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 50.4%",
+   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 48.9%, fiscal 21.1% \u2192 34.7%",
+   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $3.10B",
+   "\u2705 PEG < 1.5 \u2014 0.13",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 87.6% (24 analistas)",
+   "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
+   "\u2705 Market cap > $2.00B \u2014 $127.88B"
+  ],
+  "primera": 1793842828.5229347,
+  "ultima_confirmacion": 1793842828.5229347
  }
 }
