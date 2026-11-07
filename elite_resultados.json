@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.40T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1794012900.701958
+  "ultima_confirmacion": 1794035233.0854688
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -41,29 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $897.97B"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1794012900.701958
- },
- "CRDO": {
-  "nombre": "Credo Technology Group Holding ",
-  "sector": "Technology",
-  "industria": "Semiconductors",
-  "precio": 136.5,
-  "market_cap": 25655437312,
-  "score": 100,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 114.7%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 55.0%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 97.1%",
-   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 67.1%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 25.2%, fiscal 8.5% \u2192 33.3%",
-   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $407.0M",
-   "\u2705 PEG < 1.5 \u2014 0.26",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 108.1% (19 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $25.66B"
-  ],
-  "primera": 1787147768.1848433,
-  "ultima_confirmacion": 1793842828.5229347
+  "ultima_confirmacion": 1794035233.0854688
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -85,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $98.74B"
   ],
   "primera": 1791255434.9952695,
-  "ultima_confirmacion": 1794012900.701958
+  "ultima_confirmacion": 1794035233.0854688
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -107,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $780.68B"
   ],
   "primera": 1791390411.4288633,
-  "ultima_confirmacion": 1794012900.701958
+  "ultima_confirmacion": 1794035233.0854688
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -129,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.95T"
   ],
   "primera": 1791494298.9634464,
-  "ultima_confirmacion": 1794012900.701958
+  "ultima_confirmacion": 1794035233.0854688
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -151,7 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $250.84B"
   ],
   "primera": 1791827562.4437606,
-  "ultima_confirmacion": 1794012900.701958
+  "ultima_confirmacion": 1794035233.0854688
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -173,7 +151,7 @@
    "\u2705 Market cap > $2.00B \u2014 $736.46B"
   ],
   "primera": 1793378490.9330711,
-  "ultima_confirmacion": 1794012900.701958
+  "ultima_confirmacion": 1794035233.0854688
  },
  "KLAC": {
   "nombre": "KLA Corporation",
@@ -195,7 +173,7 @@
    "\u2705 Market cap > $2.00B \u2014 $180.45B"
   ],
   "primera": 1793408345.3101916,
-  "ultima_confirmacion": 1794012900.701958
+  "ultima_confirmacion": 1794035233.0854688
  },
  "RDDT": {
   "nombre": "Reddit, Inc.",
@@ -321,13 +299,13 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 84.7%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 46.9%, fiscal 10.8% \u2192 31.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $2.10B",
-   "\u2705 PEG < 1.5 \u2014 1.39",
+   "\u2705 PEG < 1.5 \u2014 1.38",
    "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 35.9% (28 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
    "\u2705 Market cap > $2.00B \u2014 $386.44B"
   ],
   "primera": 1793900118.6344612,
-  "ultima_confirmacion": 1794012900.701958
+  "ultima_confirmacion": 1794035233.0854688
  },
  "ADI": {
   "nombre": "Analog Devices, Inc.",
@@ -387,13 +365,13 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 62.9%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 44.9%, fiscal 42.0% \u2192 42.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $4.25B",
-   "\u2705 PEG < 1.5 \u2014 0.95",
+   "\u2705 PEG < 1.5 \u2014 0.93",
    "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 44.9% (28 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
    "\u2705 Market cap > $2.00B \u2014 $215.79B"
   ],
   "primera": 1793947167.0598164,
-  "ultima_confirmacion": 1794012900.701958
+  "ultima_confirmacion": 1794035233.0854688
  },
  "MCHP": {
   "nombre": "Microchip Technology Incorporat",
@@ -415,7 +393,7 @@
    "\u2705 Market cap > $2.00B \u2014 $31.68B"
   ],
   "primera": 1793998358.4934692,
-  "ultima_confirmacion": 1794012900.701958
+  "ultima_confirmacion": 1794035233.0854688
  },
  "SITM": {
   "nombre": "SiTime Corporation",
@@ -437,6 +415,6 @@
    "\u2705 Market cap > $2.00B \u2014 $12.49B"
   ],
   "primera": 1793998358.4934692,
-  "ultima_confirmacion": 1794012900.701958
+  "ultima_confirmacion": 1794035233.0854688
  }
 }
