@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.40T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1794035233.0854688
+  "ultima_confirmacion": 1794059953.476083
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -30,7 +30,7 @@
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 327.9%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 58.8%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 60.0%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 205.1%",
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 77.4%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 79.7%, fiscal 35.5% \u2192 48.6%",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $897.97B"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1794035233.0854688
+  "ultima_confirmacion": 1794059953.476083
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $98.74B"
   ],
   "primera": 1791255434.9952695,
-  "ultima_confirmacion": 1794035233.0854688
+  "ultima_confirmacion": 1794059953.476083
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -74,7 +74,7 @@
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 379.3%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 16.2%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 16.0%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 1059.5%",
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 80.7%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 80.7%, fiscal 26.1% \u2192 74.6%",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $780.68B"
   ],
   "primera": 1791390411.4288633,
-  "ultima_confirmacion": 1794035233.0854688
+  "ultima_confirmacion": 1794059953.476083
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.95T"
   ],
   "primera": 1791494298.9634464,
-  "ultima_confirmacion": 1794035233.0854688
+  "ultima_confirmacion": 1794059953.476083
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -129,7 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $250.84B"
   ],
   "primera": 1791827562.4437606,
-  "ultima_confirmacion": 1794035233.0854688
+  "ultima_confirmacion": 1794059953.476083
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -140,18 +140,18 @@
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 44.7%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 79.4%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 108.0%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 83.2%",
+   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 118.2%",
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 56.0%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 21.2%, fiscal 8.1% \u2192 10.7%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $6.74B",
-   "\u2705 PEG < 1.5 \u2014 0.24",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 44.8% (48 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.22",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 46.1% (48 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
    "\u2705 Market cap > $2.00B \u2014 $736.46B"
   ],
   "primera": 1793378490.9330711,
-  "ultima_confirmacion": 1794035233.0854688
+  "ultima_confirmacion": 1794059953.476083
  },
  "KLAC": {
   "nombre": "KLA Corporation",
@@ -173,7 +173,7 @@
    "\u2705 Market cap > $2.00B \u2014 $180.45B"
   ],
   "primera": 1793408345.3101916,
-  "ultima_confirmacion": 1794035233.0854688
+  "ultima_confirmacion": 1794059953.476083
  },
  "RDDT": {
   "nombre": "Reddit, Inc.",
@@ -291,21 +291,21 @@
   "industria": "Software - Infrastructure",
   "precio": 160.38,
   "market_cap": 386435252224,
-  "score": 97,
+  "score": 99,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 95.9%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 52.5%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 53.3%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 144.4%",
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 84.7%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 46.9%, fiscal 10.8% \u2192 31.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $2.10B",
-   "\u2705 PEG < 1.5 \u2014 1.38",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 35.9% (28 analistas)",
+   "\u2705 PEG < 1.5 \u2014 1.29",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 38.6% (28 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
    "\u2705 Market cap > $2.00B \u2014 $386.44B"
   ],
   "primera": 1793900118.6344612,
-  "ultima_confirmacion": 1794035233.0854688
+  "ultima_confirmacion": 1794059953.476083
  },
  "ADI": {
   "nombre": "Analog Devices, Inc.",
@@ -360,40 +360,40 @@
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 58.5%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 42.3%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 39.7%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 82.1%",
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 62.9%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 44.9%, fiscal 42.0% \u2192 42.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $4.25B",
-   "\u2705 PEG < 1.5 \u2014 0.93",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 44.9% (28 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.78",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 46.4% (28 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
    "\u2705 Market cap > $2.00B \u2014 $215.79B"
   ],
   "primera": 1793947167.0598164,
-  "ultima_confirmacion": 1794035233.0854688
+  "ultima_confirmacion": 1794059953.476083
  },
  "MCHP": {
   "nombre": "Microchip Technology Incorporat",
   "sector": "Technology",
   "industria": "Semiconductors",
   "precio": 58.35,
-  "market_cap": 31684556800,
+  "market_cap": 31755446272,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 42.2%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 16.3%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 15.6%",
    "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 2541.8%",
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 62.7%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 29.1%, fiscal 8.5% \u2192 11.2%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $871.0M",
-   "\u2705 PEG < 1.5 \u2014 0.50",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 81.5% (25 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $31.68B"
+   "\u2705 PEG < 1.5 \u2014 0.54",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 59.9% (24 analistas)",
+   "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
+   "\u2705 Market cap > $2.00B \u2014 $31.76B"
   ],
   "primera": 1793998358.4934692,
-  "ultima_confirmacion": 1794035233.0854688
+  "ultima_confirmacion": 1794059953.476083
  },
  "SITM": {
   "nombre": "SiTime Corporation",
