@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.40T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1794059953.476083
+  "ultima_confirmacion": 1794077149.5502276
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $897.97B"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1794059953.476083
+  "ultima_confirmacion": 1794077149.5502276
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $98.74B"
   ],
   "primera": 1791255434.9952695,
-  "ultima_confirmacion": 1794059953.476083
+  "ultima_confirmacion": 1794077149.5502276
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $780.68B"
   ],
   "primera": 1791390411.4288633,
-  "ultima_confirmacion": 1794059953.476083
+  "ultima_confirmacion": 1794077149.5502276
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.95T"
   ],
   "primera": 1791494298.9634464,
-  "ultima_confirmacion": 1794059953.476083
+  "ultima_confirmacion": 1794077149.5502276
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -129,7 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $250.84B"
   ],
   "primera": 1791827562.4437606,
-  "ultima_confirmacion": 1794059953.476083
+  "ultima_confirmacion": 1794077149.5502276
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -151,7 +151,7 @@
    "\u2705 Market cap > $2.00B \u2014 $736.46B"
   ],
   "primera": 1793378490.9330711,
-  "ultima_confirmacion": 1794059953.476083
+  "ultima_confirmacion": 1794077149.5502276
  },
  "KLAC": {
   "nombre": "KLA Corporation",
@@ -173,7 +173,7 @@
    "\u2705 Market cap > $2.00B \u2014 $180.45B"
   ],
   "primera": 1793408345.3101916,
-  "ultima_confirmacion": 1794059953.476083
+  "ultima_confirmacion": 1794077149.5502276
  },
  "RDDT": {
   "nombre": "Reddit, Inc.",
@@ -305,15 +305,15 @@
    "\u2705 Market cap > $2.00B \u2014 $386.44B"
   ],
   "primera": 1793900118.6344612,
-  "ultima_confirmacion": 1794059953.476083
+  "ultima_confirmacion": 1794077149.5502276
  },
  "ADI": {
   "nombre": "Analog Devices, Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 361.01,
-  "market_cap": 174932983808,
-  "score": 94,
+  "precio": 363.56,
+  "market_cap": 176168615936,
+  "score": 93,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 39.6%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 21.6%",
@@ -322,12 +322,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 39.5%, fiscal 22.0% \u2192 27.2%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $4.28B",
    "\u2705 PEG < 1.5 \u2014 0.78",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 30.9% (32 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 29.9% (32 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $174.93B"
+   "\u2705 Market cap > $2.00B \u2014 $176.17B"
   ],
   "primera": 1793900118.6344612,
-  "ultima_confirmacion": 1793921842.4019425
+  "ultima_confirmacion": 1794077149.5502276
  },
  "TXN": {
   "nombre": "Texas Instruments Incorporated",
@@ -371,7 +371,7 @@
    "\u2705 Market cap > $2.00B \u2014 $215.79B"
   ],
   "primera": 1793947167.0598164,
-  "ultima_confirmacion": 1794059953.476083
+  "ultima_confirmacion": 1794077149.5502276
  },
  "MCHP": {
   "nombre": "Microchip Technology Incorporat",
@@ -393,7 +393,7 @@
    "\u2705 Market cap > $2.00B \u2014 $31.76B"
   ],
   "primera": 1793998358.4934692,
-  "ultima_confirmacion": 1794059953.476083
+  "ultima_confirmacion": 1794077149.5502276
  },
  "SITM": {
   "nombre": "SiTime Corporation",
