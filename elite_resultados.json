@@ -3,8 +3,8 @@
   "nombre": "Broadcom Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 355.48,
-  "market_cap": 1696930070528,
+  "precio": 345.22,
+  "market_cap": 1647952527360,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 85.5%",
@@ -14,19 +14,19 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 48.8%, fiscal 29.1% \u2192 40.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $26.91B",
    "\u2705 PEG < 1.5 \u2014 0.27",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 50.1% (47 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 54.5% (47 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.70T"
+   "\u2705 Market cap > $2.00B \u2014 $1.65T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1794417718.9762893
+  "ultima_confirmacion": 1794440233.2217019
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 145.03,
-  "market_cap": 1022712807424,
+  "precio": 142.25,
+  "market_cap": 1003109023744,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 327.9%",
@@ -36,19 +36,19 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 74.5%, fiscal 35.5% \u2192 48.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $24.79T",
    "\u2705 PEG < 1.5 \u2014 0.06",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 79.7% (14 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 83.2% (14 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $1.02T"
+   "\u2705 Market cap > $2.00B \u2014 $1.00T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1794417718.9762893
+  "ultima_confirmacion": 1794440233.2217019
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
   "sector": "Technology",
   "industria": "Computer Hardware",
-  "precio": 317.655,
-  "market_cap": 118905659392,
+  "precio": 313.31,
+  "market_cap": 117279219712,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 55.5%",
@@ -58,19 +58,19 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 40.9%, fiscal 22.4% \u2192 35.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $3.51B",
    "\u2705 PEG < 1.5 \u2014 0.12",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 93.1% (24 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 95.8% (24 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $118.91B"
+   "\u2705 Market cap > $2.00B \u2014 $117.28B"
   ],
   "primera": 1791255434.9952695,
-  "ultima_confirmacion": 1794417718.9762893
+  "ultima_confirmacion": 1794440233.2217019
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 823.67,
-  "market_cap": 931919364096,
+  "precio": 811.3,
+  "market_cap": 917923627008,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 379.3%",
@@ -80,19 +80,19 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 74.6%, fiscal 26.1% \u2192 74.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $58.96B",
    "\u2705 PEG < 1.5 \u2014 0.22",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 89.6% (45 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 92.5% (45 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $931.92B"
+   "\u2705 Market cap > $2.00B \u2014 $917.92B"
   ],
   "primera": 1791390411.4288633,
-  "ultima_confirmacion": 1794417718.9762893
+  "ultima_confirmacion": 1794440233.2217019
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 415.72,
-  "market_cap": 2156120506368,
+  "precio": 413.35,
+  "market_cap": 2143828574208,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 50.9%",
@@ -102,12 +102,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 58.0%, fiscal 45.7% \u2192 50.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $992.38B",
    "\u2705 PEG < 1.5 \u2014 0.53",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 41.1% (20 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 41.9% (20 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $2.16T"
+   "\u2705 Market cap > $2.00B \u2014 $2.14T"
   ],
   "primera": 1791494298.9634464,
-  "ultima_confirmacion": 1794417718.9762893
+  "ultima_confirmacion": 1794440233.2217019
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -157,9 +157,9 @@
   "nombre": "KLA Corporation",
   "sector": "Technology",
   "industria": "Semiconductor Equipment & Materials",
-  "precio": 163.555,
-  "market_cap": 213106016256,
-  "score": 86,
+  "precio": 161.01,
+  "market_cap": 209789976576,
+  "score": 87,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 28.9%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 19.5%",
@@ -167,20 +167,20 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 61.5%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 42.6%, fiscal 41.2% \u2192 41.7%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $3.77B",
-   "\u2705 PEG < 1.5 \u2014 1.00",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 34.3% (26 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.98",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 36.4% (26 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $213.11B"
+   "\u2705 Market cap > $2.00B \u2014 $209.79B"
   ],
   "primera": 1793408345.3101916,
-  "ultima_confirmacion": 1794417718.9762893
+  "ultima_confirmacion": 1794440233.2217019
  },
  "PLTR": {
   "nombre": "Palantir Technologies Inc.",
   "sector": "Technology",
   "industria": "Software - Infrastructure",
-  "precio": 173.2,
-  "market_cap": 417324990464,
+  "precio": 172.4,
+  "market_cap": 415397380096,
   "score": 93,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 95.9%",
@@ -189,21 +189,21 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 84.7%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 45.6%, fiscal 10.8% \u2192 31.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $2.10B",
-   "\u2705 PEG < 1.5 \u2014 1.39",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 28.3% (28 analistas)",
+   "\u2705 PEG < 1.5 \u2014 1.38",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 28.9% (28 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
-   "\u2705 Market cap > $2.00B \u2014 $417.32B"
+   "\u2705 Market cap > $2.00B \u2014 $415.40B"
   ],
   "primera": 1793900118.6344612,
-  "ultima_confirmacion": 1794417718.9762893
+  "ultima_confirmacion": 1794440233.2217019
  },
  "ANET": {
   "nombre": "Arista Networks, Inc.",
   "sector": "Technology",
   "industria": "Computer Hardware",
-  "precio": 197.905,
-  "market_cap": 250033651712,
-  "score": 91,
+  "precio": 196.68,
+  "market_cap": 248485969920,
+  "score": 92,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 58.5%",
    "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 40.1%",
@@ -212,12 +212,12 @@
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 43.8%, fiscal 42.0% \u2192 42.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $4.25B",
    "\u2705 PEG < 1.5 \u2014 0.86",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 26.1% (29 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 26.9% (29 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $250.03B"
+   "\u2705 Market cap > $2.00B \u2014 $248.49B"
   ],
   "primera": 1793947167.0598164,
-  "ultima_confirmacion": 1794417718.9762893
+  "ultima_confirmacion": 1794440233.2217019
  },
  "MPWR": {
   "nombre": "Monolithic Power Systems, Inc.",
@@ -289,8 +289,8 @@
   "nombre": "Marvell Technology, Inc.",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 173.79,
-  "market_cap": 156370305024,
+  "precio": 168.8,
+  "market_cap": 151880482816,
   "score": 97,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 36.5%",
@@ -299,12 +299,34 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 52.2%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 16.8%, fiscal -6.4% \u2192 16.3%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $1.39B",
-   "\u2705 PEG < 1.5 \u2014 0.32",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 78.9% (40 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.31",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 84.2% (40 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $156.37B"
+   "\u2705 Market cap > $2.00B \u2014 $151.88B"
   ],
   "primera": 1794417718.9762893,
-  "ultima_confirmacion": 1794417718.9762893
+  "ultima_confirmacion": 1794440233.2217019
+ },
+ "SNDK": {
+  "nombre": "Sandisk Corporation",
+  "sector": "Technology",
+  "industria": "Computer Hardware",
+  "precio": 977.69,
+  "market_cap": 139114889216,
+  "score": 100,
+  "criterios": [
+   "\u2705 Ingresos YoY > 25.0% \u2014 377.9%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 23.7%",
+   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 6913.3%",
+   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 80.0%",
+   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 72.7%, fiscal 6.9% \u2192 61.6%",
+   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $11.49B",
+   "\u2705 PEG < 1.5 \u2014 0.12",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 109.4% (24 analistas)",
+   "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
+   "\u2705 Market cap > $2.00B \u2014 $139.11B"
+  ],
+  "primera": 1794440233.2217019,
+  "ultima_confirmacion": 1794440233.2217019
  }
 }
