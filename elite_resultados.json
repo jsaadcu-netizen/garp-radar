@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.65T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1794440233.2217019
+  "ultima_confirmacion": 1794467221.295121
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.00T"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1794440233.2217019
+  "ultima_confirmacion": 1794467221.295121
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $117.28B"
   ],
   "primera": 1791255434.9952695,
-  "ultima_confirmacion": 1794440233.2217019
+  "ultima_confirmacion": 1794467221.295121
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $917.92B"
   ],
   "primera": 1791390411.4288633,
-  "ultima_confirmacion": 1794440233.2217019
+  "ultima_confirmacion": 1794467221.295121
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.14T"
   ],
   "primera": 1791494298.9634464,
-  "ultima_confirmacion": 1794440233.2217019
+  "ultima_confirmacion": 1794467221.295121
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -173,7 +173,7 @@
    "\u2705 Market cap > $2.00B \u2014 $209.79B"
   ],
   "primera": 1793408345.3101916,
-  "ultima_confirmacion": 1794440233.2217019
+  "ultima_confirmacion": 1794467221.295121
  },
  "PLTR": {
   "nombre": "Palantir Technologies Inc.",
@@ -195,7 +195,7 @@
    "\u2705 Market cap > $2.00B \u2014 $415.40B"
   ],
   "primera": 1793900118.6344612,
-  "ultima_confirmacion": 1794440233.2217019
+  "ultima_confirmacion": 1794467221.295121
  },
  "ANET": {
   "nombre": "Arista Networks, Inc.",
@@ -217,7 +217,7 @@
    "\u2705 Market cap > $2.00B \u2014 $248.49B"
   ],
   "primera": 1793947167.0598164,
-  "ultima_confirmacion": 1794440233.2217019
+  "ultima_confirmacion": 1794467221.295121
  },
  "MPWR": {
   "nombre": "Monolithic Power Systems, Inc.",
@@ -245,8 +245,8 @@
   "nombre": "Credo Technology Group Holding ",
   "sector": "Technology",
   "industria": "Semiconductors",
-  "precio": 147.47,
-  "market_cap": 27717269504,
+  "precio": 141.41,
+  "market_cap": 26578282496,
   "score": 100,
   "criterios": [
    "\u2705 Ingresos YoY > 25.0% \u2014 114.7%",
@@ -255,13 +255,13 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 67.1%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 31.7%, fiscal 8.5% \u2192 33.3%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $407.0M",
-   "\u2705 PEG < 1.5 \u2014 0.28",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 92.6% (19 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.27",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 100.9% (19 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $27.72B"
+   "\u2705 Market cap > $2.00B \u2014 $26.58B"
   ],
   "primera": 1794299032.9482257,
-  "ultima_confirmacion": 1794417718.9762893
+  "ultima_confirmacion": 1794467221.295121
  },
  "ALAB": {
   "nombre": "Astera Labs, Inc.",
@@ -327,6 +327,28 @@
    "\u2705 Market cap > $2.00B \u2014 $139.11B"
   ],
   "primera": 1794440233.2217019,
-  "ultima_confirmacion": 1794440233.2217019
+  "ultima_confirmacion": 1794467221.295121
+ },
+ "FORM": {
+  "nombre": "FormFactor, Inc.",
+  "sector": "Technology",
+  "industria": "Semiconductor Equipment & Materials",
+  "precio": 95.78,
+  "market_cap": 7493381120,
+  "score": 99,
+  "criterios": [
+   "\u2705 Ingresos YoY > 25.0% \u2014 38.4%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 24.7%",
+   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 365.0%",
+   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 50.2%",
+   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 22.0%, fiscal 5.8% \u2192 7.7%",
+   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $11.7M",
+   "\u2705 PEG < 1.5 \u2014 0.83",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 53.7% (10 analistas)",
+   "\u2705 Consenso Buy/Strong Buy \u2014 buy",
+   "\u2705 Market cap > $2.00B \u2014 $7.49B"
+  ],
+  "primera": 1794467221.295121,
+  "ultima_confirmacion": 1794467221.295121
  }
 }
