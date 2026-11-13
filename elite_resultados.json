@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.74T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1794538100.7440302
+  "ultima_confirmacion": 1794567347.590407
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $971.09B"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1794538100.7440302
+  "ultima_confirmacion": 1794567347.590407
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -63,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $116.49B"
   ],
   "primera": 1791255434.9952695,
-  "ultima_confirmacion": 1794538100.7440302
+  "ultima_confirmacion": 1794567347.590407
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $903.37B"
   ],
   "primera": 1791390411.4288633,
-  "ultima_confirmacion": 1794538100.7440302
+  "ultima_confirmacion": 1794567347.590407
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $2.10T"
   ],
   "primera": 1791494298.9634464,
-  "ultima_confirmacion": 1794538100.7440302
+  "ultima_confirmacion": 1794567347.590407
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -129,29 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $292.03B"
   ],
   "primera": 1791827562.4437606,
-  "ultima_confirmacion": 1794538100.7440302
- },
- "AMD": {
-  "nombre": "Advanced Micro Devices, Inc.",
-  "sector": "Technology",
-  "industria": "Semiconductors",
-  "precio": 515.21,
-  "market_cap": 844989399040,
-  "score": 92,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 44.7%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 83.5%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 118.8%",
-   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 56.0%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 21.2%, fiscal 8.1% \u2192 10.7%",
-   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $6.74B",
-   "\u2705 PEG < 1.5 \u2014 0.25",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 27.6% (48 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $844.99B"
-  ],
-  "primera": 1793378490.9330711,
-  "ultima_confirmacion": 1794388861.0881681
+  "ultima_confirmacion": 1794567347.590407
  },
  "KLAC": {
   "nombre": "KLA Corporation",
@@ -173,7 +151,7 @@
    "\u2705 Market cap > $2.00B \u2014 $204.96B"
   ],
   "primera": 1793408345.3101916,
-  "ultima_confirmacion": 1794538100.7440302
+  "ultima_confirmacion": 1794567347.590407
  },
  "PLTR": {
   "nombre": "Palantir Technologies Inc.",
@@ -195,7 +173,7 @@
    "\u2705 Market cap > $2.00B \u2014 $413.42B"
   ],
   "primera": 1793900118.6344612,
-  "ultima_confirmacion": 1794538100.7440302
+  "ultima_confirmacion": 1794567347.590407
  },
  "ANET": {
   "nombre": "Arista Networks, Inc.",
@@ -217,7 +195,7 @@
    "\u2705 Market cap > $2.00B \u2014 $261.06B"
   ],
   "primera": 1793947167.0598164,
-  "ultima_confirmacion": 1794538100.7440302
+  "ultima_confirmacion": 1794567347.590407
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
@@ -239,7 +217,7 @@
    "\u2705 Market cap > $2.00B \u2014 $26.28B"
   ],
   "primera": 1794299032.9482257,
-  "ultima_confirmacion": 1794538100.7440302
+  "ultima_confirmacion": 1794567347.590407
  },
  "MRVL": {
   "nombre": "Marvell Technology, Inc.",
@@ -313,20 +291,20 @@
   "industria": "Capital Markets",
   "precio": 25.67,
   "market_cap": 5759779840,
-  "score": 100,
+  "score": 79,
   "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 120.8%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 36.0%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 337.5%",
+   "\u2705 Ingresos YoY > 25.0% \u2014 84.3%",
+   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 31.8%",
+   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 28.9%",
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 100.0%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 28.1%, fiscal 21.8% \u2192 33.6%",
+   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 30.8%, fiscal 21.8% \u2192 33.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $41.9M",
    "\u2705 PEG < 1.5 \u2014 0.45",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 85.4% (10 analistas)",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 85.8% (10 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
    "\u2705 Market cap > $2.00B \u2014 $5.76B"
   ],
   "primera": 1794538100.7440302,
-  "ultima_confirmacion": 1794538100.7440302
+  "ultima_confirmacion": 1794567347.590407
  }
 }
