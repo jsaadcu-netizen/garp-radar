@@ -19,7 +19,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.63T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1794952300.2912657
+  "ultima_confirmacion": 1794973338.7227793
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -41,7 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $864.61B"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1794952300.2912657
+  "ultima_confirmacion": 1794973338.7227793
  },
  "WDC": {
   "nombre": "Western Digital Corporation",
@@ -85,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $806.05B"
   ],
   "primera": 1791390411.4288633,
-  "ultima_confirmacion": 1794952300.2912657
+  "ultima_confirmacion": 1794973338.7227793
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -107,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.87T"
   ],
   "primera": 1791494298.9634464,
-  "ultima_confirmacion": 1794952300.2912657
+  "ultima_confirmacion": 1794973338.7227793
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -129,7 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $263.19B"
   ],
   "primera": 1791827562.4437606,
-  "ultima_confirmacion": 1794952300.2912657
+  "ultima_confirmacion": 1794973338.7227793
  },
  "KLAC": {
   "nombre": "KLA Corporation",
@@ -151,7 +151,7 @@
    "\u2705 Market cap > $2.00B \u2014 $188.36B"
   ],
   "primera": 1793408345.3101916,
-  "ultima_confirmacion": 1794952300.2912657
+  "ultima_confirmacion": 1794973338.7227793
  },
  "PLTR": {
   "nombre": "Palantir Technologies Inc.",
@@ -167,13 +167,13 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 84.7%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 45.6%, fiscal 10.8% \u2192 31.6%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $2.10B",
-   "\u2705 PEG < 1.5 \u2014 1.26",
+   "\u2705 PEG < 1.5 \u2014 1.25",
    "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 42.4% (29 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 buy",
    "\u2705 Market cap > $2.00B \u2014 $377.23B"
   ],
   "primera": 1793900118.6344612,
-  "ultima_confirmacion": 1794952300.2912657
+  "ultima_confirmacion": 1794973338.7227793
  },
  "ANET": {
   "nombre": "Arista Networks, Inc.",
@@ -195,29 +195,7 @@
    "\u2705 Market cap > $2.00B \u2014 $235.52B"
   ],
   "primera": 1793947167.0598164,
-  "ultima_confirmacion": 1794952300.2912657
- },
- "CRDO": {
-  "nombre": "Credo Technology Group Holding ",
-  "sector": "Technology",
-  "industria": "Semiconductors",
-  "precio": 131.51,
-  "market_cap": 24717555712,
-  "score": 100,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 114.7%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 55.0%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 97.1%",
-   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 67.1%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 31.7%, fiscal 8.5% \u2192 33.3%",
-   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $407.0M",
-   "\u2705 PEG < 1.5 \u2014 0.25",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 116.0% (19 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $24.72B"
-  ],
-  "primera": 1794299032.9482257,
-  "ultima_confirmacion": 1794796990.3564334
+  "ultima_confirmacion": 1794973338.7227793
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -239,7 +217,7 @@
    "\u2705 Market cap > $2.00B \u2014 $833.18B"
   ],
   "primera": 1794594608.9328086,
-  "ultima_confirmacion": 1794952300.2912657
+  "ultima_confirmacion": 1794973338.7227793
  },
  "AFRM": {
   "nombre": "Affirm Holdings, Inc.",
