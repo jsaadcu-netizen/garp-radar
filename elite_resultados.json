@@ -13,13 +13,13 @@
    "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 75.5%",
    "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 48.8%, fiscal 29.1% \u2192 40.8%",
    "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $26.91B",
-   "\u2705 PEG < 1.5 \u2014 0.27",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 49.2% (47 analistas)",
+   "\u2705 PEG < 1.5 \u2014 0.28",
+   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 48.7% (47 analistas)",
    "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
    "\u2705 Market cap > $2.00B \u2014 $1.69T"
   ],
   "primera": 1781279440.6840675,
-  "ultima_confirmacion": 1795056218.725035
+  "ultima_confirmacion": 1795088114.0362177
  },
  "SKHY": {
   "nombre": "SK hynix Inc.",
@@ -41,29 +41,7 @@
    "\u2705 Market cap > $2.00B \u2014 $863.63B"
   ],
   "primera": 1785469701.1050198,
-  "ultima_confirmacion": 1795056218.725035
- },
- "WDC": {
-  "nombre": "Western Digital Corporation",
-  "sector": "Technology",
-  "industria": "Computer Hardware",
-  "precio": 280.93,
-  "market_cap": 105158631424,
-  "score": 100,
-  "criterios": [
-   "\u2705 Ingresos YoY > 25.0% \u2014 55.5%",
-   "\u2705 Ingresos proyectados +1y > 15.0% (durabilidad) \u2014 40.5%",
-   "\u2705 Crecimiento EPS/utilidades > 20.0% \u2014 63.4%",
-   "\u2705 Margen bruto > 40.0% (escalabilidad) \u2014 52.6%",
-   "\u2705 Margen op. > 10.0% y en expansi\u00f3n \u2014 TTM 40.9%, fiscal 22.4% \u2192 35.6%",
-   "\u2705 Free Cash Flow positivo (autofinanciado) \u2014 $3.51B",
-   "\u2705 PEG < 1.5 \u2014 0.11",
-   "\u2705 Upside 12m > 20.0% con \u22655 analistas \u2014 118.3% (24 analistas)",
-   "\u2705 Consenso Buy/Strong Buy \u2014 strong_buy",
-   "\u2705 Market cap > $2.00B \u2014 $105.16B"
-  ],
-  "primera": 1791255434.9952695,
-  "ultima_confirmacion": 1794887436.4895346
+  "ultima_confirmacion": 1795088114.0362177
  },
  "MU": {
   "nombre": "Micron Technology, Inc.",
@@ -85,7 +63,7 @@
    "\u2705 Market cap > $2.00B \u2014 $797.96B"
   ],
   "primera": 1791390411.4288633,
-  "ultima_confirmacion": 1795056218.725035
+  "ultima_confirmacion": 1795088114.0362177
  },
  "TSM": {
   "nombre": "Taiwan Semiconductor Manufactur",
@@ -107,7 +85,7 @@
    "\u2705 Market cap > $2.00B \u2014 $1.88T"
   ],
   "primera": 1791494298.9634464,
-  "ultima_confirmacion": 1795056218.725035
+  "ultima_confirmacion": 1795088114.0362177
  },
  "LRCX": {
   "nombre": "Lam Research Corporation",
@@ -129,7 +107,7 @@
    "\u2705 Market cap > $2.00B \u2014 $264.41B"
   ],
   "primera": 1791827562.4437606,
-  "ultima_confirmacion": 1795056218.725035
+  "ultima_confirmacion": 1795088114.0362177
  },
  "KLAC": {
   "nombre": "KLA Corporation",
@@ -151,7 +129,7 @@
    "\u2705 Market cap > $2.00B \u2014 $188.77B"
   ],
   "primera": 1793408345.3101916,
-  "ultima_confirmacion": 1795056218.725035
+  "ultima_confirmacion": 1795088114.0362177
  },
  "PLTR": {
   "nombre": "Palantir Technologies Inc.",
@@ -173,7 +151,7 @@
    "\u2705 Market cap > $2.00B \u2014 $377.50B"
   ],
   "primera": 1793900118.6344612,
-  "ultima_confirmacion": 1795056218.725035
+  "ultima_confirmacion": 1795088114.0362177
  },
  "ANET": {
   "nombre": "Arista Networks, Inc.",
@@ -195,7 +173,7 @@
    "\u2705 Market cap > $2.00B \u2014 $245.02B"
   ],
   "primera": 1793947167.0598164,
-  "ultima_confirmacion": 1795056218.725035
+  "ultima_confirmacion": 1795088114.0362177
  },
  "AMD": {
   "nombre": "Advanced Micro Devices, Inc.",
@@ -217,7 +195,7 @@
    "\u2705 Market cap > $2.00B \u2014 $877.42B"
   ],
   "primera": 1794594608.9328086,
-  "ultima_confirmacion": 1795056218.725035
+  "ultima_confirmacion": 1795088114.0362177
  },
  "CRDO": {
   "nombre": "Credo Technology Group Holding ",
