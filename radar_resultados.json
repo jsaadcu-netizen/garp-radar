@@ -769,20 +769,6 @@
   "primera": 1794637073.4207933,
   "ultima": 1795390513.4369206
  },
- "OPENL": {
-  "score": 10,
-  "nombre": "OPENL",
-  "sector": "",
-  "industria": "",
-  "precio": 0.0178,
-  "cambio_pct": -9.644672,
-  "crec_ingresos": 0.117,
-  "upside": null,
-  "rec_clave": "none",
-  "market_cap": null,
-  "primera": 1794862996.7397444,
-  "ultima": 1795141053.1276643
- },
  "XTND": {
   "score": 75,
   "nombre": "Xtend AI Robotics, Inc.",
@@ -923,20 +909,6 @@
   "primera": 1794952300.2912657,
   "ultima": 1795390513.4369206
  },
- "DLO": {
-  "score": 97,
-  "nombre": "DLocal Limited",
-  "sector": "Technology",
-  "industria": "Software - Infrastructure",
-  "precio": 12.67,
-  "cambio_pct": -1.70675,
-  "crec_ingresos": 0.409,
-  "upside": 0.45224940805051295,
-  "rec_clave": "strong_buy",
-  "market_cap": 3629574400,
-  "primera": 1794973338.7227793,
-  "ultima": 1795141053.1276643
- },
  "IQ": {
   "score": 40,
   "nombre": "iQIYI, Inc.",
@@ -1048,20 +1020,6 @@
   "market_cap": 241006919680,
   "primera": 1795056218.725035,
   "ultima": 1795390513.4369206
- },
- "UA": {
-  "score": 0,
-  "nombre": "Under Armour, Inc.",
-  "sector": "Consumer Cyclical",
-  "industria": "Apparel Manufacturing",
-  "precio": 4.31,
-  "cambio_pct": -6.91145,
-  "crec_ingresos": -0.069,
-  "upside": null,
-  "rec_clave": "none",
-  "market_cap": 1851341184,
-  "primera": 1795056218.725035,
-  "ultima": 1795141053.1276643
  },
  "PICS": {
   "score": 75,
@@ -1301,20 +1259,6 @@
   "primera": 1795120356.2258873,
   "ultima": 1795169920.46079
  },
- "ADRX": {
-  "score": 75,
-  "nombre": "ADARx Pharmaceuticals, Inc.",
-  "sector": "Healthcare",
-  "industria": "Biotechnology",
-  "precio": 14.16,
-  "cambio_pct": 10.4524,
-  "crec_ingresos": 2.587,
-  "upside": 1.3834745762711864,
-  "rec_clave": "strong_buy",
-  "market_cap": 1568061696,
-  "primera": 1795120356.2258873,
-  "ultima": 1795141053.1276643
- },
  "EVC": {
   "score": 35,
   "nombre": "Entravision Communications Corp",
@@ -1356,20 +1300,6 @@
   "market_cap": 198065840,
   "primera": 1795141053.1276643,
   "ultima": 1795169920.46079
- },
- "EVMN": {
-  "score": 40,
-  "nombre": "Evommune, Inc.",
-  "sector": "Healthcare",
-  "industria": "Biotechnology",
-  "precio": 7.24,
-  "cambio_pct": 5.23255,
-  "crec_ingresos": null,
-  "upside": 2.023327348066298,
-  "rec_clave": "buy",
-  "market_cap": 299372992,
-  "primera": 1795141053.1276643,
-  "ultima": 1795141053.1276643
  },
  "CANG": {
   "score": 25,
